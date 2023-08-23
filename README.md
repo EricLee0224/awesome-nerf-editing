@@ -45,6 +45,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to explore, contribute, and collaborate. Together, we can build a valuable resource for the 3D aware editing community!
-
-If you have any questions, want to collaborate, or need assistance, please don't hesitate to reach out liweize0224@gmail.com.
+Feel free to explore, contribute, and collaborate. Together, we can build a valuable resource for the 3D aware editing community! If you have any questions, want to collaborate, or need assistance, please don't hesitate to reach out liweize0224@gmail.com.
