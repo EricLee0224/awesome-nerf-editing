@@ -3,7 +3,7 @@ A curated collection of resources for 3D aware editing techniques in CV/CG, cove
 
 **Looking for Collaborators!**
 
-Welcome to Awesome 3D Aware Editing! This repository is dedicated to collecting and organizing resources related to 3D aware editing techniques, with a focus on shape, NeRF, and image modalities. Our goal is to create a valuable reference for researchers and enthusiasts interested in the intersection of Computer Vision and Computer Graphics, exploring and expanding their knowledge in this exciting domain.
+Welcome to Awesome-3D-Aware-Editing! This repository is dedicated to collecting and organizing resources related to 3D aware editing techniques, with a focus on shape, NeRF, and image modalities. Our goal is to create a valuable reference for researchers and enthusiasts interested in the intersection of Computer Vision and Computer Graphics, exploring and expanding their knowledge in this exciting domain.
 
 ## Resources [Stay Tuned☕]
 
