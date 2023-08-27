@@ -1,18 +1,31 @@
-# Awesome 3D Aware Editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated collection of resources for 3D aware editing techniques in CV/CG, covering shape, NeRF, and image modalities.
+# Awesome Neural Radience Field (NeRF) Editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated collection of resources for NeRF editing techniques.
 
 **Looking for Collaborators!**
 
-Welcome to Awesome-3D-Aware-Editing! This repository is dedicated to collecting and organizing resources related to 3D aware editing techniques, with a focus on shape, NeRF, and image modalities. Our goal is to create a valuable reference for researchers and enthusiasts interested in the intersection of Computer Vision and Computer Graphics, exploring and expanding their knowledge in this exciting domain.
-
 ## Resources [Stay Tuned☕]
 
-- [List of important papers]
+- [2023]
   - [Paper 1 title and link]
   - [Paper 2 title and link]
   - ...
 
-- [Relevant datasets]
+- [2022]
+  - [Paper 1 title and link]
+  - [Paper 2 title and link]
+  - ...
+
+- [2021]
+  - [Paper 1 title and link]
+  - [Paper 2 title and link]
+  - ...
+ 
+- [2020]
+  - [Paper 1 title and link]
+  - [Paper 2 title and link]
+  - ...
+
+- [datasets]
   - [Dataset 1 name and link]
   - [Dataset 2 name and link]
   - ...
@@ -20,11 +33,6 @@ Welcome to Awesome-3D-Aware-Editing! This repository is dedicated to collecting 
 - [Useful tools and software]
   - [Tool 1 name and link]
   - [Tool 2 name and link]
-  - ...
-
-- [Other valuable resources]
-  - [Resource 1 name and link]
-  - [Resource 2 name and link]
   - ...
 
 ## Contributing [Stay Tuned☕]
