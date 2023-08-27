@@ -6,8 +6,8 @@ A curated collection of resources for NeRF editing techniques.
 ## Resources [Stay Tuned☕]
 
 - [2023]
-  - [Paper 1 title and link]
-  - [Paper 2 title and link]
+  - Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
+  - Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views
   - ...
 
 - [2022]
