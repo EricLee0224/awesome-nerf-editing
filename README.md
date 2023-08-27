@@ -6,11 +6,11 @@ A curated collection of resources for NeRF editing techniques.
 ## Resources [Stay Tuned☕]
 
 - [2023]
-  - Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
-  - Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views
-  - Watch Your Steps: Local Image and Scene Editing by Text Instructions
-  - Focused Specific Objects NeRF
-  - Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis
+  - [ICCV2023]Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
+  - []Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views
+  - []Watch Your Steps: Local Image and Scene Editing by Text Instructions
+  - []Focused Specific Objects NeRF
+  - [ICCV2023]Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis
   - Context-Aware Talking-Head Video Editing
   - Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields
   - Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields
