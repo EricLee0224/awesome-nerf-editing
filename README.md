@@ -58,63 +58,63 @@ A curated collection of resources for NeRF editing techniques.
 
 
 - [2022]
-  - MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
-  - PaletteNeRF: Palette-based Color Editing for NeRFs
-  - Removing Objects From Neural Radiance Fields
-  - PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields
-  - Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion
-  - EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
-  - NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing
-  - SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields
-  - One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation
-  - ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field
-  - SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields
-  - ONeRF: Unsupervised 3D Object Segmentation from Multiple Views
-  - FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields
-  - NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields
-  - Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
-  - 3D GAN Inversion with Pose Optimization
-  - Controllable Radiance Fields for Dynamic Face Synthesis
-  - Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video
-  - Estimating Neural Reflectance Field from Radiance Field using Tree Structures
-  - IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis
-  - Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation
-  - Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects
-  - Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
-  - FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing
-  - Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
-  - PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo
-  - RigNeRF: Fully Controllable Neural 3D Portraits
-  - NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors
-  - ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D
-  - Decomposing NeRF for Editing via Feature Field Distillation
-  - NeRF-Editing: Geometry Editing of Neural Radiance Fields
-  - Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
-  - Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
-  - ERF: Explicit Radiance Field Reconstruction From Scratch
-  - NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing
+  - [Arxiv] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
+  - [Arxiv] PaletteNeRF: Palette-based Color Editing for NeRFs
+  - [Arxiv] Removing Objects From Neural Radiance Fields
+  - [Arxiv] PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields
+  - [Arxiv] Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion
+  - [Arxiv] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
+  - [Arxiv] NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing
+  - [Arxiv] SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields
+  - [AAAI'23] One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation
+  - [Arxiv] ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field
+  - [CVPR'23] SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields
+  - [Arxiv] ONeRF: Unsupervised 3D Object Segmentation from Multiple Views
+  - [Arxiv] FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields
+  - [Arxiv] NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields
+  - [Arxiv] Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
+  - [Arxiv] 3D GAN Inversion with Pose Optimization
+  - [Arxiv] Controllable Radiance Fields for Dynamic Face Synthesis
+  - [SIGGRAPH Asia'22] Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video
+  - [Arxiv] Estimating Neural Reflectance Field from Radiance Field using Tree Structures
+  - [Arxiv] IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis
+  - [Arxiv] Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation
+  - [PG'22 & CGF] Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects
+  - [3DV'22-Oral] Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
+  - [SIGGRAPH Asia'22] FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing
+  - [ECCV'22] Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
+  - [Arxiv] PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo
+  - [Arxiv] RigNeRF: Fully Controllable Neural 3D Portraits
+  - [Arxiv] NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors
+  - [Arxiv] ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D
+  - [NeurIPS'22] Decomposing NeRF for Editing via Feature Field Distillation
+  - [CVPR'22] NeRF-Editing: Geometry Editing of Neural Radiance Fields
+  - [Arxiv] Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
+  - [Arxiv] Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
+  - [Arxiv] ERF: Explicit Radiance Field Reconstruction From Scratch
+  - [Arxiv] NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing
 
 
 - [2021]
-  - NeRF for Outdoor Scene Relighting
-  - CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
-  - Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
-  - MoFaNeRF: Morphable Facial Neural Radiance Field
-  - NeRFReN: Neural Radiance Fields with Reflections
-  - FENeRF: Face Editing in Neural Radiance Fields
-  - DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering
-  - StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis
-  - Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
-  - CodeNeRF: Disentangled Neural Radiance Fields for Object Categories
-  - NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination
-  - Unsupervised Discovery of Object Radiance Fields
-  - Editing Conditional Radiance Fields
-  - Editable Free-viewpoint Video Using a Layered Neural Representation
+  - [ECCV'22] NeRF for Outdoor Scene Relighting
+  - [CVPR'22] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
+  - [Arxiv] Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
+  - [ECCV'22] MoFaNeRF: Morphable Facial Neural Radiance Field
+  - [CVPR'22] NeRFReN: Neural Radiance Fields with Reflections
+  - [Arxiv] FENeRF: Face Editing in Neural Radiance Fields
+  - [Arxiv] DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering
+  - [Arxiv] StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis
+  - [Arxiv] Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
+  - [ICCV'21] CodeNeRF: Disentangled Neural Radiance Fields for Object Categories
+  - [SIGGRAPH Asia'21] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination
+  - [Arxiv] Unsupervised Discovery of Object Radiance Fields
+  - [Arxiv] Editing Conditional Radiance Fields
+  - [Arxiv] Editable Free-viewpoint Video Using a Layered Neural Representation
 
  
 - [2020]
-  - Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
-  - Neural Sparse Voxel Fields
+  - [Arxiv] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
+  - [Arxiv] Neural Sparse Voxel Fields
 
 
 - [datasets]
