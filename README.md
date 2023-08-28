@@ -128,17 +128,17 @@ A curated collection of resources for NeRF editing techniques.
   - [Tool 2 name and link]
   - ...
 
-## Contributing [Stay Tuned☕]
+## Contributing
 
 We welcome contributions to expand and improve this collection. If you have relevant resources to share or want to collaborate on this project, please follow these guidelines:
 
 1. Fork this repository.
 2. Add your resources to the appropriate sections in the README.
-3. Commit your changes: `git commit -m 'Add some resources'`.
+3. Commit your changes.
 4. Push to the branch: `git push origin master`.
 5. Submit a pull request.
 
-Please ensure that the resources you contribute are relevant to 3D aware editing techniques.
+Please ensure that the resources you contribute are relevant to NeRF-based editing techniques.
 
 ## License
 
