@@ -4,12 +4,12 @@ A curated collection of resources for NeRF editing techniques.
 ## Resources [Stay Tuned☕]
 
 - [2023]
-  - [ICCV'23] Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
-  - [Arxiv] Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views
-  - [Arxiv] Watch Your Steps: Local Image and Scene Editing by Text Instructions
-  - [Arxiv] Focused Specific Objects NeRF
-  - [ICCV'23] Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis
-  - [ACM MM'23] Context-Aware Talking-Head Video Editing
+  - [ICCV'23] [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/pdf/2308.11974)
+  - [Arxiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/pdf/2308.11198)
+  - [Arxiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/pdf/2308.08947)
+  - [Arxiv] [Focused Specific Objects NeRF](https://arxiv.org/pdf/2308.05970)
+  - [ICCV'23] [Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis](https://arxiv.org/pdf/2308.02840)
+  - [ACM MM'23] [Context-Aware Talking-Head Video Editing](https://arxiv.org/pdf/2308.00462)
   - [ICCV'23] Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields
   - [Arxiv] Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields
   - [Arxiv] FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields
@@ -57,7 +57,6 @@ A curated collection of resources for NeRF editing techniques.
   - [Arxiv] RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes
   - [ICCV'23] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
 
-
 - [2022]
   - [Arxiv] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
   - [Arxiv] PaletteNeRF: Palette-based Color Editing for NeRFs
@@ -84,7 +83,7 @@ A curated collection of resources for NeRF editing techniques.
   - [3DV'22-Oral] Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
   - [SIGGRAPH Asia'22] FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing
   - [ECCV'22] Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
-  - [Arxiv] PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo
+  - [Arxiv] PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo        
   - [Arxiv] RigNeRF: Fully Controllable Neural 3D Portraits
   - [Arxiv] NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors
   - [Arxiv] ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D
@@ -94,7 +93,6 @@ A curated collection of resources for NeRF editing techniques.
   - [Arxiv] Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
   - [Arxiv] ERF: Explicit Radiance Field Reconstruction From Scratch
   - [Arxiv] NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing
-
 
 - [2021]
   - [ECCV'22] NeRF for Outdoor Scene Relighting
@@ -111,12 +109,10 @@ A curated collection of resources for NeRF editing techniques.
   - [Arxiv] Unsupervised Discovery of Object Radiance Fields
   - [Arxiv] Editing Conditional Radiance Fields
   - [Arxiv] Editable Free-viewpoint Video Using a Layered Neural Representation
-
  
 - [2020]
   - [Arxiv] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
   - [Arxiv] Neural Sparse Voxel Fields
-
 
 - [datasets]
   - [Dataset 1 name and link]
