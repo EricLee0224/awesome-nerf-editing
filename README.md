@@ -13,6 +13,7 @@ A curated collection of resources for NeRF editing techniques.
   - [ICCV'23] Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields
   - [Arxiv] Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields
   - [Arxiv] FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields
+  - [Arxiv] DreamEditor: Text-Driven 3D Scene Editing with Neural Fields
   - [Arxiv] Car-Studio: Learning Car Radiance Fields from Single-View and Endless In-the-wild Images
   - [Arxiv] Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model
   - [Arxiv] Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions
