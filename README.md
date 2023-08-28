@@ -13,7 +13,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 ## Recent research [Stay Tuned☕]
 
-- [2023]
++ [2023]
   - [ICCV'23] [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/pdf/2308.11974)
   - [Arxiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/pdf/2308.11198)
   - [Arxiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/pdf/2308.08947)
@@ -67,7 +67,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes
   - [ICCV'23] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
 
-- [2022]
++ [2022]
   - [Arxiv] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
   - [Arxiv] PaletteNeRF: Palette-based Color Editing for NeRFs
   - [Arxiv] Removing Objects From Neural Radiance Fields
@@ -104,7 +104,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] ERF: Explicit Radiance Field Reconstruction From Scratch
   - [Arxiv] NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing
 
-- [2021]
++ [2021]
   - [ECCV'22] NeRF for Outdoor Scene Relighting
   - [CVPR'22] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
   - [Arxiv] Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields
@@ -120,16 +120,16 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] Editing Conditional Radiance Fields
   - [Arxiv] Editable Free-viewpoint Video Using a Layered Neural Representation
  
-- [2020]
++ [2020]
   - [Arxiv] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
   - [Arxiv] Neural Sparse Voxel Fields
 
-- [datasets]
++ [datasets]
   - [Dataset 1 name and link]
   - [Dataset 2 name and link]
   - ...
 
-- [Useful tools and software]
++ [Useful tools and software]
   - [Tool 1 name and link]
   - [Tool 2 name and link]
   - ...
