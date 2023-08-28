@@ -1,7 +1,7 @@
 # Awesome Neural Radience Field (NeRF) Editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated collection of resources for NeRF editing techniques.
 
-## Resources [Stay Tuned☕]
+## Recent research [Stay Tuned☕]
 
 - [2023]
   - [ICCV'23] [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/pdf/2308.11974)
