@@ -10,34 +10,34 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF enthusiasts, researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent research [Stay Tuned☕]
+## Recent Research [Latest Update: 2023/08/29☕] 
 
 + [2023]
   - [ICCV'23] [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/pdf/2308.11974)
-  - [Arxiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/pdf/2308.11198)
-  - [Arxiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/pdf/2308.08947)
+  - [Arxiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/pdf/2308.11198) 丨 [[Project Page]](https://iscas3dv.github.io/HO-NeRF)
+  - [Arxiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/pdf/2308.08947) 丨 [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - [Arxiv] [Focused Specific Objects NeRF](https://arxiv.org/pdf/2308.05970)
-  - [ICCV'23] [Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis](https://arxiv.org/pdf/2308.02840)
+  - [ICCV'23] [Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis](https://arxiv.org/pdf/2308.02840) 丨 [[Project Page]](https://w-ted.github.io/publications/udc-nerf)
   - [ACM MM'23] [Context-Aware Talking-Head Video Editing](https://arxiv.org/pdf/2308.00462)
-  - [ICCV'23] Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields
-  - [Arxiv] Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields
-  - [Arxiv] FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields
-  - [Arxiv] DreamEditor: Text-Driven 3D Scene Editing with Neural Fields
-  - [Arxiv] Car-Studio: Learning Car Radiance Fields from Single-View and Endless In-the-wild Images
-  - [Arxiv] Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model
-  - [Arxiv] Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions
-  - [Arxiv] Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields
-  - [CVPR'23] Local 3D Editing via 3D Distillation of CLIP Knowledge
-  - [Arxiv] Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model
-  - [Arxiv] DORSal: Diffusion for Object-centric Representations of Scenes et al.
-  - [Arxiv] UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video
-  - [IJCAI'23] RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models
-  - [Arxiv] FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models
-  - [Arxiv] AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars
-  - [Arxiv] PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction
-  - [Arxiv] InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields
-  - [Arxiv] OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields
-  - [CVPR'23] NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds
+  - [ICCV'23] [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields](https://arxiv.org/pdf/2307.15131) 丨 [[Project Page]](https://windingwind.github.io/seal-3d/) 丨 [[Code]](https://github.com/windingwind/seal-3d/)
+  - [Arxiv] [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://arxiv.org/pdf/2307.12909) 丨 [[Project Page]](https://dyn-e.github.io/)
+  - [ICCV'23] [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/pdf/2307.11418) 丨 [[Project Page]](https://faceclipnerf.github.io)
+  - [Arxiv] [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/pdf/2306.13455)
+  - [Arxiv] [Car-Studio: Learning Car Radiance Fields from Single-View and Endless In-the-wild Images](https://arxiv.org/pdf/2307.14009) 丨 [[Project Page]](https://lty2226262.github.io/car-studio/)
+  - [Arxiv] [Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model](https://arxiv.org/pdf/2306.09551)
+  - [Arxiv] [Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions](https://arxiv.org/pdf/2306.10813)
+  - [Arxiv] [Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields](https://arxiv.org/pdf/2306.12760) 丨 [[Project Page]](https://www.vision.huji.ac.il/blended-nerf/)
+  - [CVPR'23] [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/pdf/2306.12570) 丨 [[Code]](https://github.com/junhahyung/LENeRF_public)
+  - [Arxiv] [Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model](https://arxiv.org/pdf/2306.09551)
+  - [Arxiv] [DORSal: Diffusion for Object-centric Representations of Scenes et al.](https://arxiv.org/pdf/2306.08068) 丨 [[Project Page]](https://www.sjoerdvansteenkiste.com/dorsal)
+  - [Arxiv] [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://arxiv.org/pdf/2306.09349) 丨 [[Project Page]](https://urbaninverserendering.github.io/)
+  - [IJCAI'23] [RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models](https://arxiv.org/pdf/2306.05668) 
+  - [Arxiv] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/pdf/2306.00783) 丨 [[Code]](https://github.com/BillyXYB/FDNeRF)
+  - [Arxiv] [AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars](https://arxiv.org/pdf/2306.00547) 丨 [[Project Page]](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/)
+  - [Arxiv] [PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction](https://arxiv.org/pdf/2305.16914)
+  - [Arxiv] [InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/pdf/2305.15094)
+  - [Arxiv] [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/pdf/2305.10503) 丨 [[Project Page]](https://ornerf.github.io/)
+  - [CVPR'23] [NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds](https://arxiv.org/pdf/2305.03049) 丨 [[Project Page]](https://immortalco.github.io/NeuralEditor)
   - [Arxiv] Unsupervised Object-Centric Voxelization for Dynamic Scene Understanding
   - [Arxiv] NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation
   - [Arxiv] Reference-guided Controllable Inpainting of Neural Radiance Fields
