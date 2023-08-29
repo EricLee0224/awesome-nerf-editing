@@ -12,7 +12,8 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 ## Recent Research [Latest Update: 2023/08/29☕] 
 
-🚨 Note: Please be aware that the acceptance status of some of the included works might not be up-to-date. 📝💡
+🚨 Note: Please be aware that the acceptance status of some of the included works might not be up-to-date. 📝💡     
+
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
 + [2023]
