@@ -12,7 +12,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 ## Recent Research [Latest Update: 2023/08/29☕] 
 
-🚨 Note: Please be aware that the acceptance status of some of the included related works might not be up-to-date. 📝💡
+🚨 Note: Please be aware that the acceptance status of some of the included works might not be up-to-date. 📝💡
 
 + [2023]
   - [ICCV'23] [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/pdf/2308.11974)
