@@ -42,14 +42,14 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] [InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/pdf/2305.15094)
   - [Arxiv] [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/pdf/2305.10503) 丨 [[Project Page]](https://ornerf.github.io/)
   - [CVPR'23] [NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds](https://arxiv.org/pdf/2305.03049) 丨 [[Project Page]](https://immortalco.github.io/NeuralEditor)
-  - [Arxiv] Unsupervised Object-Centric Voxelization for Dynamic Scene Understanding
-  - [Arxiv] NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation
-  - [Arxiv] Reference-guided Controllable Inpainting of Neural Radiance Fields
-  - [Arxiv] UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing
-  - [Arxiv] PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures
-  - [ICCV'23] Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior
-  - [Arxiv] VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis
-  - [Arxiv] CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout
+  - [Arxiv] [Unsupervised Object-Centric Voxelization for Dynamic Scene Understanding](https://arxiv.org/pdf/2305.00393)
+  - [Arxiv] [NaviNeRF: NeRF-based 3D Representation Disentanglement by Latent Semantic Navigation](https://arxiv.org/pdf/2304.11342)
+  - [ICCV'23] [Reference-guided Controllable Inpainting of Neural Radiance Fields](https://arxiv.org/pdf/2304.09677) 丨 [[Project Page]](https://ashmrz.github.io/reference-guided-3d)
+  - [Arxiv] [UVA: Towards Unified Volumetric Avatar for View Synthesis, Pose rendering, Geometry and Texture Editing](https://arxiv.org/pdf/2304.06969)
+  - [Arxiv] [PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures](https://arxiv.org/pdf/2304.04012) 丨 [[Project Page]](http://sk-fun.fun/PVD-AL)
+  - [ICCV'23] [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184) 丨 [[Project Page]](https://make-it-3d.github.io/)
+  - [Arxiv] [VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis](https://arxiv.org/pdf/2303.16184) 丨 [[Project Page]](https://bennyguo.github.io/vmesh/)
+  - [Arxiv] [CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout](https://arxiv.org/pdf/2303.13843)
   - [Arxiv] TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images
   - [Arxiv] Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes
   - [CVPR'23] SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field
