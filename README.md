@@ -127,6 +127,13 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
   - [Arxiv] Neural Sparse Voxel Fields
 
+---
+
++ Language Instruction Editing
+  - [Arxiv] 
+  - [Arxiv]
+  - 
+
 + [datasets] [Stay Tuned☕] 
   - [Dataset 1 name and link]
   - [Dataset 2 name and link]
