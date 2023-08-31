@@ -106,6 +106,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation
   - [Arxiv] ERF: Explicit Radiance Field Reconstruction From Scratch
   - [Arxiv] NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing
+  - [NeurIPS'22] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition ](https://arxiv.org/pdf/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
 
 + [2021]
   - [ECCV'22] NeRF for Outdoor Scene Relighting
