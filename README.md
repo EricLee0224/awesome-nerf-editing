@@ -130,9 +130,15 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 ---
 
 + **Language Instruction Editing**
-  - [Arxiv] 
-  - [Arxiv]
-  - 
+  - [ICCV'23] Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
+  - [Arxiv] Watch Your Steps: Local Image and Scene Editing by Text Instructions
+  - [ICCV'23] FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields
+  - [Arxiv] DreamEditor: Text-Driven 3D Scene Editing with Neural Fields
+  - [Arxiv] CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout
+  - [Arxiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
+  - [CVPR'23] Local 3D Editing via 3D Distillation of CLIP Knowledge
+  - [CVPR'22] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
+  - Tango: Text-driven photorealistic and robust 3d stylization via lighting decomposition.
 
 + [datasets] [Stay Tuned☕] 
   - [Dataset 1 name and link]
