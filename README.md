@@ -129,7 +129,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 ---
 
-+ Language Instruction Editing
++ **Language Instruction Editing**
   - [Arxiv] 
   - [Arxiv]
   - 
