@@ -139,7 +139,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [Arxiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
   - [CVPR'23] Local 3D Editing via 3D Distillation of CLIP Knowledge
   - [CVPR'22] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
-  - [NeurlPS'22] Tango: Text-driven photorealistic and robust 3d stylization via lighting decomposition.
   - Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields
   - Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model
   - RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models
