@@ -1,5 +1,8 @@
 # Awesome Neural Radience Field (NeRF) Editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Counter](https://api.infinitescript.com/badgen/count?name=EricLee0224/awesome-nerf-editing)
+
 Welcome to **awesome-nerf-editing**, your ultimate resource for exploring the exciting world of Neural Radiance Field (NeRF) editing! NeRF is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering NeRF-based editing techniques. Whether you're a researcher, developer, or simply curious about the cutting-edge applications of NeRF, you'll find a wealth of valuable information here.  
 
 ## What is NeRF Editing?
