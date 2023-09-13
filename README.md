@@ -13,7 +13,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF enthusiasts, researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent Research [Latest Update: 2023/08/29☕] 
+## Recent Research [Latest Update: 2023/09/13☕] 
 
 🚨 Note: Please be aware that the acceptance status of some of the included works might not be up-to-date. 📝💡     
 
@@ -54,42 +54,40 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ICCV'23] [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/pdf/2303.14184) 丨 [[Project Page]](https://make-it-3d.github.io/)
   - [Arxiv] [VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis](https://arxiv.org/pdf/2303.16184) 丨 [[Project Page]](https://bennyguo.github.io/vmesh/)
   - [Arxiv] [CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout](https://arxiv.org/pdf/2303.13843)
-  - [Arxiv] TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images
-  - [Arxiv] Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes
-  - [CVPR'23] SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field
-  - [CVPR'23-Highlight] Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization
-  - [Arxiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
-  - [Arxiv] Interactive Geometry Editing of Neural Radiance Fields
-  - [Arxiv] SKED: Sketch-guided Text-based 3D Editing
-  - [CVPR'23] PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision
-  - [Arxiv] I^2-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs
-  - [CVPR'23] Frequency-Modulated Point Cloud Rendering with Easy Editing
-  - [Arxiv] MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field
-  - [CVPR'23] Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision
-  - [Arxiv] IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF
-  - [Arxiv] LC-NeRF: Local Controllable Face Generation in Neural Randiance Field
-  - [Arxiv] In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition
-  - [AAAI'23-Oral] Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field
-  - [ICML'23] Equivariant Architectures for Learning in Deep Weight Spaces
-  - [Arxiv] RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes
-  - [ICCV'23] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
+  - [Arxiv] [TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images](https://arxiv.org/pdf/2303.13743)
+  - [Arxiv] [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/pdf/2303.13450)
+  - [CVPR'23] [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://arxiv.org/pdf/2303.13277)
+  - [CVPR'23-Highlight] [Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization](https://arxiv.org/pdf/2303.13232)
+  - [ICCV'23 Oral] [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/pdf/2303.12789)
+  - [Arxiv] [Interactive Geometry Editing of Neural Radiance Fields](https://arxiv.org/pdf/2303.11537)
+  - [Arxiv] [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/pdf/2303.10735)
+  - [CVPR'23] [PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision](https://arxiv.org/pdf/2303.09554)
+  - [Arxiv] [I_{2}-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://arxiv.org/pdf/2303.07634)
+  - [CVPR'23] [Frequency-Modulated Point Cloud Rendering with Easy Editing](https://arxiv.org/pdf/2303.07596)
+  - [Arxiv] [MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field](https://arxiv.org/pdf/2303.05703)
+  - [CVPR'23] [Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision](https://arxiv.org/pdf/2303.03361)
+  - [Arxiv] [IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF](https://arxiv.org/pdf/2302.14683)
+  - [Arxiv] [LC-NeRF: Local Controllable Face Generation in Neural Randiance Field](https://arxiv.org/abs/2302.09486)
+  - [Arxiv] [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://arxiv.org/abs/2302.04871)
+  - [AAAI'23-Oral] [Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field](https://arxiv.org/abs/2302.01579)
+  - [Arxiv] [RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes](https://arxiv.org/abs/2301.07958)
+  - [ICCV'23] [MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos](https://arxiv.org/abs/2212.13056)
 
 + [2022]
-  - [Arxiv] MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
-  - [Arxiv] PaletteNeRF: Palette-based Color Editing for NeRFs
-  - [Arxiv] Removing Objects From Neural Radiance Fields
-  - [Arxiv] PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields
-  - [Arxiv] Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion
-  - [Arxiv] EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points
-  - [Arxiv] NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing
-  - [Arxiv] SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields
-  - [AAAI'23] One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation
-  - [Arxiv] ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field
-  - [CVPR'23] SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields
-  - [Arxiv] ONeRF: Unsupervised 3D Object Segmentation from Multiple Views
-  - [Arxiv] FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields
-  - [Arxiv] NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields
-  - [Arxiv] Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing
+  - [Arxiv] [PaletteNeRF: Palette-based Color Editing for NeRFs](https://arxiv.org/abs/2212.12871)
+  - [Arxiv] [Removing Objects From Neural Radiance Fields](https://arxiv.org/abs/2212.11966)
+  - [Arxiv] [PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields](https://arxiv.org/abs/2212.10699)
+  - [Arxiv] [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135)
+  - [Arxiv] [EditableNeRF: Editing Topologically Varying Neural Radiance Fields by Key Points](https://arxiv.org/abs/2212.04247)
+  - [Arxiv] [NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing](https://arxiv.org/abs/2212.03848)
+  - [Arxiv] [SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields](https://arxiv.org/abs/2212.03406)
+  - [AAAI'23] [One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation](https://arxiv.org/abs/2211.15977)
+  - [Arxiv] [ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field](https://arxiv.org/abs/2211.13226)
+  - [CVPR'23] [SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields](https://arxiv.org/abs/2211.12254)
+  - [Arxiv] [ONeRF: Unsupervised 3D Object Segmentation from Multiple Views](https://arxiv.org/abs/2211.12038)
+  - [Arxiv] [FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields](https://arxiv.org/abs/2211.11202)
+  - [Arxiv] [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://arxiv.org/abs/2211.07968)
+  - [Arxiv] [Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://arxiv.org/abs/2211.03017)
   - [Arxiv] 3D GAN Inversion with Pose Optimization
   - [Arxiv] Controllable Radiance Fields for Dynamic Face Synthesis
   - [SIGGRAPH Asia'22] Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video
