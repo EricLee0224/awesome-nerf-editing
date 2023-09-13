@@ -20,6 +20,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
 + [2023]
+  - [Arxiv][Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/pdf/2309.04917)
   - [ICCV'23] [Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields](https://arxiv.org/pdf/2308.11974)
   - [Arxiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/pdf/2308.11198) 丨 [[Project Page]](https://iscas3dv.github.io/HO-NeRF)
   - [Arxiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/pdf/2308.08947) 丨 [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
@@ -134,6 +135,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 ---
 
 + **Language Instruction Editing**
+  - [Arxiv][Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/pdf/2309.04917)
   - [ICCV'23] Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
   - [Arxiv] Watch Your Steps: Local Image and Scene Editing by Text Instructions
   - [ICCV'23] FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields
