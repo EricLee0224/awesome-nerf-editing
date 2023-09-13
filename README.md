@@ -148,7 +148,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models
   - NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing
 
-+ [datasets] [Stay Tuned☕] 
++ **Large/City-scale Editing** [Stay Tuned☕] 
   - [Dataset 1 name and link]
   - [Dataset 2 name and link]
   - ...
