@@ -32,7 +32,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ICCV 2023] [Seal-3D: Interactive Pixel-Level Editing for Neural Radiance Fields](https://arxiv.org/abs/2307.15131) 丨 [[Project Page]](https://windingwind.github.io/seal-3d/)
   - [arXiv] [Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields](https://arxiv.org/abs/2307.12909) 丨 [[Project Page]](https://dyn-e.github.io/)
   - [ICCV 2023] [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418) 丨 [[Project Page]](https://faceclipnerf.github.io)
-  - [SIGGRAPH ASIA 2023] [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs/2306.13455)
+  - [SIGGRAPH Asia 2023] [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs/2306.13455)
   - [arXiv] [Car-Studio: Learning Car Radiance Fields from Single-View and Endless In-the-wild Images](https://arxiv.org/abs/2307.14009) 丨 [[Project Page]](https://lty2226262.github.io/car-studio/)
   - [arXiv] [Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model](https://arxiv.org/abs/2306.09551)
   - [arXiv] [Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions](https://arxiv.org/abs/2306.10813)
@@ -58,12 +58,12 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images](https://arxiv.org/abs/2303.13743)
   - [arXiv] [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450)
   - [CVPR 2023] [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://arxiv.org/abs/2303.13277) 丨 [[Project Page]](https://zju3dv.github.io/sine/)
-  - [CVPR 2023-Highlight] [Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization](https://arxiv.org/abs/2303.13232)
+  - [CVPR 2023 Highlight] [Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization](https://arxiv.org/abs/2303.13232)
   - [ICCV 2023 Oral] [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) 丨 [[Project Page]](https://instruct-nerf2nerf.github.io/)
   - [arXiv] [Interactive Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2303.11537)
   - [ICCV 2023] [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) 丨 [[Project Page]](https://sked-paper.github.io/)
   - [CVPR 2023] [PartNeRF: Generating Part-Aware Editable 3D Shapes without 3D Supervision](https://arxiv.org/abs/2303.09554) 丨 [[Project Page]](https://ktertikas.github.io/part_nerf)
-  - [CVPR 2023-Highlight] [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206) 丨 [[Project Page]](https://sirwyver.github.io/DiffRF/)
+  - [CVPR 2023 Highlight] [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206) 丨 [[Project Page]](https://sirwyver.github.io/DiffRF/)
   - [CVPR 2023] [I_{2}-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://arxiv.org/abs/2303.07634) 丨 [[Project Page]](https://jingsenzhu.github.io/i2-sdf/) 
   - [CVPR 2023] [Frequency-Modulated Point Cloud Rendering with Easy Editing](https://arxiv.org/abs/2303.07596) 丨 [[Code]](https://github.com/yizhangphd/FreqPCR)
   - [ICCV 2023] [ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field](https://arxiv.org/abs/2211.13226) 丨 [[Project Page]](https://climatenerf.github.io/)
@@ -90,7 +90,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ECCV 2022] [LaTeRF: Label and Text Driven Object Radiance Fields](https://arxiv.org/abs/2207.01583)
   - [ECCV 2022] [NeRF for Outdoor Scene Relighting](https://arxiv.org/abs/2112.05140) | [[Project Page]](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)
   - [CVPR 2022] [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139) | [[Project Page]](https://cassiepython.github.io/clipnerf/)
-  - [arXiv] [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/abs/2112.03907) | [[Project Page]](https://dorverbin.github.io/refnerf/)
+  - [CVPR 2022 Oral] [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/abs/2112.03907) | [[Project Page]](https://dorverbin.github.io/refnerf/)
   - [ECCV 2022] [MoFaNeRF: Morphable Facial Neural Radiance Field](https://arxiv.org/abs/2112.02308) | [[Code]](https://github.com/zhuhao-nju/mofanerf)
   - [CVPR 2022] [NeRFReN: Neural Radiance Fields with Reflections](https://arxiv.org/abs/2111.15234) | [[Project Page]](https://bennyguo.github.io/nerfren/)
   - [arXiv] [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135) | [[Project Page]](https://3d-avatar-diffusion.microsoft.com/)
@@ -106,7 +106,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] Estimating Neural Reflectance Field from Radiance Field using Tree Structures
   - [arXiv] IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis
   - [arXiv] Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation
-  - [PG 2022 & CGF] Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects
+  - [PG & CGF 2022] Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects
   - [3DV 2022 Oral] Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
   - [SIGGRAPH Asia 2022] FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing
   - [ECCV 2022] Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
