@@ -57,7 +57,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [IJCAI 2023] [RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models](https://arxiv.org/abs/2306.05668)
   - [WACV 2023] [3D GAN Inversion with Pose Optimization](https://arxiv.org/abs/2210.07301) | [[Project Page]](https://3dgan-inversion.github.io/)
   - [WACV 2023] [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://arxiv.org/abs/2204.10850) | [[Project Page]](https://virtualhumans.mpi-inf.mpg.de/control-nerf/)
----
+  ---
   - [arXiv] [Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/abs/2309.04917) 丨 [[Project Page]](http://sk-fun.fun/DN2N/)
   - [arXiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/abs/2308.11198) 丨 [[Project Page]](https://iscas3dv.github.io/HO-NeRF)
   - [arXiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) 丨 [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
@@ -106,7 +106,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [3DV 2022 Oral] Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
   - [3DV 2022] [Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/abs/2210.05825) | [[Project Page]](https://payeah.net/corf_html/index.html)
   - [PG & CGF 2022] Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects
----
+  ---
   - [arXiv] [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135) | [[Project Page]](https://3d-avatar-diffusion.microsoft.com/)
   - [arXiv] [NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing](https://arxiv.org/abs/2212.03848) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
   - [arXiv] [SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields](https://arxiv.org/abs/2212.03406) | [[Project Page]](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)
@@ -128,7 +128,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + [2021]
   - [ICCV 2021] CodeNeRF: Disentangled Neural Radiance Fields for Object Categories
   - [SIGGRAPH Asia 2021] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination
----
+  ---
   - [arXiv] FENeRF: Face Editing in Neural Radiance Fields
   - [arXiv] DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering
   - [arXiv] StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis
