@@ -19,6 +19,8 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
++ [2024]
+
 + [2023]
   - [ICCVW 2023] [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252)
   - [ICCVW 2023] [BluNF: Blueprint Neural Field](https://arxiv.org/abs/2309.03933) 丨 [[Project Page]](https://www.lix.polytechnique.fr/vista/projects/2023_iccvw_courant/)
