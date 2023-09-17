@@ -92,19 +92,23 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ECCV 2022] [MoFaNeRF: Morphable Facial Neural Radiance Field](https://arxiv.org/abs/2112.02308) | [[Code]](https://github.com/zhuhao-nju/mofanerf)
   - [ECCV 2022] [LaTeRF: Label and Text Driven Object Radiance Fields](https://arxiv.org/abs/2207.01583)
   - [ECCV 2022] [NeRF for Outdoor Scene Relighting](https://arxiv.org/abs/2112.05140) | [[Project Page]](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)
-  - [ECCV 2022] Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
+  - [ECCV 2022] [Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](https://arxiv.org/abs/2207.10257)
   - [CVPR 2022 Oral] [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/abs/2112.03907) | [[Project Page]](https://dorverbin.github.io/refnerf/)
-  - [CVPR 2022] NeRF-Editing: Geometry Editing of Neural Radiance Fields
+  - [CVPR 2022] [NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2205.04978)
   - [CVPR 2022] [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139) | [[Project Page]](https://cassiepython.github.io/clipnerf/)
   - [CVPR 2022] [NeRFReN: Neural Radiance Fields with Reflections](https://arxiv.org/abs/2111.15234) | [[Project Page]](https://bennyguo.github.io/nerfren/)
-  - [SIGGRAPH Asia 2022] FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing
+  - [CVPR 2022] [FENeRF: Face Editing in Neural Radiance Fields](https://arxiv.org/abs/2111.15490)
+  - [CVPR 2022] [Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation](https://arxiv.org/abs/2205.04334)
+  - [ICLR 2022] [Unsupervised Discovery of Object Radiance Fields](https://arxiv.org/abs/2107.07905)
+  - [SIGGRAPH Asia 2022] [FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing](https://arxiv.org/abs/2208.05751)
   - [SIGGRAPH Asia 2022] [Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video](https://arxiv.org/abs/2210.06108) | [[Project Page]](https://ustc3dv.github.io/NeRFBlendShape/)
   - [NeurIPS 2022 SpotLight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
   - [NeurIPS 2022 Spotlight] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition ](https://arxiv.org/abs/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
-  - [NeurIPS 2022] Decomposing NeRF for Editing via Feature Field Distillation
-  - [3DV 2022 Oral] Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
+  - [NeurIPS 2022] [Decomposing NeRF for Editing via Feature Field Distillation](https://arxiv.org/abs/2205.15585)
+  - [NeurIPS 2022] [Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation](https://arxiv.org/abs/2210.00489)
+  - [3DV 2022 Oral] [Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations](https://arxiv.org/abs/2209.03494)
   - [3DV 2022] [Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/abs/2210.05825) | [[Project Page]](https://payeah.net/corf_html/index.html)
-  - [PG & CGF 2022] Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects
+  - [PG & CGF 2022] [Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects](https://arxiv.org/abs/2209.04183)
   ---
   - [arXiv] [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135) | [[Project Page]](https://3d-avatar-diffusion.microsoft.com/)
   - [arXiv] [NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing](https://arxiv.org/abs/2212.03848) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
@@ -113,32 +117,28 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields](https://arxiv.org/abs/2211.11202)
   - [arXiv] [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://arxiv.org/abs/2211.07968)
   - [arXiv] [Learning-based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://arxiv.org/abs/2211.03017)
-  - [arXiv] Estimating Neural Reflectance Field from Radiance Field using Tree Structures
-  - [arXiv] IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis
-  - [arXiv] Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation
-  - [arXiv] PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo        
-  - [arXiv] RigNeRF: Fully Controllable Neural 3D Portraits
-  - [arXiv] NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors
-  - [arXiv] ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D
-  - [arXiv] Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
-  - [arXiv] ERF: Explicit Radiance Field Reconstruction From Scratch
-  - [arXiv] NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing
+  - [arXiv] [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/abs/2210.04217)
+  - [arXiv] [IntrinsicNeRF: Learning Intrinsic Neural Radiance Fields for Editable Novel View Synthesis](https://arxiv.org/abs/2210.00647)
+  - [arXiv] [PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406)    
+  - [arXiv] [RigNeRF: Fully Controllable Neural 3D Portraits](https://arxiv.org/abs/2206.06481)
+  - [arXiv] [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://arxiv.org/abs/2206.04901)
+  - [arXiv] [ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D](https://arxiv.org/abs/2206.03591)
+  - [arXiv] [ERF: Explicit Radiance Field Reconstruction From Scratch](https://arxiv.org/abs/2203.00051)
+  - [arXiv] [NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing](https://arxiv.org/abs/2202.06088)
 
 + [2021]
-  - [ICCV 2021] CodeNeRF: Disentangled Neural Radiance Fields for Object Categories
-  - [SIGGRAPH Asia 2021] NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination
+  - [ICCV 2021] [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://arxiv.org/abs/2109.01750)
+  - [ICCV 2021] [Editing Conditional Radiance Fields](https://arxiv.org/abs/2105.06466)
+  - [ICCV 2021] [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://arxiv.org/abs/2109.01847)
+  - [ICCV 2021] [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://arxiv.org/abs/2012.12247)
+  - [SIGGRAPH Asia 2021] [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/abs/2106.01970)
   ---
-  - [arXiv] FENeRF: Face Editing in Neural Radiance Fields
-  - [arXiv] DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering
-  - [arXiv] StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis
-  - [arXiv] Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering
-  - [arXiv] Unsupervised Discovery of Object Radiance Fields
-  - [arXiv] Editing Conditional Radiance Fields
-  - [arXiv] Editable Free-viewpoint Video Using a Layered Neural Representation
+  - [arXiv] [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427)
+  - [arXiv] [StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis](https://arxiv.org/abs/2110.08985)
+  - [arXiv] [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/abs/2104.14786)
  
 + [2020]
-  - [arXiv] Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video
-  - [arXiv] Neural Sparse Voxel Fields
+  - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)
 
 ---
 
