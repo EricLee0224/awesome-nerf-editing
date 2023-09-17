@@ -159,8 +159,8 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing
 
 + **Large/City-scale Editing** [Stay Tuned☕] 
-  - [Dataset 1 name and link]
-  - [Dataset 2 name and link]
+  - [ICCV 2023] [AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation](https://arxiv.org/abs/2303.13953)
+  - [Paper 2 name and link]
   - ...
 
 + [Useful tools and software] [Stay Tuned☕] 
