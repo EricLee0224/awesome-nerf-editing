@@ -105,7 +105,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes](https://arxiv.org/abs/2301.07958) | [[Project Page]](https://sites.google.com/view/recolornerf)
 
 + [2022]
-  - [NeurIPS 2022 SpotLight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
+  - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
   - [NeurIPS 2022 Spotlight] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
   - [NeurIPS 2022] [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos](https://arxiv.org/abs/2210.12352) 丨 [[Project Page]](https://ylqiao.net/publication/2022nerf/)
   - [NeurIPS 2022] [Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/abs/2205.14870) 丨 [[Project Page]](https://me.kiui.moe/ccnerf/)
