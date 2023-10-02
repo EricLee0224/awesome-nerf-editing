@@ -5,11 +5,11 @@
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Neural Radiance Field (NeRF) editing! NeRF is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering NeRF-based editing techniques. Whether you're a researcher, developer, or simply curious about the cutting-edge applications of NeRF, you'll find a wealth of valuable information here.  
 
 ## 🪬What is NeRF Editing?
-NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edit 3D scenes and objects in a highly realistic and immersive manner. This emerging field holds immense potential for a wide range of applications, including virtual reality, augmented reality, content creation, and more. **However, neural radiance field implicitly encode shape and texture information of the scene or object, which implies natural difficulties in the NeRF editing task.**
+NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edit 3D scenes or objects in a highly realistic and immersive manner. This emerging field holds immense potential for a wide range of applications, including virtual reality, augmented reality, content creation, and more. **However, neural radiance field implicitly encode shape and texture information of the scene or object, which implies natural difficulties in the NeRF editing task.**
 
 ## 😶‍🌫️Why "awesome-nerf-editing"?
-+ Comprehensive Resources: We've curated an extensive list of papers, tutorials, tools, and projects related to NeRF editing, making it easy for you to dive into this exciting field.
-+ Community Collaboration: Join our community of NeRF enthusiasts, researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
++ Comprehensive Resources: We've curated an extensive list of papers and projects related to NeRF editing, making it easy for you to dive into this exciting field.
++ Community Collaboration: Join our community of NeRF researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
 ## Recent Research [Latest Update: 2023/10/02☕] 
