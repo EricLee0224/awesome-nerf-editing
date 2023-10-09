@@ -21,6 +21,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + [2024]
 
 + [2023]
+  - [NeurIPS 2023] [OBJect 3DIT: Language-guided 3D-aware Image Editing](http://arxiv.org/abs/2307.11073) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
   - ICCV_total for now: 35!!!
   - [ICCV 2023 Oral] [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://arxiv.org/abs/2303.13022) 丨 [[Project Page]](https://nexuslrf.github.io/ENVIDR/)
   - [ICCV 2023 Oral] [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) 丨 [[Project Page]](https://instruct-nerf2nerf.github.io/)
