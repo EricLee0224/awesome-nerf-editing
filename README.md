@@ -21,6 +21,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + [2024]
 
 + [2023]
+  - ICCV_total for now: 35!!!
   - [ICCV 2023 Oral] [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://arxiv.org/abs/2303.13022) 丨 [[Project Page]](https://nexuslrf.github.io/ENVIDR/)
   - [ICCV 2023 Oral] [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) 丨 [[Project Page]](https://instruct-nerf2nerf.github.io/)
   - [ICCV 2023] [ICE-NeRF: Interactive Color Editing of NeRFs via Decomposition-Aware Weight Optimization](https://openaccess.thecvf.com//content/ICCV2023/html/Lee_ICE-NeRF_Interactive_Color_Editing_of_NeRFs_via_Decomposition-Aware_Weight_Optimization_ICCV_2023_paper.html) 
