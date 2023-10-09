@@ -12,7 +12,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent Research [Latest Update: 2023/10/02☕] 
+## Recent Research [Latest Update: 2023/10/09☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡     
 
@@ -21,13 +21,20 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + [2024]
 
 + [2023]
-  - [ICCVW 2023] [LatentSwap3D: Semantic Edits on 3D Image GANs](https://arxiv.org/abs/2212.01381) 丨 [[Project Page]](https://enis.dev/latentswap3d/)
-  - [ICCVW 2023] [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252)
-  - [ICCVW 2023] [CoRF : Colorizing Radiance Fields using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
-  - [ICCVW 2023] [BluNF: Blueprint Neural Field](https://arxiv.org/abs/2309.03933) 丨 [[Project Page]](https://www.lix.polytechnique.fr/vista/projects/2023_iccvw_courant/)
-  - [ICCVW 2023] [Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields](https://arxiv.org/abs/2306.12760) 丨 [[Project Page]](https://www.vision.huji.ac.il/blended-nerf/)
   - [ICCV 2023 Oral] [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://arxiv.org/abs/2303.13022) 丨 [[Project Page]](https://nexuslrf.github.io/ENVIDR/)
   - [ICCV 2023 Oral] [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) 丨 [[Project Page]](https://instruct-nerf2nerf.github.io/)
+  - [ICCV 2023] [ICE-NeRF: Interactive Color Editing of NeRFs via Decomposition-Aware Weight Optimization](https://openaccess.thecvf.com//content/ICCV2023/html/Lee_ICE-NeRF_Interactive_Color_Editing_of_NeRFs_via_Decomposition-Aware_Weight_Optimization_ICCV_2023_paper.html) 
+  - [ICCV 2023] [ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_ReNeRF_Relightable_Neural_Radiance_Fields_with_Nearfield_Lighting_ICCV_2023_paper.html) 
+  - [ICCV 2023] [3D-aware Blending with Generative NeRFs](https://arxiv.org/abs/2302.06608) 丨 [[Project Page]](https://blandocs.github.io/blendnerf)
+  - [ICCV 2023] [Vox-E: Text-guided Voxel Editing of 3D Objects](https://arxiv.org/abs/2303.12048) 丨 [[Project Page]](https://tau-vailab.github.io/Vox-E/)
+  - [ICCV 2023] [3D Semantic Subspace Traverser: Empowering 3D Generative Model with Shape Editing Capability](https://arxiv.org/abs/2307.14051) 丨 [[Project Page]](https://github.com/TrepangCat/3D_Semantic_Subspace_Traverser)
+  - [ICCV 2023] [Urban Radiance Field Representation with Deformable Neural Mesh Primitives](https://arxiv.org/abs/2307.10776) 丨 [[Project Page]](https://dnmp.github.io/)
+  - [ICCV 2023] [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://arxiv.org/abs/2309.04410) 丨 [[Project Page]](https://www.mmlab-ntu.com/project/deformtoon3d/)
+  - [ICCV 2023] [Learning Neural Implicit Surfaces with Object-Aware Radiance Fields](https://openaccess.thecvf.com//content/ICCV2023/html/Zhang_Learning_Neural_Implicit_Surfaces_with_Object-Aware_Radiance_Fields_ICCV_2023_paper.html) 
+  - [ICCV 2023] [X-Mesh:Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance](https://arxiv.org/abs/2303.15764) 丨 [[Project Page]](https://xmu-xiaoma666.github.io/Projects/X-Mesh/)
+  - [ICCV 2023] [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](https://arxiv.org/abs/2308.16758) 
+  - [ICCV 2023] [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508) 丨 [[Project Page]](https://dreambooth3d.github.io/)
+  - [ICCV 2023] [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714) 丨 [[Project Page]](https://lakonik.github.io/ssdnerf/)
   - [ICCV 2023] [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://arxiv.org/abs/2303.02091) 丨 [[Project Page]](https://me.kiui.moe/nerf2mesh/)
   - [ICCV 2023] [Locally Stylized Neural Radiance Fields](https://arxiv.org/abs/2309.10684)
   - [ICCV 2023] [CC3D: Layout-Conditioned Generation of Compositional 3D Scenes](https://arxiv.org/abs/2303.12074) 丨 [[Project Page]](https://sherwinbahmani.github.io/cc3d/)
@@ -44,6 +51,11 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ICCV 2023] [SKED: Sketch-guided Text-based 3D Editing](https://arxiv.org/abs/2303.10735) 丨 [[Project Page]](https://sked-paper.github.io/)
   - [ICCV 2023] [MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos](https://arxiv.org/abs/2212.13056) | [[code]](https://github.com/tianfr/MonoNeRF)
   - [ICCV 2023] [ClimateNeRF: Extreme Weather Synthesis in Neural Radiance Field](https://arxiv.org/abs/2211.13226) 丨 [[Project Page]](https://climatenerf.github.io/)
+  - [ICCVW 2023] [LatentSwap3D: Semantic Edits on 3D Image GANs](https://arxiv.org/abs/2212.01381) 丨 [[Project Page]](https://enis.dev/latentswap3d/)
+  - [ICCVW 2023] [S2RF: Semantically Stylized Radiance Fields](https://arxiv.org/abs/2309.01252)
+  - [ICCVW 2023] [CoRF : Colorizing Radiance Fields using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
+  - [ICCVW 2023] [BluNF: Blueprint Neural Field](https://arxiv.org/abs/2309.03933) 丨 [[Project Page]](https://www.lix.polytechnique.fr/vista/projects/2023_iccvw_courant/)
+  - [ICCVW 2023] [Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields](https://arxiv.org/abs/2306.12760) 丨 [[Project Page]](https://www.vision.huji.ac.il/blended-nerf/)
   - [TPAMI 2023] [Interactive NeRF Geometry Editing With Shape Priors](https://ieeexplore.ieee.org/abstract/document/10252034?casa_token=busRLKDAs4YAAAAA:RQvcm2691K01JZvEVxihu-Rlk-N9DPR5pHowjAcWOL3jt22aqcIFH3_PfbPb3axvsUZfOgTxEE0)
   - [CVPR 2023 Highlight] [Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization](https://arxiv.org/abs/2303.13232)
   - [CVPR 2023 Highlight] [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206) 丨 [[Project Page]](https://sirwyver.github.io/DiffRF/)
