@@ -7,7 +7,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 ## 🪬What is NeRF Editing?
 NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edit 3D scenes or objects in a highly realistic and immersive manner. This emerging field holds immense potential for a wide range of applications, including virtual reality, augmented reality, content creation, and more. **However, neural radiance field implicitly encode shape and texture information of the scene or object, which implies natural difficulties in the NeRF editing task.**
 <p align="center">
-  <img src="NeRFEditingStat.png" width = "90%" />
+  <img src="NeRFEditingStat.png" width = "70%" />
 </p>
 
 ## 😶‍🌫️Why "awesome-nerf-editing"?
