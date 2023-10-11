@@ -204,7 +204,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + [2020]
   - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)
 
----
 ## TODO List
 
 Currently we only provide a chronological grouping of papers, and we will categorize papers by topic by the end of 2023.
