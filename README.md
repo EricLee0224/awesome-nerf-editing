@@ -205,33 +205,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571)
 
 ---
-
-+ **Language Instruction Editing**
-  - [arXiv][Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/abs/2309.04917)
-  - [ICCV 2023] Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields
-  - [arXiv] Watch Your Steps: Local Image and Scene Editing by Text Instructions
-  - [ICCV 2023] FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields
-  - [arXiv] DreamEditor: Text-Driven 3D Scene Editing with Neural Fields
-  - [arXiv] CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout
-  - [arXiv] Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
-  - [CVPR 2023] Local 3D Editing via 3D Distillation of CLIP Knowledge
-  - [CVPR 2022] CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields
-  - Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields
-  - Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model
-  - RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models
-  - FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models
-  - NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing
-
-+ **Large/City-scale Editing** [Stay Tuned☕] 
-  - [ICCV 2023] [AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation](https://arxiv.org/abs/2303.13953)
-  - [Paper 2 name and link]
-  - ...
-
-+ [Useful tools and software] [Stay Tuned☕] 
-  - [Tool 1 name and link]
-  - [Tool 2 name and link]
-  - ...
-
 ## Get Involved and be a contributor!
 
 + Explore our curated list of resources.
