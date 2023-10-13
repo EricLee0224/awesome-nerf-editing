@@ -15,7 +15,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent Research [Latest Update: 2023/10/09☕] 
+## Recent Research [Latest Update: 2023/10/13☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡     
 
