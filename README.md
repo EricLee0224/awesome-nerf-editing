@@ -101,6 +101,12 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [WACV 2023] [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://arxiv.org/abs/2204.10850) | [[Project Page]](https://virtualhumans.mpi-inf.mpg.de/control-nerf/)
   - [ICML 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   ---
+  - [arXiv] [A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields](https://arxiv.org/abs/2310.05837)
+  - [arXiv] [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602)
+  - [arXiv] [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | [[Project Page]](https://gaoruiyuan.com/magicdrive/)
+  - [arXiv] [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://arxiv.org/abs/2310.02596) | [[Project Page]](https://sweetdreamer3d.github.io/)
+  - [arXiv] [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020) | [[Project Page]](https://jianglongye.com/consistent123/)
+  - [arXiv] [ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF](https://arxiv.org/abs/2310.02712)
   - [arXiv] [ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models](https://arxiv.org/abs/2309.14872)
   - [arXiv] [NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields](https://arxiv.org/abs/2309.13039) | [[Project Page]](https://github.com/dawning77/NeRRF)
   - [arXiv] [MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field](https://arxiv.org/abs/2309.13607)
