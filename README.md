@@ -237,6 +237,12 @@ Please ensure that the resources you contribute are relevant to NeRF-based editi
 
 This project is licensed under the MIT License.
 
----
+## Citation
 
-Feel free to explore, contribute, and collaborate. Together, we can build a valuable resource for the 3D aware editing community! If you have any questions, want to collaborate, or need assistance, please don't hesitate to reach out liweize0224@gmail.com.
+    @misc{weize2023nerfeditingpaperslist,
+    title = {Awesome-NeRF-Editing},
+    author = {Weize Li, Tianshu Kuai},
+    journal = {GitHub repository},
+    url = {https://github.com/EricLee0224/awesome-nerf-editing},
+    year = {2023}
+    }
