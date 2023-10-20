@@ -91,6 +91,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ICLR 2023] [General Neural Gauge Fields](https://arxiv.org/abs/2305.03462) 丨 [[Project Page]](https://fnzhan.com/Neural-Gauge-Fields/)
   - [SIGGRAPH 2023] [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/abs/2212.01406) | [[Project Page]](https://shivangi-aneja.github.io/projects/clipface/)
   - [SIGGRAPH Asia 2023] [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs/2306.13455)
+  - [SIGGRAPH Asia 2023] SOL-NeRF: Sunlight Modeling for Outdoor Scene Decomposition and Relighting | [[Project Page]](http://geometrylearning.com/SOL-NeRF/)
   - [AAAI 2023 Oral] [Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field](https://arxiv.org/abs/2302.01579) 丨 [[Code]](https://github.com/TianxiangMa/CNeRF)
   - [AAAI 2023 Oral] [One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation](https://arxiv.org/abs/2211.15977) | [[Project Page]](https://sk-fun.fun/PVD/)
   - [ACM MM 2023] [Context-Aware Talking-Head Video Editing](https://arxiv.org/abs/2308.00462)
