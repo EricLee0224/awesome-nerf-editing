@@ -22,7 +22,9 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
 + [2024]
-
+  - [3DV 2024] [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
+  - [3DV 2024] [Learning Controllable 3D Diffusion Models from Single-view Images](https://arxiv.org/abs/2304.06700) 丨 [[Project Page]](https://jiataogu.me/control3diff/)
+  - [3DV 2024] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
 + [2023]
   - [NeurIPS 2023] [OBJect 3DIT: Language-guided 3D-aware Image Editing](http://arxiv.org/abs/2307.11073) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
   - [CICAI 2023 Best Paper Runner-up] [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://arxiv.org/abs/2307.15058) 丨 [[Project Page]](https://open-air-sun.github.io/mars/)
@@ -92,6 +94,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ICLR 2023] [General Neural Gauge Fields](https://arxiv.org/abs/2305.03462) 丨 [[Project Page]](https://fnzhan.com/Neural-Gauge-Fields/)
   - [SIGGRAPH 2023] [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/abs/2212.01406) | [[Project Page]](https://shivangi-aneja.github.io/projects/clipface/)
   - [SIGGRAPH Asia 2023] [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs/2306.13455)
+  - [SIGGRAPH Asia 2023] [AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars](https://arxiv.org/abs/2306.00547) 丨 [[Project Page]](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/)
   - [SIGGRAPH Asia 2023] SOL-NeRF: Sunlight Modeling for Outdoor Scene Decomposition and Relighting | [[Project Page]](http://geometrylearning.com/SOL-NeRF/)
   - [AAAI 2023 Oral] [Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field](https://arxiv.org/abs/2302.01579) 丨 [[Code]](https://github.com/TianxiangMa/CNeRF)
   - [AAAI 2023 Oral] [One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation](https://arxiv.org/abs/2211.15977) | [[Project Page]](https://sk-fun.fun/PVD/)
@@ -114,7 +117,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field](https://arxiv.org/abs/2309.13607)
   - [arXiv] [Controllable Dynamic Appearance for Neural 3D Portraits](https://arxiv.org/abs/2309.11009) | [[Project Page]](https://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html)
   - [arXiv] [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
-  - [arXiv] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
   - [arXiv] [Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/abs/2309.04917) 丨 [[Project Page]](http://sk-fun.fun/DN2N/)
   - [arXiv] [Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views](https://arxiv.org/abs/2308.11198) 丨 [[Project Page]](https://iscas3dv.github.io/HO-NeRF)
   - [arXiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) 丨 [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
@@ -127,7 +129,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [DORSal: Diffusion for Object-centric Representations of Scenes et al.](https://arxiv.org/abs/2306.08068) 丨 [[Project Page]](https://www.sjoerdvansteenkiste.com/dorsal)
   - [arXiv] [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://arxiv.org/abs/2306.09349) 丨 [[Project Page]](https://urbaninverserendering.github.io/)
   - [arXiv] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/abs/2306.00783) 丨 [[Code]](https://github.com/BillyXYB/FDNeRF)
-  - [arXiv] [AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars](https://arxiv.org/abs/2306.00547) 丨 [[Project Page]](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/)
   - [arXiv] [PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Scene Reconstruction](https://arxiv.org/abs/2305.16914)
   - [arXiv] [InpaintNeRF360: Text-Guided 3D Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/abs/2305.15094)
   - [arXiv] [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/abs/2305.10503) 丨 [[Project Page]](https://ornerf.github.io/)
