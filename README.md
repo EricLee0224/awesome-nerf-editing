@@ -15,13 +15,14 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent Research [Latest Update: 2023/10/24☕] 
+## Recent Research [Latest Update: 2023/10/28☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡     
 
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
 + [2024]
+  - [WACV 2024] [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](https://arxiv.org/abs/2310.16383)
   - [3DV 2024] [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
   - [3DV 2024] [Learning Controllable 3D Diffusion Models from Single-view Images](https://arxiv.org/abs/2304.06700) 丨 [[Project Page]](https://jiataogu.me/control3diff/)
   - [3DV 2024] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
@@ -103,6 +104,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [SIGGRAPH Asia 2023] SOL-NeRF: Sunlight Modeling for Outdoor Scene Decomposition and Relighting | [[Project Page]](http://geometrylearning.com/SOL-NeRF/)
   - [AAAI 2023 Oral] [Semantic 3D-aware Portrait Synthesis and Manipulation Based on Compositional Neural Radiance Field](https://arxiv.org/abs/2302.01579) 丨 [[Code]](https://github.com/TianxiangMa/CNeRF)
   - [AAAI 2023 Oral] [One is All: Bridging the Gap Between Neural Radiance Fields Architectures with Progressive Volume Distillation](https://arxiv.org/abs/2211.15977) | [[Project Page]](https://sk-fun.fun/PVD/)
+  - [ACM MM 2023] [Relit-NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field](https://arxiv.org/abs/2310.14642) | [[Project Page]](https://oppo-us-research.github.io/RelitNeuLF-website/)
   - [ACM MM 2023] [RecolorNeRF: Layer Decomposed Radiance Fields for Efficient Color Editing of 3D Scenes](https://arxiv.org/abs/2301.07958) | [[Project Page]](https://sites.google.com/view/recolornerf)
   - [ACM MM 2023] [Context-Aware Talking-Head Video Editing](https://arxiv.org/abs/2308.00462)
   - [IJCAI 2023] [RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models](https://arxiv.org/abs/2306.05668)
