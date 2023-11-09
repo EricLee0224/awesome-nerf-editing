@@ -21,7 +21,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
-+ [2024]
++ **2024**
   - [WACV 2024] [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
   - [WACV 2024] [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](https://arxiv.org/abs/2310.16383)
   - [3DV 2024] [Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture](https://arxiv.org/abs/2311.00457) 丨 [[Project Page]](https://dali-jack.github.io/SSR/)
@@ -162,7 +162,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [LC-NeRF: Local Controllable Face Generation in Neural Randiance Field](https://arxiv.org/abs/2302.09486)
   - [arXiv] [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://arxiv.org/abs/2302.04871) 丨 [[Project Page]](https://in-n-out-3d.github.io/)
 
-+ [2022]
++ **2022**
   - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
   - [NeurIPS 2022 Spotlight] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
   - [NeurIPS 2022] [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos](https://arxiv.org/abs/2210.12352) 丨 [[Project Page]](https://ylqiao.net/publication/2022nerf/)
@@ -214,7 +214,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [ERF: Explicit Radiance Field Reconstruction From Scratch](https://arxiv.org/abs/2203.00051)
   - [arXiv] [NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing](https://arxiv.org/abs/2202.06088)
 
-+ [2021]
++ **2021**
   - [ICCV 2021] [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://arxiv.org/abs/2109.01750) | [[Project Page]](https://sites.google.com/view/wbjang/home/codenerf)
   - [ICCV 2021] [Editing Conditional Radiance Fields](https://arxiv.org/abs/2105.06466) | [[Project Page]](http://editnerf.csail.mit.edu/)
   - [ICCV 2021] [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://arxiv.org/abs/2109.01847) | [[Project Page]](https://zju3dv.github.io/object_nerf)
@@ -225,7 +225,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   ---
   - [arXiv] [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) | [[Code]](https://github.com/lwwu2/diver-rt)
  
-+ [2020]
++ **2020**
   - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) | [[Project Page]](https://lingjie0206.github.io/papers/NSVF/)
 
 ## TODO List
