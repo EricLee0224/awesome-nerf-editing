@@ -15,24 +15,28 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent Research [Latest Update: 2023/11/04☕] 
+## Recent Research [Latest Update: 2023/11/09☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡     
 
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
 + [2024]
+  - [WACV 2024] [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
   - [WACV 2024] [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](https://arxiv.org/abs/2310.16383)
+  - [3DV 2024] [Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture](https://arxiv.org/abs/2311.00457) 丨 [[Project Page]](https://dali-jack.github.io/SSR/)
   - [3DV 2024] [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
   - [3DV 2024] [Learning Controllable 3D Diffusion Models from Single-view Images](https://arxiv.org/abs/2304.06700) 丨 [[Project Page]](https://jiataogu.me/control3diff/)
   - [3DV 2024] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
   - [3DV 2024] [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020) | [[Project Page]](https://jianglongye.com/consistent123/)
 + [2023]
+  - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
   - [NeurIPS 2023] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/abs/2306.00783) 丨 [[Project Page]](https://github.com/BillyXYB/FDNeRF)
   - [NeurIPS 2023] [OBJect 3DIT: Language-guided 3D-aware Image Editing](http://arxiv.org/abs/2307.11073) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
   - [CICAI 2023 Best Paper Runner-up] [MARS: An Instance-aware, Modular and Realistic Simulator for Autonomous Driving](https://arxiv.org/abs/2307.15058) 丨 [[Project Page]](https://open-air-sun.github.io/mars/)
   - [ICCV 2023 Oral] [ENVIDR: Implicit Differentiable Renderer with Neural Environment Lighting](https://arxiv.org/abs/2303.13022) 丨 [[Project Page]](https://nexuslrf.github.io/ENVIDR/)
   - [ICCV 2023 Oral] [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://arxiv.org/abs/2303.12789) 丨 [[Project Page]](https://instruct-nerf2nerf.github.io/)
+  - [ICCV 2023] [UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2303.14167) 丨 [[Project Page]](https://github.com/freemty/UrbanGIRAFFE)
   - [ICCV 2023] [Clutter Detection and Removal in 3D Scenes with View-Consistent Inpainting](https://arxiv.org/abs/2304.03763) 丨 [[Project Page]](https://weify627.github.io/clutter/)
   - [ICCV 2023] [ICE-NeRF: Interactive Color Editing of NeRFs via Decomposition-Aware Weight Optimization](https://openaccess.thecvf.com//content/ICCV2023/html/Lee_ICE-NeRF_Interactive_Color_Editing_of_NeRFs_via_Decomposition-Aware_Weight_Optimization_ICCV_2023_paper.html) 
   - [ICCV 2023] [ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_ReNeRF_Relightable_Neural_Radiance_Fields_with_Nearfield_Lighting_ICCV_2023_paper.html) 
@@ -115,6 +119,8 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [WACV 2023] [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://arxiv.org/abs/2204.10850) | [[Project Page]](https://virtualhumans.mpi-inf.mpg.de/control-nerf/)
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   ---
+  - [arXiv] [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
+  - [arXiv] [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://github.com/mybabyyh/InstructPix2NeRF)
   - [arXiv] [Neural Implicit Field Editing Considering Object-environment Interaction](https://arxiv.org/abs/2310.16858) 
   - [arXiv] [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation](https://arxiv.org/abs/2311.00425) | [[Project Page]](https://patrickddj.github.io/4D-Editor/)
   - [arXiv] [ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context](https://arxiv.org/abs/2310.09965) | [[Project Page]](https://proteusnerf.github.io/)
