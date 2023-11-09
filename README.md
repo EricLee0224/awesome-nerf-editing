@@ -29,7 +29,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [3DV 2024] [Learning Controllable 3D Diffusion Models from Single-view Images](https://arxiv.org/abs/2304.06700) 丨 [[Project Page]](https://jiataogu.me/control3diff/)
   - [3DV 2024] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
   - [3DV 2024] [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020) | [[Project Page]](https://jianglongye.com/consistent123/)
-+ [2023]
++ **2023**
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
   - [NeurIPS 2023] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/abs/2306.00783) 丨 [[Project Page]](https://github.com/BillyXYB/FDNeRF)
   - [NeurIPS 2023] [OBJect 3DIT: Language-guided 3D-aware Image Editing](http://arxiv.org/abs/2307.11073) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
