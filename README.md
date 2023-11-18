@@ -166,6 +166,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field](https://arxiv.org/abs/2303.05703) 丨 [[Project Page]](https://silenkzyoung.github.io/MovingParts-WebPage/)
   - [arXiv] [LC-NeRF: Local Controllable Face Generation in Neural Randiance Field](https://arxiv.org/abs/2302.09486)
   - [arXiv] [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://arxiv.org/abs/2302.04871) 丨 [[Project Page]](https://in-n-out-3d.github.io/)
+  - [arXiv] [ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation](https://arxiv.org/abs/2311.06211)
 
 + **2022**
   - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
@@ -218,7 +219,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D](https://arxiv.org/abs/2206.03591)
   - [arXiv] [ERF: Explicit Radiance Field Reconstruction From Scratch](https://arxiv.org/abs/2203.00051)
   - [arXiv] [NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing](https://arxiv.org/abs/2202.06088)
-  - [arXiv] [ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation](https://arxiv.org/abs/2311.06211)
 
 + **2021**
   - [ICCV 2021] [CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://arxiv.org/abs/2109.01750) | [[Project Page]](https://sites.google.com/view/wbjang/home/codenerf)
