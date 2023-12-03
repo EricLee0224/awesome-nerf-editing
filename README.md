@@ -15,7 +15,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 + Community Collaboration: Join our community of NeRF researchers, and developers. Share your insights, ask questions, and collaborate on groundbreaking projects.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of NeRF research and development.
 
-## Recent Research [Latest Update: 2023/11/18☕] 
+## Recent Research [Latest Update: 2023/12/03☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡     
 
@@ -29,6 +29,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [3DV 2024] [Learning Controllable 3D Diffusion Models from Single-view Images](https://arxiv.org/abs/2304.06700) 丨 [[Project Page]](https://jiataogu.me/control3diff/)
   - [3DV 2024] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
   - [3DV 2024] [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020) | [[Project Page]](https://jianglongye.com/consistent123/)
+  - [CG & A 2024] [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://arxiv.org/abs/2206.04901) | [[Project Page]](https://jdily.github.io/proj_site/nerfin_proj.html)
 + **2023**
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
   - [NeurIPS 2023] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/abs/2306.00783) 丨 [[Project Page]](https://github.com/BillyXYB/FDNeRF)
@@ -108,6 +109,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [SIGGRAPH 2023] [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://arxiv.org/abs/2311.10091) | [[Project Page]](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/)
   - [SIGGRAPH 2023] [DE-NeRF: DEcoupled Neural Radiance Fields for View-Consistent Appearance Editing and High-Frequency Environmental Relighting](https://dl.acm.org/doi/10.1145/3588432.3591483) | [[Project Page]](http://geometrylearning.com/DE-NeRF/)
   - [SIGGRAPH 2023] [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/abs/2212.01406) | [[Project Page]](https://shivangi-aneja.github.io/projects/clipface/)
+  - [SIGGRAPH Asia 2023] [SeamlessNeRF: Stitching Part NeRFs with Gradient Propagation](https://arxiv.org/abs/2311.16127) | [[Project Page]](https://sites.google.com/view/seamlessnerf)
   - [SIGGRAPH Asia 2023] [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs/2306.13455)
   - [SIGGRAPH Asia 2023] [BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis](https://arxiv.org/abs/2311.05521)
   - [SIGGRAPH Asia 2023] [AvatarStudio: Text-driven Editing of 3D Dynamic Human Head Avatars](https://arxiv.org/abs/2306.00547) 丨 [[Project Page]](https://vcai.mpi-inf.mpg.de/projects/AvatarStudio/)
@@ -126,6 +128,18 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   ---
+  - [arXiv] [Control4D: Efficient 4D Portrait Editing with Text](https://arxiv.org/abs/2305.20082) | [[Project Page]](https://control4darxiv.github.io/)
+  - [arXiv] [Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields](https://arxiv.org/abs/2311.16737)
+  - [arXiv] [Posterior Distillation Sampling](https://arxiv.org/abs/2311.13831) | [[Project Page]](https://posterior-distillation-sampling.github.io/)
+  - [arXiv] [Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing](https://arxiv.org/abs/2311.16043) | [[Project Page]](https://nju-3dv.github.io/projects/Relightable3DGaussian/)
+  - [arXiv] [PaintNeSF: Artistic Creation of Stylized Scenes with Vectorized 3D Strokes](https://arxiv.org/abs/2311.15637) | [[Project Page]](https://buaavrcg.github.io/PaintNeSF/)
+  - [arXiv] [Obj-NeRF: Extracting Object NeRFs from Multi-view Images](https://arxiv.org/abs/2311.15291) | [[Project Page]](https://objnerf.github.io/)
+  - [arXiv] [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037) | [[Project Page]](https://gaussianeditor.github.io/)
+  - [arXiv] [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521) | [[Project Page]](https://buaacyw.github.io/gaussian-editor/)
+  - [arXiv] [PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF](https://arxiv.org/abs/2311.13099) | [[Project Page]](https://fytalon.github.io/pienerf/)
+  - [arXiv] [DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields](https://arxiv.org/abs/2311.12063)
+  - [arXiv] [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://arxiv.org/abs/2311.12198) | [[Project Page]](https://xpandora.github.io/PhysGaussian/)
+  - [arXiv] [SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering](https://arxiv.org/abs/2311.12775) | [[Project Page]](https://imagine.enpc.fr/~guedona/sugar/)
   - [arXiv] [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
   - [arXiv] [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://github.com/mybabyyh/InstructPix2NeRF)
   - [arXiv] [Neural Implicit Field Editing Considering Object-environment Interaction](https://arxiv.org/abs/2310.16858) 
@@ -216,7 +230,6 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
   - [arXiv] [FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields](https://arxiv.org/abs/2211.11202)
   - [arXiv] [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://arxiv.org/abs/2211.07968)
   - [arXiv] [Estimating Neural Reflectance Field from Radiance Field using Tree Structures](https://arxiv.org/abs/2210.04217)
-  - [arXiv] [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://arxiv.org/abs/2206.04901) | [[Project Page]](https://jdily.github.io/proj_site/nerfin_proj.html)
   - [arXiv] [ObPose: Leveraging Pose for Object-Centric Scene Inference and Generation in 3D](https://arxiv.org/abs/2206.03591)
   - [arXiv] [ERF: Explicit Radiance Field Reconstruction From Scratch](https://arxiv.org/abs/2203.00051)
   - [arXiv] [NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing](https://arxiv.org/abs/2202.06088)
