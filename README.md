@@ -257,19 +257,9 @@ Currently we only provide a chronological grouping of papers, and we will catego
 
 ## Get Involved and be a contributor!
 
-+ Explore our curated list of resources.
-+ Contribute to our GitHub repository and help us expand this resource.
-+ Share your own NeRF editing projects and research with the community.
-
-We welcome contributions to expand and improve this collection. If you have relevant resources to share or want to collaborate on this project, please follow these guidelines:
-
-1. Fork this repository.
-2. Add your resources to the appropriate sections in the README.
-3. Commit your changes.
-4. Push to the branch: `git push origin master`.
-5. Submit a pull request.
-
-Please ensure that the resources you contribute are relevant to NeRF-based editing techniques.
++ Weize Li | AIR，Tsinghua Univ. [@DISCOVER Lab](https://www.discover-lab.com/)
++ Tianshu Kuai | UofT [@Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/)
++ Could be YOU！
 
 ## License
 
