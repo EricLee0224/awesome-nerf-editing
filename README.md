@@ -17,8 +17,9 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 ## Recent Research [Latest Update: 2023/12/03☕] 
 
-🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡
-👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
+🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
+
+💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
   - [WACV 2024] [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
