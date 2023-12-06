@@ -17,8 +17,7 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 
 ## Recent Research [Latest Update: 2023/12/03☕] 
 
-🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡     
-
+🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date. 📝💡
 👋 Feel Welcome to Open an Issue or Pull Request! 🚀💬
 
 + **2024**
@@ -251,9 +250,9 @@ NeRF Editing leverages the power of Neural Radiance Fields to manipulate and edi
 ## TODO List
 
 Currently we only provide a chronological grouping of papers, and we will categorize papers by topic by the end of 2023.
-+ [TODO#1] Language-guided
-+ [TODO#2] Color Editing
-+ [TODO#3] Deformation
++ [TODO#1] -
++ [TODO#2] -
++ [TODO#3] -
 
 ## Get Involved and be a contributor!
 
@@ -262,17 +261,4 @@ Currently we only provide a chronological grouping of papers, and we will catego
 + Could be YOU！
 
 ## License
-
 This project is licensed under the MIT License.
-
-## Citation
-
-If you find this list useful in your research, please consider citing:
-
-    @misc{weize2023nerfeditingpaperslist,
-    title = {Awesome-NeRF-Editing},
-    author = {Weize Li, Tianshu Kuai},
-    journal = {GitHub repository},
-    url = {https://github.com/EricLee0224/awesome-nerf-editing},
-    year = {2023}
-    }
