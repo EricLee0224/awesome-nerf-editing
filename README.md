@@ -14,7 +14,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 + Comprehensive Resources: We've curated an extensive list of papers and projects related to Neural Fields Editing, making it easy for you to dive into this exciting field.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of Neural Fields Editing research and development.
 
-## Recent Research [Latest Update: 2023/12/03☕] 
+## Recent Research [Latest Update: 2023/12/11☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -127,6 +127,17 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   ---
+  - [arXiv] [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://arxiv.org/abs/2312.05247) | [[Project Page]](https://shengyuh.github.io/dynfl/index.html)
+  - [arXiv] [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://arxiv.org/abs/2312.03869) | [[Project Page]](https://inpaint3d.github.io/)
+  - [arXiv] [NeRFiller: Completing Scenes via Generative 3D Inpainting](https://arxiv.org/abs/2312.04560) | [[Project Page]](https://ethanweber.me/nerfiller/)
+  - [arXiv] [Towards 4D Human Video Stylization](https://arxiv.org/abs/2312.04143) | [[Project Page]](https://github.com/TiantianWang/4D_Video_Stylization)
+  - [arXiv] [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531) | [[Project Page]](https://lyclyc52.github.io/SANeRF-HQ/)
+  - [arXiv] [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [[Project Page]](https://jumpat.github.io/SAGA/)
+  - [arXiv] [Mesh-Guided Neural Implicit Field Editing](https://arxiv.org/abs/2312.02157) | [[Project Page]](https://cassiepython.github.io/MNeuEdit/)
+  - [arXiv] [Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training](https://arxiv.org/abs/2312.01663) | [[Project Page]](https://customnerf.github.io/)
+  - [arXiv] [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://github.com/yihua7/SC-GS) | [[Project Page]](https://yihua7.github.io/SC-GS-web/)
+  - [arXiv] [Text-Guided 3D Face Synthesis - From Generation to Editing](https://arxiv.org/abs/2312.00375) | [[Project Page]](https://faceg2e.github.io/)
+  - [arXiv] [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732) | [[Project Page]](https://github.com/lkeab/gaussian-grouping)
   - [arXiv] [Control4D: Efficient 4D Portrait Editing with Text](https://arxiv.org/abs/2305.20082) | [[Project Page]](https://control4darxiv.github.io/)
   - [arXiv] [Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields](https://arxiv.org/abs/2311.16737)
   - [arXiv] [Posterior Distillation Sampling](https://arxiv.org/abs/2311.13831) | [[Project Page]](https://posterior-distillation-sampling.github.io/)
