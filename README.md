@@ -269,7 +269,7 @@ Currently we only provide a chronological grouping of papers, and we will catego
 
 + Weize Li | AIR，Tsinghua Univ. [@DISCOVER Lab](https://www.discover-lab.com/)
 + Tianshu Kuai | UofT [@Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/)
-+ Could be YOU！
++ Next could be YOU！
 
 ## License
 This project is licensed under the MIT License.
