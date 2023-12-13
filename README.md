@@ -14,7 +14,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 + Comprehensive Resources: We've curated an extensive list of papers and projects related to Neural Fields Editing, making it easy for you to dive into this exciting field.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of Neural Fields Editing research and development.
 
-## Recent Research [Latest Update: 2023/12/11☕] 
+## Recent Research [Latest Update: 2023/12/13☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
