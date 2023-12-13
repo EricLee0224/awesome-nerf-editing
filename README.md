@@ -21,6 +21,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
+  - [WACV 2024] [Volumetric Disentanglement for 3D Scene Manipulation](https://arxiv.org/abs/2206.02776)
   - [WACV 2024] [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
   - [WACV 2024] [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](https://arxiv.org/abs/2310.16383)
   - [3DV 2024] [Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture](https://arxiv.org/abs/2311.00457) 丨 [[Project Page]](https://dali-jack.github.io/SSR/)
