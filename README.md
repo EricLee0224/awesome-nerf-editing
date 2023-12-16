@@ -14,14 +14,14 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 + Comprehensive Resources: We've curated an extensive list of papers and projects related to Neural Fields Editing, making it easy for you to dive into this exciting field.
 + Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of Neural Fields Editing research and development.
 
-## Recent Research [Latest Update: 2023/12/13☕] 
+## Recent Research [Latest Update: 2023/12/16☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
 💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
-  - [WACV 2024] [Volumetric Disentanglement for 3D Scene Manipulation](https://arxiv.org/abs/2206.02776)
+  - [WACV 2024] [Volumetric Disentanglement for 3D Scene Manipulation](https://arxiv.org/abs/2206.02776) 丨 [[Project Page]](https://sagiebenaim.github.io/volumetric-disentanglement/)
   - [WACV 2024] [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
   - [WACV 2024] [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](https://arxiv.org/abs/2310.16383)
   - [3DV 2024] [Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture](https://arxiv.org/abs/2311.00457) 丨 [[Project Page]](https://dali-jack.github.io/SSR/)
@@ -128,6 +128,8 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   ---
+  - [arXiv] [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920) | [[Project Page]](https://pkuvdig.github.io/DrivingGaussian/)
+  - [arXiv] [Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://arxiv.org/abs/2312.06657) | [[Project Page]](https://felixcheng97.github.io/AGAP/)
   - [arXiv] [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://arxiv.org/abs/2312.05247) | [[Project Page]](https://shengyuh.github.io/dynfl/index.html)
   - [arXiv] [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://arxiv.org/abs/2312.03869) | [[Project Page]](https://inpaint3d.github.io/)
   - [arXiv] [NeRFiller: Completing Scenes via Generative 3D Inpainting](https://arxiv.org/abs/2312.04560) | [[Project Page]](https://ethanweber.me/nerfiller/)
