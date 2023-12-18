@@ -2,7 +2,7 @@
 
 #### Curated by [Weize Li](https://ericlee0224.github.io/) @[AIR-DISCOVER Lab](https://www.discover-lab.com/) and [Tianshu Kuai](https://tianshukuai.github.io/) @[Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/).
 
-#### We express our gratitude to the contributors：Sagie Benaim.
+#### We express our gratitude to the contributors: Sagie Benaim.
 ---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Neural Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
