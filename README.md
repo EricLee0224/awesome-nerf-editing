@@ -261,18 +261,10 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 + **2020**
   - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) | [[Project Page]](https://lingjie0206.github.io/papers/NSVF/)
 
-## TODO List
-
-Currently we only provide a chronological grouping of papers, and we will categorize papers by topic by the end of 2023.
-+ [TODO#1] -
-+ [TODO#2] -
-+ [TODO#3] -
-
 ## Get Involved and be a contributor!
 
 + Weize Li | AIR，Tsinghua Univ. [@DISCOVER Lab](https://www.discover-lab.com/)
 + Tianshu Kuai | UofT [@Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/)
-+ Next could be YOU！
 
 ## License
 This project is licensed under the MIT License.
