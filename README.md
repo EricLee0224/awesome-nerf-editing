@@ -1,18 +1,15 @@
-# Awesome Neural Fields Editing 
+# Awesome Neural Fields Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+#### Curated by [Weize Li](https://ericlee0224.github.io/) @[DISCOVER Lab](https://www.discover-lab.com/) and [Tianshu Kuai](https://tianshukuai.github.io/) @[Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/).
 
+---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Neural Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
-## 🪬What is Neural Fields Editing?
+## 😶‍🌫️What is Neural Fields Editing?
 Neural Fields Editing leverages the power of Neural Fields to manipulate and edit 3D scenes or objects in a highly realistic and immersive manner. This emerging field holds immense potential for a wide range of applications, including virtual reality, augmented reality, content creation, and more. **However, neural fields implicitly encode shape and texture information of the scene or object, which implies natural difficulties in the Neural Fields editing task.**
 <p align="center">
   <img src="NeRFEditingStat.png" width = "70%" />
 </p>
-
-## 😶‍🌫️Why "awesome-nerf-editing"?
-+ Comprehensive Resources: We've curated an extensive list of papers and projects related to Neural Fields Editing, making it easy for you to dive into this exciting field.
-+ Stay Updated: We keep our resources up-to-date, ensuring that you're always at the forefront of Neural Fields Editing research and development.
 
 ## Recent Research [Latest Update: 2023/12/16☕] 
 
@@ -261,10 +258,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 + **2020**
   - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) | [[Project Page]](https://lingjie0206.github.io/papers/NSVF/)
 
-## Get Involved and be a contributor!
-
-+ Weize Li | AIR，Tsinghua Univ. [@DISCOVER Lab](https://www.discover-lab.com/)
-+ Tianshu Kuai | UofT [@Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/)
 
 ## License
 This project is licensed under the MIT License.
