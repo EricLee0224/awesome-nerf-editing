@@ -12,7 +12,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   <img src="NeRFEditingStat.png" width = "70%" />
 </p>
 
-## Recent Research [Latest Update: 2023/12/16☕] 
+## Recent Research [Latest Update: 2023/12/22☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
