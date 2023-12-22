@@ -19,6 +19,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
+  - [WACV 2024] [NeRFEditor: Differentiable Style Decomposition for 3D Scene Editing](https://openaccess.thecvf.com/content/WACV2024/html/Sun_NeRFEditor_Differentiable_Style_Decomposition_for_3D_Scene_Editing_WACV_2024_paper.html) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
   - [WACV 2024] [Volumetric Disentanglement for 3D Scene Manipulation](https://arxiv.org/abs/2206.02776) 丨 [[Project Page]](https://sagiebenaim.github.io/volumetric-disentanglement/)
   - [WACV 2024] [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
   - [WACV 2024] [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](https://arxiv.org/abs/2310.16383)
@@ -126,6 +127,11 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   ---
+  - [arXiv] [Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models](https://arxiv.org/abs/2312.08563) | [[Project Page]](https://lsongx.github.io/projects/en2n.html)
+  - [arXiv] [SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds](https://arxiv.org/abs/2312.09246) | [[Project Page]](https://silent-chen.github.io/Shap-Editor/)
+  - [arXiv] [LAENeRF: Local Appearance Editing for Neural Radiance Fields](https://arxiv.org/abs/2312.09913) | [[Project Page]](https://r4dl.github.io/LAENeRF/)
+  - [arXiv] [LatentEditor: Text Driven Local Editing of 3D Scenes](https://arxiv.org/abs/2312.09313) | [[Project Page]](https://latenteditor.github.io/)
+  - [arXiv] [Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models](https://arxiv.org/abs/2312.08563) | [[Project Page]](https://lsongx.github.io/projects/en2n.html)
   - [arXiv] [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920) | [[Project Page]](https://pkuvdig.github.io/DrivingGaussian/)
   - [arXiv] [Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://arxiv.org/abs/2312.06657) | [[Project Page]](https://felixcheng97.github.io/AGAP/)
   - [arXiv] [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://arxiv.org/abs/2312.05247) | [[Project Page]](https://shengyuh.github.io/dynfl/index.html)
@@ -153,8 +159,8 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering](https://arxiv.org/abs/2311.12775) | [[Project Page]](https://imagine.enpc.fr/~guedona/sugar/)
   - [arXiv] [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
   - [arXiv] [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://github.com/mybabyyh/InstructPix2NeRF)
-  - [arXiv] [Neural Implicit Field Editing Considering Object-environment Interaction](https://arxiv.org/abs/2310.16858) 
-  - [arXiv] [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation](https://arxiv.org/abs/2311.00425) | [[Project Page]](https://patrickddj.github.io/4D-Editor/)
+  - [arXiv] [Neural Implicit Field Editing Considering Object-environment Interaction](https://arxiv.org/abs/2311.00425) 
+  - [arXiv] [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation](https://arxiv.org/abs/2310.16858) | [[Project Page]](https://patrickddj.github.io/4D-Editor/)
   - [arXiv] [ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context](https://arxiv.org/abs/2310.09965) | [[Project Page]](https://proteusnerf.github.io/)
   - [arXiv] [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784) | [[Project Page]](https://cxh0519.github.io/projects/Progressive3D/)
   - [arXiv] [Dreaming Your Room Space with Text-Driven](https://arxiv.org/abs/2310.13119) | [[Project Page]](https://ybbbbt.com/publication/dreamspace/)
@@ -235,7 +241,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [PG & CGF 2022] [Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects](https://arxiv.org/abs/2209.04183)
   ---
   - [arXiv] [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135) | [[Project Page]](https://3d-avatar-diffusion.microsoft.com/)
-  - [arXiv] [NeRFEditor: Differentiable Style Decomposition for Full 3D Scene Editing](https://arxiv.org/abs/2212.03848) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
   - [arXiv] [SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields](https://arxiv.org/abs/2212.03406) | [[Project Page]](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)
   - [arXiv] [ONeRF: Unsupervised 3D Object Segmentation from Multiple Views](https://arxiv.org/abs/2211.12038)
   - [arXiv] [FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields](https://arxiv.org/abs/2211.11202)
