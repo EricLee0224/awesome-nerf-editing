@@ -126,6 +126,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [WACV 2023] [Control-NeRF: Editable Feature Volumes for Scene Rendering and Manipulation](https://arxiv.org/abs/2204.10850) | [[Project Page]](https://virtualhumans.mpi-inf.mpg.de/control-nerf/)
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
+  - [I3D 2023] [NeRFshop: Interactive Editing of Neural Radiance Fields](http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf) | [[Project Page]](https://repo-sam.inria.fr/fungraph/nerfshop/) 
   ---
   - [arXiv] [Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models](https://arxiv.org/abs/2312.08563) | [[Project Page]](https://lsongx.github.io/projects/en2n.html)
   - [arXiv] [SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds](https://arxiv.org/abs/2312.09246) | [[Project Page]](https://silent-chen.github.io/Shap-Editor/)
@@ -199,6 +200,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [LC-NeRF: Local Controllable Face Generation in Neural Randiance Field](https://arxiv.org/abs/2302.09486)
   - [arXiv] [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://arxiv.org/abs/2302.04871) 丨 [[Project Page]](https://in-n-out-3d.github.io/)
   - [arXiv] [ASSIST: Interactive Scene Nodes for Scalable and Realistic Indoor Simulation](https://arxiv.org/abs/2311.06211)
+  - [arXiv] [Free-Editor: Zero-shot Text-driven 3D Scene Editing](https://arxiv.org/abs/2312.13663) | [[Project Page]](https://free-editor.github.io/)
 
 + **2022**
   - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
