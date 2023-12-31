@@ -12,7 +12,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   <img src="NeRFEditingStat.png" width = "70%" />
 </p>
 
-## Recent Research [Latest Update: 2023/12/22☕] 
+## Recent Research [Latest Update: 2023/12/31☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -128,6 +128,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   - [I3D 2023] [NeRFshop: Interactive Editing of Neural Radiance Fields](http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf) | [[Project Page]](https://repo-sam.inria.fr/fungraph/nerfshop/) 
   ---
+  - [arXiv] [SERF: Fine-Grained Interactive 3D Segmentation and Editing with Radiance Fields](https://arxiv.org/abs/2312.15856)
   - [arXiv] [Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models](https://arxiv.org/abs/2312.08563) | [[Project Page]](https://lsongx.github.io/projects/en2n.html)
   - [arXiv] [SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds](https://arxiv.org/abs/2312.09246) | [[Project Page]](https://silent-chen.github.io/Shap-Editor/)
   - [arXiv] [LAENeRF: Local Appearance Editing for Neural Radiance Fields](https://arxiv.org/abs/2312.09913) | [[Project Page]](https://r4dl.github.io/LAENeRF/)
