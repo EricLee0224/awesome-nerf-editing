@@ -128,6 +128,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   - [I3D 2023] [NeRFshop: Interactive Editing of Neural Radiance Fields](http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf) | [[Project Page]](https://repo-sam.inria.fr/fungraph/nerfshop/) 
   ---
+  - [arXiv] [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/)
   - [arXiv] [SERF: Fine-Grained Interactive 3D Segmentation and Editing with Radiance Fields](https://arxiv.org/abs/2312.15856)
   - [arXiv] [Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models](https://arxiv.org/abs/2312.08563) | [[Project Page]](https://lsongx.github.io/projects/en2n.html)
   - [arXiv] [SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds](https://arxiv.org/abs/2312.09246) | [[Project Page]](https://silent-chen.github.io/Shap-Editor/)
