@@ -12,6 +12,15 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   <img src="NeRFEditingStat.png" width = "70%" />
 </p>
 
+## Related Surveys
+  - [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)
+  - [Advances in 3D Neural Stylization: A Survey](https://arxiv.org/abs/2311.18328)
+  - [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426)
+  - [A Revisit of Shape Editing Techniques: from the Geometric to the Neural Viewpoint](https://arxiv.org/abs/2103.01694)
+  - [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
+  - [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
+
+
 ## Recent Research [Latest Update: 2023/01/03☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
