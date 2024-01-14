@@ -22,7 +22,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 
-## Recent Research [Latest Update: 2023/01/03☕] 
+## Recent Research [Latest Update: 2023/01/14☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -138,6 +138,10 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   - [I3D 2023] [NeRFshop: Interactive Editing of Neural Radiance Fields](http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf) | [[Project Page]](https://repo-sam.inria.fr/fungraph/nerfshop/) 
   ---
+  - [arXiv] [FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields](https://arxiv.org/abs/2401.05516) | [[Project Page]](https://kim-geonu.github.io/FPRF/)
+  - [arXiv] [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
+  - [arXiv] [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
+  - [arXiv] [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://arxiv.org/abs/2401.01647) | [[Project Page]](https://signerf.jdihlmann.com/)
   - [arXiv] [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/)
   - [arXiv] [SERF: Fine-Grained Interactive 3D Segmentation and Editing with Radiance Fields](https://arxiv.org/abs/2312.15856)
   - [arXiv] [Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models](https://arxiv.org/abs/2312.08563) | [[Project Page]](https://lsongx.github.io/projects/en2n.html)
@@ -224,6 +228,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [NeurIPS 2022] [SAMURAI: Shape And Material from Unconstrained Real-world Arbitrary Image collections](https://arxiv.org/abs/2205.15768) 丨 [[Project Page]](https://markboss.me/publication/2022-samurai/)
   - [NeurIPS 2022] [Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation](https://arxiv.org/abs/2210.00489) 丨 [[Project Page]](https://xinhangliu.com/nerf_seg)
   - [NeurIPS 2022] [D2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video](https://arxiv.org/abs/2205.15838)
+  - [ECCV 2022 Oral] [Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing](https://arxiv.org/abs/2207.11911) | [[Project Page]](https://zju3dv.github.io/neumesh/)
   - [ECCV 2022] [MoFaNeRF: Morphable Facial Neural Radiance Field](https://arxiv.org/abs/2112.02308) | [[Project Page]](https://yiyuzhuang.github.io/mofanerf/)
   - [ECCV 2022] [LaTeRF: Label and Text Driven Object Radiance Fields](https://arxiv.org/abs/2207.01583)
   - [ECCV 2022] [NeRF for Outdoor Scene Relighting](https://arxiv.org/abs/2112.05140) | [[Project Page]](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)
