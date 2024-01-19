@@ -292,11 +292,11 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [ICCV 2021] [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | [[Project Page]](https://yudongguo.github.io/ADNeRF/)
   - [SIGGRAPH Asia 2021] [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/abs/2106.01970) | [[Project Page]](https://xiuming.info/projects/nerfactor/)
   - [SIGGRAPH 2021] [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/abs/2104.14786) | [[Project Page]](https://jiakai-zhang.github.io/st-nerf/)
-  ---
   - [arXiv] [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) | [[Code]](https://github.com/lwwu2/diver-rt)
   - [arXiv] [Appearance Editing with Free-viewpoint Neural Rendering](https://arxiv.org/abs/2110.07674)
-  - [arXiv] [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503)
+  ---
 + **2020**
+  - [arXiv] [Object-Centric Neural Scene Rendering](https://arxiv.org/abs/2012.08503)
   - [NeurIPS 2020 Spotlight] [Neural Sparse Voxel Fields](https://arxiv.org/abs/2007.11571) | [[Project Page]](https://lingjie0206.github.io/papers/NSVF/)
 
 
