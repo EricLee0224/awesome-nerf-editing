@@ -138,7 +138,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [ICMR 2023] [RIP-NeRF: Learning Rotation-Invariant Point-based Neural Radiance Field for Fine-grained Editing and Compositing](https://dl.acm.org/doi/abs/10.1145/3591106.3592276?casa_token=fhrmDeSoewsAAAAA:xUNIIC37BudIi6AG7a_dD4JwqxNKCgNk-8jC2NcKNdJKh1M86fBGuutzFt2WvG7nROVyqPoBPY3CgKg)
   - [PG & CGF 2023] [Neural Impostor: Editing Neural Radiance Fields with Explicit Shape Manipulation](https://arxiv.org/abs/2310.05391)
   - [I3D 2023] [NeRFshop: Interactive Editing of Neural Radiance Fields](http://www-sop.inria.fr/reves/Basilic/2023/JKKDLD23/nerfshop.pdf) | [[Project Page]](https://repo-sam.inria.fr/fungraph/nerfshop/) 
-  ---
   - [arXiv] [FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields](https://arxiv.org/abs/2401.05516) | [[Project Page]](https://kim-geonu.github.io/FPRF/)
   - [arXiv] [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - [arXiv] [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
@@ -223,8 +222,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing](https://arxiv.org/abs/2310.10624)
   - [arXiv] [A General Implicit Framework for Fast NeRF Composition and Rendering](https://arxiv.org/abs/2308.04669)
   - [arXiv] [LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://arxiv.org/abs/2304.03280)
-
-  
+---
 + **2022**
   - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
   - [NeurIPS 2022 Spotlight] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
@@ -270,7 +268,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [3DV 2022 Oral] [Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations](https://arxiv.org/abs/2209.03494) | [Project Page](https://www.robots.ox.ac.uk/~vadim/n3f/)
   - [3DV 2022] [Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/abs/2210.05825) | [[Project Page]](https://payeah.net/corf_html/index.html)
   - [PG & CGF 2022] [Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects](https://arxiv.org/abs/2209.04183)
-  ---
   - [arXiv] [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135) | [[Project Page]](https://3d-avatar-diffusion.microsoft.com/)
   - [arXiv] [SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields](https://arxiv.org/abs/2212.03406) | [[Project Page]](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)
   - [arXiv] [ONeRF: Unsupervised 3D Object Segmentation from Multiple Views](https://arxiv.org/abs/2211.12038)
@@ -281,6 +278,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [ERF: Explicit Radiance Field Reconstruction From Scratch](https://arxiv.org/abs/2203.00051)
   - [arXiv] [NeuVV: Neural Volumetric Videos with Immersive Rendering and Editing](https://arxiv.org/abs/2202.06088)
   - [arXiv] [VolTeMorph: Realtime, Controllable and Generalisable Animation of Volumetric Representations](https://arxiv.org/abs/2208.00949)
+  ---
 + **2021**
   - [CVPR 2021] [Neural Scene Graphs for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/html/Ost_Neural_Scene_Graphs_for_Dynamic_Scenes_CVPR_2021_paper.html)
   - [CVPR 2021] [NeuTex: Neural Texture Mapping for Volumetric Neural Rendering](https://openaccess.thecvf.com/content/CVPR2021/html/Xiang_NeuTex_Neural_Texture_Mapping_for_Volumetric_Neural_Rendering_CVPR_2021_paper.html)
