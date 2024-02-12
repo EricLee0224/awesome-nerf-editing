@@ -23,7 +23,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 
-## Recent Research [Latest Update: 2023/02/03☕] 
+## Recent Research [Latest Update: 2023/02/11☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -54,6 +54,9 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality](https://arxiv.org/abs/2401.16663) | [[Project Page]](https://yingjiang96.github.io/VR-GS/)
   - [arXiv] [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895) | [[Project Page]](https://replaceanything3d.github.io/)
   - [arXiv] [Geometry Transfer for Stylizing Radiance Fields](https://arxiv.org/abs/2402.00863) | [[Project Page]](https://hyblue.github.io/geo-srf/)
+  - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
+  - [arXiv] [GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting](https://arxiv.org/abs/2402.01459) | [[Code]](https://github.com/waczjoan/gaussian-mesh-splatting)
+  - [arXiv] [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746) | [[Project Page]](https://yifanlu0227.github.io/ChatSim/)
 ---
 + **2023**
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
