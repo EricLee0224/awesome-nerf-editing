@@ -242,6 +242,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://arxiv.org/abs/2304.03280) | [[Project Page]](https://lane-composition.github.io/)
 ---
 + **2022**
+  - [EGSR 2022] [Recolorable Posterization of Volumetric Radiance Fields Using Visibility-Weighted Palette Extraction](https://drive.google.com/file/d/1HjAVDBiainhDAEejmDPH8WrvRxk-Fbtw/view?usp=sharing) | [[Project Page]](https://kenji-tojo.github.io/publications/posternerf/)
   - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
   - [NeurIPS 2022 Spotlight] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
   - [NeurIPS 2022] [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos](https://arxiv.org/abs/2210.12352) 丨 [[Project Page]](https://ylqiao.net/publication/2022nerf/)
