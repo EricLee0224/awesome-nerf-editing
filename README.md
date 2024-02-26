@@ -63,6 +63,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [Real-time 3D-aware Portrait Editing from a Single Image](https://arxiv.org/abs/2402.14000) 
 ---
 + **2023**
+  - [TVCG 2023] [Nerf-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070) | [[Project Page]](https://cassiepython.github.io/nerfart/)
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
   - [NeurIPS 2023] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/abs/2306.00783) 丨 [[Project Page]](https://github.com/BillyXYB/FDNeRF)
   - [NeurIPS 2023] [OBJect 3DIT: Language-guided 3D-aware Image Editing](https://arxiv.org/abs/2307.11073) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
