@@ -24,7 +24,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 
-## Recent Research [Latest Update: 2023/02/22☕] 
+## Recent Research [Latest Update: 2023/02/27☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
