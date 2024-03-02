@@ -13,6 +13,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 </p>
 
 ## Related Surveys
+  - [arXiv] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
   - [arXiv] [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)
   - [arXiv] [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)
   - [arXiv] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
@@ -77,6 +78,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [Real-time 3D-aware Portrait Editing from a Single Image](https://arxiv.org/abs/2402.14000) 
 ---
 + **2023**
+  - [TVCG 2023] [Nerf-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070) | [[Project Page]](https://cassiepython.github.io/nerfart/)
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
   - [NeurIPS 2023] [FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://arxiv.org/abs/2306.00783) 丨 [[Project Page]](https://github.com/BillyXYB/FDNeRF)
   - [NeurIPS 2023] [OBJect 3DIT: Language-guided 3D-aware Image Editing](https://arxiv.org/abs/2307.11073) 丨 [[Project Page]](https://prior.allenai.org/projects/object-edit)
@@ -241,6 +243,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://arxiv.org/abs/2304.03280) | [[Project Page]](https://lane-composition.github.io/)
 ---
 + **2022**
+  - [EGSR 2022] [Recolorable Posterization of Volumetric Radiance Fields Using Visibility-Weighted Palette Extraction](https://drive.google.com/file/d/1HjAVDBiainhDAEejmDPH8WrvRxk-Fbtw/view?usp=sharing) | [[Project Page]](https://kenji-tojo.github.io/publications/posternerf/)
   - [NeurIPS 2022 Spotlight] [Neural Shape Deformation Priors](https://arxiv.org/abs/2210.05616) | [[Project Page]](https://tangjiapeng.github.io/projects/NSDP/)
   - [NeurIPS 2022 Spotlight] [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277) 丨 [[Project Page]](https://cyw-3d.github.io/tango/)
   - [NeurIPS 2022] [NeuPhysics: Editable Neural Geometry and Physics from Monocular Videos](https://arxiv.org/abs/2210.12352) 丨 [[Project Page]](https://ylqiao.net/publication/2022nerf/)
