@@ -24,7 +24,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 
-## Recent Research [Latest Update: 2023/03/16☕] 
+## Recent Research [Latest Update: 2023/03/17☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -48,6 +48,12 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [CVPR 2024] [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://arxiv.org/abs/2312.05247) | [[Project Page]](https://shengyuh.github.io/dynfl/index.html)
   - [CVPR 2024] [SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds](https://arxiv.org/abs/2312.09246) | [[Project Page]](https://silent-chen.github.io/Shap-Editor/)
   - [CVPR 2024] [Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training](https://arxiv.org/abs/2312.01663) | [[Project Page]](https://customnerf.github.io/)
+  - [CVPR 2024] [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://arxiv.org/abs/2401.01647) | [[Project Page]](https://signerf.jdihlmann.com/)
+  - [CVPR 2024] [Geometry Transfer for Stylizing Radiance Fields](https://arxiv.org/abs/2402.00863) | [[Project Page]](https://hyblue.github.io/geo-srf/)
+  - [CVPR 2024] [DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing](https://arxiv.org/abs/2310.10624) | [[Project Page]](https://showlab.github.io/DynVideo-E/)
+  - [CVPR 2024] [BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation](https://arxiv.org/abs/2312.02136) | [[Project Page]](https://zqh0253.github.io/BerfScene/)
+  - [CVPR 2024] [CoGS: Controllable Gaussian Splatting](https://arxiv.org/abs/2312.05664) | [[Project Page]](https://cogs2024.github.io/)
+  - [CVPR 2024] [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
   - [ICLR 2024] [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
   - [ICLR 2024] [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://github.com/mybabyyh/InstructPix2NeRF)
   - [WACV 2024] [NeRFEditor: Differentiable Style Decomposition for 3D Scene Editing](https://openaccess.thecvf.com/content/WACV2024/html/Sun_NeRFEditor_Differentiable_Style_Decomposition_for_3D_Scene_Editing_WACV_2024_paper.html) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
@@ -67,7 +73,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [ICRA 2024] [Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs](https://arxiv.org/abs/2403.04114) 
   - [arXiv] [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - [arXiv] [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
-  - [arXiv] [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://arxiv.org/abs/2401.01647) | [[Project Page]](https://signerf.jdihlmann.com/)
   - [arXiv] [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/)
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
@@ -75,7 +80,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality](https://arxiv.org/abs/2401.16663) | [[Project Page]](https://yingjiang96.github.io/VR-GS/)
   - [arXiv] [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895) | [[Project Page]](https://replaceanything3d.github.io/)
-  - [arXiv] [Geometry Transfer for Stylizing Radiance Fields](https://arxiv.org/abs/2402.00863) | [[Project Page]](https://hyblue.github.io/geo-srf/)
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
   - [arXiv] [GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting](https://arxiv.org/abs/2402.01459) | [[Code]](https://github.com/waczjoan/gaussian-mesh-splatting)
   - [arXiv] [SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields](https://arxiv.org/abs/2402.13510) 
@@ -214,7 +218,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields](https://arxiv.org/abs/2309.13039) | [[Code]](https://github.com/dawning77/NeRRF)
   - [arXiv] [MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field](https://arxiv.org/abs/2309.13607)
   - [arXiv] [Controllable Dynamic Appearance for Neural 3D Portraits](https://arxiv.org/abs/2309.11009) | [[Project Page]](https://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html)
-  - [arXiv] [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
   - [arXiv] [Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/abs/2309.04917) 丨 [[Project Page]](https://sk-fun.fun/DN2N/)
   - [arXiv] [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) 丨 [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - [arXiv] [Focused Specific Objects NeRF](https://arxiv.org/abs/2308.05970)
@@ -243,7 +246,6 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [Free-Editor: Zero-shot Text-driven 3D Scene Editing](https://arxiv.org/abs/2312.13663) | [[Project Page]](https://free-editor.github.io/)
   - [arXiv] [UPST-NeRF: Universal Photorealistic Style Transfer of Neural Radiance Fields for 3D Scene](https://arxiv.org/abs/2208.07059) | [[Project Page]](https://semchan.github.io/UPST_NeRF/)
   - [arXiv] [Instant Neural Radiance Fields Stylization](https://arxiv.org/abs/2303.16884) | [[Code]](https://github.com/lsx0101/Instant-NeRF-Stylization)
-  - [arXiv] [DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing](https://arxiv.org/abs/2310.10624) | [[Project Page]](https://showlab.github.io/DynVideo-E/)
   - [arXiv] [LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://arxiv.org/abs/2304.03280) | [[Project Page]](https://lane-composition.github.io/)
 ---
 + **2022**
