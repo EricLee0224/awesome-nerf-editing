@@ -24,7 +24,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 
-## Recent Research [Latest Update: 2023/03/18☕] 
+## Recent Research [Latest Update: 2023/03/22☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -86,6 +86,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields](https://arxiv.org/abs/2403.08310) | [[Project Page]](https://github.com/ToughStoneX/StyleDyRF)
   - [arXiv] [CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians](https://arxiv.org/abs/2401.05925) | [[Project Page]](https://david-dou.github.io/CoSSegGaussians/)
   - [arXiv] [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/) 
+  - [arXiv] [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://arxiv.org/abs/2403.14554) | [[Project Page]](https://anttwo.github.io/frosting/) 
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
@@ -96,6 +97,10 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting](https://arxiv.org/abs/2403.05154) 
   - [arXiv] [A New Split Algorithm for 3D Gaussian Splatting](https://arxiv.org/abs/2403.09143) 
   - [arXiv] [3D Gaussian Model for Animation and Texturing](https://arxiv.org/abs/2402.19441) 
+  - [arXiv] [SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians](https://arxiv.org/abs/2403.10427)
+  - [arXiv] [View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)
+  - [arXiv] [Fast Sparse View Guided NeRF Update for Object Reconfigurations](https://arxiv.org/abs/2403.11024)
+  - [arXiv] [Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications](https://arxiv.org/abs/2403.11131)
 ---
 + **2023**
   - [TVCG 2023] [Nerf-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070) | [[Project Page]](https://cassiepython.github.io/nerfart/)
