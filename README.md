@@ -24,7 +24,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 
-## Recent Research [Latest Update: 2023/04/02☕] 
+## Recent Research [Latest Update: 2023/04/05☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 
@@ -55,6 +55,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [CVPR 2024] [CoGS: Controllable Gaussian Splatting](https://arxiv.org/abs/2312.05664) | [[Project Page]](https://cogs2024.github.io/)
   - [CVPR 2024] [InNeRF360: Text-Guided 3D-Consistent Object Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/abs/2305.15094) | [[Project Page]](https://dongqing-wang.com/inpaintnerf360/)
   - [CVPR 2024] [Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields](https://arxiv.org/abs/2312.03203) | [[Project Page]](https://feature-3dgs.github.io/)
+  - [CVPR 2024] [GenN2N: Generative NeRF2NeRF Translation](https://arxiv.org/abs/2404.02788) | [[Project Page]](https://xiangyueliu.github.io/GenN2N/)
   - [CVPR 2024] [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
   - [ICLR 2024] [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
   - [ICLR 2024] [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://mybabyyh.github.io/InstructPix2NeRF/)
@@ -89,6 +90,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/) 
   - [arXiv] [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://arxiv.org/abs/2403.14554) | [[Project Page]](https://anttwo.github.io/frosting/) 
   - [arXiv] [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/) 
+  - [arXiv] [Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition](https://arxiv.org/abs/2404.02514) | [[Project Page]](https://aigc3d.github.io/freditor/) 
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
