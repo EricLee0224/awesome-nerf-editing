@@ -13,6 +13,7 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
 </p>
 
 ## Related Surveys
+  - [arXiv] [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
   - [arXiv] [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)
   - [arXiv] [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)
   - [arXiv] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
