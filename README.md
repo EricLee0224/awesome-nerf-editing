@@ -12,6 +12,9 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   <img src="NeRFEditingStat.png" width = "70%" />
 </p>
 
+## Milestone Papers
+  - [ECCV 2020 Oral] [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
+  - [SIGGRAPH/TOG 2023] [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 ## Related Surveys
   - [arXiv] [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
   - [arXiv] [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)
