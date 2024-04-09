@@ -6,12 +6,6 @@
 ---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Neural Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
-## 😶‍🌫️What is Neural Fields Editing?
-Neural Fields Editing leverages the power of Neural Fields to manipulate and edit 3D scenes or objects in a highly realistic and immersive manner. This emerging field holds immense potential for a wide range of applications, including virtual reality, augmented reality, content creation, and more. **However, neural fields implicitly encode shape and texture information of the scene or object, which implies natural difficulties in the Neural Fields editing task.**
-<p align="center">
-  <img src="NeRFEditingStat.png" width = "70%" />
-</p>
-
 ## Milestone Papers
   - [ECCV 2020 Oral] [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - [SIGGRAPH/TOG 2023] [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
@@ -27,11 +21,9 @@ Neural Fields Editing leverages the power of Neural Fields to manipulate and edi
   - [arXiv] [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-
 ## Recent Research [Latest Update: 2023/04/05☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
-
 💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
