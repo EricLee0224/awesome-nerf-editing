@@ -6,7 +6,7 @@
 ---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Neural Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
-## Milestone Papers
+## Seminal Papers
   - [ECCV 2020 Oral] [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - [SIGGRAPH/TOG 2023] [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 ## Related Surveys
@@ -21,7 +21,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/04/10☕] 
+## Recent Research [Latest Update: 2024/04/16☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -52,6 +52,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [CVPR 2024] [InNeRF360: Text-Guided 3D-Consistent Object Inpainting on Unbounded Neural Radiance Fields](https://arxiv.org/abs/2305.15094) | [[Project Page]](https://dongqing-wang.com/inpaintnerf360/)
   - [CVPR 2024] [Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields](https://arxiv.org/abs/2312.03203) | [[Project Page]](https://feature-3dgs.github.io/)
   - [CVPR 2024] [GenN2N: Generative NeRF2NeRF Translation](https://arxiv.org/abs/2404.02788) | [[Project Page]](https://xiangyueliu.github.io/GenN2N/)
+  - [CVPR 2024] [Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video](https://arxiv.org/abs/2404.09833) | [[Project Page]](https://video2game.github.io/)
   - [CVPR 2024] [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
   - [ICLR 2024] [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
   - [ICLR 2024] [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://mybabyyh.github.io/InstructPix2NeRF/)
@@ -88,13 +89,18 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://arxiv.org/abs/2403.14554) | [[Project Page]](https://anttwo.github.io/frosting/) 
   - [arXiv] [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/) 
   - [arXiv] [Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition](https://arxiv.org/abs/2404.02514) | [[Project Page]](https://aigc3d.github.io/freditor/) 
+  - [arXiv] [Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior](https://arxiv.org/abs/2404.06780) | [[Project Page]](https://urbanarchitect.github.io/)
+  - [arXiv] [DATENeRF: Depth-Aware Text-based Editing of NeRFs](https://arxiv.org/abs/2404.04526) | [[Project Page]](https://datenerf.github.io/DATENeRF/)
+  - [arXiv] [Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing](https://arxiv.org/abs/2403.10050) | [[Project Page]](https://slothfulxtx.github.io/TexGS/)
+  - [arXiv] [Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting](https://arxiv.org/abs/2403.15624) | [[Project Page]](https://semantic-gaussians.github.io/)
+  - [arXiv] [EgoLifter: Open-world 3D Segmentation for Egocentric Perception](https://arxiv.org/abs/2403.18118) | [[Project Page]](https://egolifter.github.io/)
+  - [arXiv] [Taming Latent Diffusion Model for Neural Radiance Field Inpainting](https://arxiv.org/abs/2404.09995) | [[Project Page]](https://hubert0527.github.io/MALD-NeRF/)
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
   - [arXiv] [SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields](https://arxiv.org/abs/2402.13510) 
   - [arXiv] [Real-time 3D-aware Portrait Editing from a Single Image](https://arxiv.org/abs/2402.14000) 
   - [arXiv] [Gaussian Splatting in Style](https://arxiv.org/abs/2403.08498) 
-  - [arXiv] [Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing](https://arxiv.org/abs/2403.10050) 
   - [arXiv] [GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting](https://arxiv.org/abs/2403.05154) 
   - [arXiv] [A New Split Algorithm for 3D Gaussian Splatting](https://arxiv.org/abs/2403.09143) 
   - [arXiv] [3D Gaussian Model for Animation and Texturing](https://arxiv.org/abs/2402.19441) 
@@ -103,7 +109,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Fast Sparse View Guided NeRF Update for Object Reconfigurations](https://arxiv.org/abs/2403.11024)
   - [arXiv] [Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications](https://arxiv.org/abs/2403.11131)
   - [arXiv] [StylizedGS: Controllable Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2404.05220)
-  - [arXiv] [Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior](https://arxiv.org/abs/2404.06780) | [[Project Page]](https://urbanarchitect.github.io/)
+  - [arXiv] [DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading](https://arxiv.org/abs/2404.09412)
 ---
 + **2023**
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
