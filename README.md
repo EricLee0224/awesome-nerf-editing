@@ -21,7 +21,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/04/20☕] 
+## Recent Research [Latest Update: 2024/04/23☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -97,6 +97,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Taming Latent Diffusion Model for Neural Radiance Field Inpainting](https://arxiv.org/abs/2404.09995) | [[Project Page]](https://hubert0527.github.io/MALD-NeRF/)
   - [arXiv] [RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting](https://arxiv.org/abs/2404.10765) | [[Project Page]](https://reffusion.github.io/)
   - [arXiv] [StyleCity: Large-Scale 3D Urban Scenes Stylization with Vision-and-Text Reference via Progressive Optimization](https://arxiv.org/abs/2404.10681) | [[Project Page]](https://www.chenyingshu.com/stylecity3d/)
+  - [arXiv] [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
+  - [arXiv] [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/abs/2404.13026) | [[Project Page]](https://physdreamer.github.io/)
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
