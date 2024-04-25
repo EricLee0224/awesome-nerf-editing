@@ -21,7 +21,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/04/23☕] 
+## Recent Research [Latest Update: 2024/04/25☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -67,6 +67,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [3DV 2024] [Learning Controllable 3D Diffusion Models from Single-view Images](https://arxiv.org/abs/2304.06700) 丨 [[Project Page]](https://jiataogu.me/control3diff/)
   - [3DV 2024] [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
   - [3DV 2024] [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020) | [[Project Page]](https://jianglongye.com/consistent123/)
+  - [3DV 2024] [CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields](https://arxiv.org/abs/2404.14967) 
   - [CG & A 2024] [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://arxiv.org/abs/2206.04901) | [[Project Page]](https://jdily.github.io/proj_site/nerfin_proj.html)
   - [AAAI 2024] [A General Implicit Framework for Fast NeRF Composition and Rendering](https://arxiv.org/abs/2308.04669)
   - [AAAI 2024] [FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields](https://arxiv.org/abs/2401.05516) | [[Project Page]](https://kim-geonu.github.io/FPRF/)
@@ -99,6 +100,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [StyleCity: Large-Scale 3D Urban Scenes Stylization with Vision-and-Text Reference via Progressive Optimization](https://arxiv.org/abs/2404.10681) | [[Project Page]](https://www.chenyingshu.com/stylecity3d/)
   - [arXiv] [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
   - [arXiv] [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/abs/2404.13026) | [[Project Page]](https://physdreamer.github.io/)
+  - [arXiv] [GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal](https://arxiv.org/abs/2404.13679) | [[Project Page]](https://w-ted.github.io/publications/gscream/)
+  - [arXiv] [ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis](https://arxiv.org/abs/2404.13711) | [[Code]](https://github.com/silence-tang/ArtNeRF)
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
