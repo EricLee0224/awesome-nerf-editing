@@ -19,6 +19,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [Eurographics 2021] [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426)
   - [arXiv] [A Revisit of Shape Editing Techniques: from the Geometric to the Neural Viewpoint](https://arxiv.org/abs/2103.01694)
   - [arXiv] [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
+  - [arXiv] [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - [TPAMI 2023] [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 ## Recent Research [Latest Update: 2024/04/25☕] 
