@@ -22,7 +22,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/04/25☕] 
+## Recent Research [Latest Update: 2024/05/01☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -55,9 +55,13 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [GenN2N: Generative NeRF2NeRF Translation](https://arxiv.org/abs/2404.02788) | [[Project Page]](https://xiangyueliu.github.io/GenN2N/)
   - `CVPR 2024` [Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video](https://arxiv.org/abs/2404.09833) | [[Project Page]](https://video2game.github.io/)
   - `CVPR 2024` [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
+  - `SIGGRAPH 2024` [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
   - `ICLR 2024` [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
   - `ICLR 2024` [InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image](https://arxiv.org/abs/2311.02826) | [[Project Page]](https://mybabyyh.github.io/InstructPix2NeRF/)
   - `ICLR 2024` [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://arxiv.org/abs/2310.02596) | [[Project Page]](https://sweetdreamer3d.github.io/)
+  - `ICLR 2024` [ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF](https://arxiv.org/abs/2310.02712) | [[Project Page]](https://jhq1234.github.io/ed-nerf.github.io/)
+  - `ICLR 2024` [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | [[Project Page]](https://gaoruiyuan.com/magicdrive/)
+  - `ICLR 2024` [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784) | [[Project Page]](https://cxh0519.github.io/projects/Progressive3D/)
   - `WACV 2024` [NeRFEditor: Differentiable Style Decomposition for 3D Scene Editing](https://openaccess.thecvf.com/content/WACV2024/html/Sun_NeRFEditor_Differentiable_Style_Decomposition_for_3D_Scene_Editing_WACV_2024_paper.html) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
   - `WACV 2024` [Volumetric Disentanglement for 3D Scene Manipulation](https://arxiv.org/abs/2206.02776) 丨 [[Project Page]](https://sagiebenaim.github.io/volumetric-disentanglement/)
   - `WACV 2024` [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
@@ -78,7 +82,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - [arXiv] [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
   - [arXiv] [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/)
-  - [arXiv] [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
   - [arXiv] [Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting](https://arxiv.org/abs/2401.15318) | [[Project Page]](https://amysteriouscat.github.io/GaussianSplashing/)
   - [arXiv] [VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality](https://arxiv.org/abs/2401.16663) | [[Project Page]](https://yingjiang96.github.io/VR-GS/)
   - [arXiv] [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895) | [[Project Page]](https://replaceanything3d.github.io/)
@@ -103,6 +106,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/abs/2404.13026) | [[Project Page]](https://physdreamer.github.io/)
   - [arXiv] [GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal](https://arxiv.org/abs/2404.13679) | [[Project Page]](https://w-ted.github.io/publications/gscream/)
   - [arXiv] [ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis](https://arxiv.org/abs/2404.13711) | [[Code]](https://github.com/silence-tang/ArtNeRF)
+  - [arXiv] [DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing](https://arxiv.org/abs/2404.18929) | [[Project Page]](https://lane-composition.github.io/)
+  - [arXiv] [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://arxiv.org/abs/2404.19758) | [[Project Page]](https://research.paulengstler.com/invisible-stitch/)
   - [arXiv] [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - [arXiv] [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - [arXiv] [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
@@ -118,6 +123,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications](https://arxiv.org/abs/2403.11131)
   - [arXiv] [StylizedGS: Controllable Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2404.05220)
   - [arXiv] [DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading](https://arxiv.org/abs/2404.09412)
+  - [arXiv] [NeRF-Insert: 3D Local Editing with Multimodal Control Signals](https://arxiv.org/abs/2404.19204)
 ---
 + **2023**
   - [NeurIPS 2023] [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
@@ -140,7 +146,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [ICCV 2023] [Learning Neural Implicit Surfaces with Object-Aware Radiance Fields](https://openaccess.thecvf.com//content/ICCV2023/html/Zhang_Learning_Neural_Implicit_Surfaces_with_Object-Aware_Radiance_Fields_ICCV_2023_paper.html) 
   - [ICCV 2023] [X-Mesh:Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance](https://arxiv.org/abs/2303.15764) 丨 [[Project Page]](https://xmu-xiaoma666.github.io/Projects/X-Mesh/)
   - [ICCV 2023] [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](https://arxiv.org/abs/2308.16758) 
-  - [ICCV 2023] [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508) 丨 [[Project Page]](https://dreambooth3d.github.io/)
   - [ICCV 2023] [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714) 丨 [[Project Page]](https://lakonik.github.io/ssdnerf/)
   - [ICCV 2023] [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://arxiv.org/abs/2303.02091) 丨 [[Project Page]](https://me.kiui.moe/nerf2mesh/)
   - [ICCV 2023] [Locally Stylized Neural Radiance Fields](https://arxiv.org/abs/2309.10684)
@@ -234,8 +239,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing](https://arxiv.org/abs/2311.16043) | [[Project Page]](https://nju-3dv.github.io/projects/Relightable3DGaussian/)
   - [arXiv] [Obj-NeRF: Extracting Object NeRFs from Multi-view Images](https://arxiv.org/abs/2311.15291) | [[Project Page]](https://objnerf.github.io/)
   - [arXiv] [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation](https://arxiv.org/abs/2310.16858) | [[Project Page]](https://patrickddj.github.io/4D-Editor/)
-  - [arXiv] [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784) | [[Project Page]](https://cxh0519.github.io/projects/Progressive3D/)
-  - [arXiv] [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | [[Project Page]](https://gaoruiyuan.com/magicdrive/)
   - [arXiv] [NeRRF: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields](https://arxiv.org/abs/2309.13039) | [[Code]](https://github.com/dawning77/NeRRF)
   - [arXiv] [Controllable Dynamic Appearance for Neural 3D Portraits](https://arxiv.org/abs/2309.11009) | [[Project Page]](https://shahrukhathar.github.io/2023/08/22/CoDyNeRF.html)
   - [arXiv] [Text-driven Editing of 3D Scenes without Retraining](https://arxiv.org/abs/2309.04917) 丨 [[Project Page]](https://sk-fun.fun/DN2N/)
@@ -262,7 +265,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - [arXiv] [Neural Implicit Field Editing Considering Object-environment Interaction](https://arxiv.org/abs/2311.00425) 
   - [arXiv] [A Real-time Method for Inserting Virtual Objects into Neural Radiance Fields](https://arxiv.org/abs/2310.05837)
   - [arXiv] [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602)
-  - [arXiv] [ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF](https://arxiv.org/abs/2310.02712)
   - [arXiv] [ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models](https://arxiv.org/abs/2309.14872)
   - [arXiv] [MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field](https://arxiv.org/abs/2309.13607)
   - [arXiv] [Focused Specific Objects NeRF](https://arxiv.org/abs/2308.05970)
