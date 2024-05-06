@@ -1,6 +1,6 @@
 # Awesome Neural Fields Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericlee0224.nerfediting&left_color=gray&right_color=blue")
 
-#### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/) and [Tianshu Kuai](https://tianshukuai.github.io/) @[Toronto Intelligent Systems Lab](https://tisl.cs.utoronto.ca/).
+#### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/) and [Tianshu Kuai](https://tianshukuai.github.io/) @University of Toronto
 
 #### We express our gratitude to the contributors.
 ---
@@ -22,7 +22,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/05/01☕] 
+## Recent Research [Latest Update: 2024/05/06☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -54,6 +54,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields](https://arxiv.org/abs/2312.03203) | [[Project Page]](https://feature-3dgs.github.io/)
   - `CVPR 2024` [GenN2N: Generative NeRF2NeRF Translation](https://arxiv.org/abs/2404.02788) | [[Project Page]](https://xiangyueliu.github.io/GenN2N/)
   - `CVPR 2024` [Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video](https://arxiv.org/abs/2404.09833) | [[Project Page]](https://video2game.github.io/)
+  - `CVPR 2024` [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531) | [[Project Page]](https://lyclyc52.github.io/SANeRF-HQ/)
   - `CVPR 2024` [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
   - `SIGGRAPH 2024` [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
   - `ICLR 2024` [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077) | [[Project Page]](https://emernerf.github.io/)
@@ -124,6 +125,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [StylizedGS: Controllable Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2404.05220)
   - `arXiv` [DeferredGS: Decoupled and Editable Gaussian Splatting with Deferred Shading](https://arxiv.org/abs/2404.09412)
   - `arXiv` [NeRF-Insert: 3D Local Editing with Multimodal Control Signals](https://arxiv.org/abs/2404.19204)
+  - `arXiv` [Depth Priors in Removal Neural Radiance Fields](https://arxiv.org/abs/2405.00630)
 ---
 + **2023**
   - `NeurIPS 2023` [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
@@ -231,7 +233,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://arxiv.org/abs/2312.06657) | [[Project Page]](https://felixcheng97.github.io/AGAP/)
   - `arXiv` [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://arxiv.org/abs/2312.03869) | [[Project Page]](https://inpaint3d.github.io/)
   - `arXiv` [Towards 4D Human Video Stylization](https://arxiv.org/abs/2312.04143) | [[Code]](https://github.com/TiantianWang/4D_Video_Stylization)
-  - `arXiv` [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531) | [[Project Page]](https://lyclyc52.github.io/SANeRF-HQ/)
   - `arXiv` [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [[Project Page]](https://jumpat.github.io/SAGA/)
   - `arXiv` [Mesh-Guided Neural Implicit Field Editing](https://arxiv.org/abs/2312.02157) | [[Project Page]](https://cassiepython.github.io/MNeuEdit/)
   - `arXiv` [Text-Guided 3D Face Synthesis - From Generation to Editing](https://arxiv.org/abs/2312.00375) | [[Project Page]](https://faceg2e.github.io/)
