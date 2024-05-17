@@ -93,7 +93,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2403.07807) | [[Project Page]](https://kunhao-liu.github.io/StyleGaussian/)
   - `arXiv` [StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields](https://arxiv.org/abs/2403.08310) | [[Code]](https://github.com/ToughStoneX/StyleDyRF)
   - `arXiv` [CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians](https://arxiv.org/abs/2401.05925) | [[Project Page]](https://david-dou.github.io/CoSSegGaussians/)
-  - `arXiv` [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/) 
   - `arXiv` [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://arxiv.org/abs/2403.14554) | [[Project Page]](https://anttwo.github.io/frosting/) 
   - `arXiv` [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/) 
   - `arXiv` [Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition](https://arxiv.org/abs/2404.02514) | [[Project Page]](https://aigc3d.github.io/freditor/) 
