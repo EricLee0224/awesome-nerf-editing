@@ -22,7 +22,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/05/15☕] 
+## Recent Research [Latest Update: 2024/05/22☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -217,6 +217,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `SIGGRAPH 2023` [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://arxiv.org/abs/2311.10091) | [[Project Page]](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/)
   - `SIGGRAPH 2023` [DE-NeRF: DEcoupled Neural Radiance Fields for View-Consistent Appearance Editing and High-Frequency Environmental Relighting](https://dl.acm.org/doi/10.1145/3588432.3591483) | [[Project Page]](http://geometrylearning.com/DE-NeRF/)
   - `SIGGRAPH 2023` [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/abs/2212.01406) | [[Project Page]](https://shivangi-aneja.github.io/projects/clipface/)
+  - `SIGGRAPH Asia 2023` [HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image](https://arxiv.org/abs/2312.04543) | [[Project Page]](https://ys-imtech.github.io/HyperDreamer/)
   - `SIGGRAPH Asia 2023` [SeamlessNeRF: Stitching Part NeRFs with Gradient Propagation](https://arxiv.org/abs/2311.16127) | [[Project Page]](https://sites.google.com/view/seamlessnerf)
   - `SIGGRAPH Asia 2023` [DreamEditor: Text-Driven 3D Scene Editing with Neural Fields](https://arxiv.org/abs/2306.13455)
   - `SIGGRAPH Asia 2023` [BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis](https://arxiv.org/abs/2311.05521)
