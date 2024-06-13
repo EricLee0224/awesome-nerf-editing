@@ -22,7 +22,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/06/09☕] 
+## Recent Research [Latest Update: 2024/06/14☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -33,7 +33,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF](https://arxiv.org/abs/2311.13099) | [[Project Page]](https://fytalon.github.io/pienerf/)
   - `CVPR 2024` [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://arxiv.org/abs/2311.12198) | [[Project Page]](https://xpandora.github.io/PhysGaussian/)
   - `CVPR 2024` [SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering](https://arxiv.org/abs/2311.12775) | [[Project Page]](https://imagine.enpc.fr/~guedona/sugar/)
-  - `CVPR 2024` [PaintNeSF: Artistic Creation of Stylized Scenes with Vectorized 3D Strokes](https://arxiv.org/abs/2311.15637) | [[Project Page]](https://buaavrcg.github.io/PaintNeSF/)
+  - `CVPR 2024` [Neural 3D Strokes: Creating Stylized 3D Scenes with Vectorized 3D Strokes](https://arxiv.org/abs/2311.15637) | [[Project Page]](https://buaavrcg.github.io/Neural3DStrokes/)
   - `CVPR 2024` [Posterior Distillation Sampling](https://arxiv.org/abs/2311.13831) | [[Project Page]](https://posterior-distillation-sampling.github.io/)
   - `CVPR 2024` [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937) | [[Project Page]](https://yihua7.github.io/SC-GS-web/)
   - `CVPR 2024` [NeRFiller: Completing Scenes via Generative 3D Inpainting](https://arxiv.org/abs/2312.04560) | [[Project Page]](https://ethanweber.me/nerfiller/)
@@ -55,8 +55,10 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [GenN2N: Generative NeRF2NeRF Translation](https://arxiv.org/abs/2404.02788) | [[Project Page]](https://xiangyueliu.github.io/GenN2N/)
   - `CVPR 2024` [Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video](https://arxiv.org/abs/2404.09833) | [[Project Page]](https://video2game.github.io/)
   - `CVPR 2024` [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531) | [[Project Page]](https://lyclyc52.github.io/SANeRF-HQ/)
-  - `CVPR 2024` [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281)
+  - `CVPR 2024` [IReNe: Instant Recoloring in Neural Radiance Fields](https://arxiv.org/abs/2405.19876) | [[Project Page]](https://iviazz97.github.io/irene/)
+  - `CVPR 2024` [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281) | [[Code]](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)
   - `CVPR 2024` [MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior](https://arxiv.org/abs/2405.02859)
+  - `CVPRW 2024` [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488) | [[Project Page]](https://ice-gaussian.github.io/)
   - `SIGGRAPH 2024` [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
   - `SIGGRAPH 2024` [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/abs/2405.07319) | [[Project Page]](https://jsnln.github.io/layga/index.html)
   - `SIGGRAPH 2024` [Bilateral Guided Radiance Field Processing](https://arxiv.org/abs/2406.00448) | [[Project Page]](https://bilarfpro.github.io/)
@@ -142,7 +144,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Point Resampling and Ray Transformation Aid to Editable NeRF Models](https://arxiv.org/abs/2405.07306)
   - `arXiv` [Direct Learning of Mesh and Appearance via 3D Gaussian Splatting](https://arxiv.org/abs/2405.06945)
   - `arXiv` [TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing](https://arxiv.org/abs/2405.14455)
-  - `arXiv` [IReNe: Instant Recoloring in Neural Radiance Fields](https://arxiv.org/abs/2405.19876)
 ---
 + **2023**
   - `NeurIPS 2023` [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
