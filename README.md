@@ -12,8 +12,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 ## Related Surveys
   - `arXiv` [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
   - `arXiv` [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)
-  - `arXiv` [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)
+  - `arXiv` [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890) 
   - `arXiv` [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
+  - `arXiv` [Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review](https://arxiv.org/abs/2402.11141)
   - `Eurographics 2022` [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849)
   - `arXiv` [Advances in 3D Neural Stylization: A Survey](https://arxiv.org/abs/2311.18328)
   - `Eurographics 2021` [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426)
