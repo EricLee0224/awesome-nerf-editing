@@ -23,12 +23,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/06/14☕] 
+## Recent Research [Latest Update: 2024/06/18☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
+  - `CVPR 2024 Highlight` [PAPR in Motion: Seamless Point-level 3D Scene Interpolation](https://arxiv.org/abs/2406.05533) | [[Project Page]](https://niopeng.github.io/PAPR-in-Motion/)
+  - `CVPR 2024 Highlight` [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746) | [[Project Page]](https://yifanlu0227.github.io/ChatSim/)
   - `CVPR 2024` [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521) | [[Project Page]](https://buaacyw.github.io/gaussian-editor/)
   - `CVPR 2024` [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037) | [[Project Page]](https://gaussianeditor.github.io/)
   - `CVPR 2024` [PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF](https://arxiv.org/abs/2311.13099) | [[Project Page]](https://fytalon.github.io/pienerf/)
@@ -57,8 +59,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [Video2Game: Real-time, Interactive, Realistic and Browser-Compatible Environment from a Single Video](https://arxiv.org/abs/2404.09833) | [[Project Page]](https://video2game.github.io/)
   - `CVPR 2024` [SANeRF-HQ: Segment Anything for NeRF in High Quality](https://arxiv.org/abs/2312.01531) | [[Project Page]](https://lyclyc52.github.io/SANeRF-HQ/)
   - `CVPR 2024` [IReNe: Instant Recoloring in Neural Radiance Fields](https://arxiv.org/abs/2405.19876) | [[Project Page]](https://iviazz97.github.io/irene/)
+  - `CVPR 2024` [NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows](https://openaccess.thecvf.com/content/CVPR2024/html/Tang_NeRFDeformer_NeRF_Transformation_from_a_Single_View_via_3D_Scene_CVPR_2024_paper.html) | [[Project Page]](https://nerfdeformer.github.io/)
+  - `CVPR 2024` [Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion](https://arxiv.org/abs/2406.09402) | [[Project Page]](https://immortalco.github.io/Instruct-4D-to-4D/)
+  - `CVPR 2024` [S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2403.06205) | [[Project Page]](https://xingyi-li.github.io/s-dyrf/)
+  - `CVPR 2024` [Text-Guided 3D Face Synthesis - From Generation to Editing](https://arxiv.org/abs/2312.00375) | [[Project Page]](https://faceg2e.github.io/)
   - `CVPR 2024` [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281) | [[Code]](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)
   - `CVPR 2024` [MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior](https://arxiv.org/abs/2405.02859)
+  - `CVPR 2024` [TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_TutteNet_Injective_3D_Deformations_by_Composition_of_2D_Mesh_Deformations_CVPR_2024_paper.html)
+  - `CVPR 2024` [StrokeFaceNeRF: Stroke-based Facial Appearance Editing in Neural Radiance Field](https://openaccess.thecvf.com/content/CVPR2024/html/Li_StrokeFaceNeRF_Stroke-based_Facial_Appearance_Editing_in_Neural_Radiance_Field_CVPR_2024_paper.html)
   - `CVPRW 2024` [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488) | [[Project Page]](https://ice-gaussian.github.io/)
   - `SIGGRAPH 2024` [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
   - `SIGGRAPH 2024` [LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer](https://arxiv.org/abs/2405.07319) | [[Project Page]](https://jsnln.github.io/layga/index.html)
@@ -145,6 +153,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Point Resampling and Ray Transformation Aid to Editable NeRF Models](https://arxiv.org/abs/2405.07306)
   - `arXiv` [Direct Learning of Mesh and Appearance via 3D Gaussian Splatting](https://arxiv.org/abs/2405.06945)
   - `arXiv` [TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing](https://arxiv.org/abs/2405.14455)
+  - `arXiv` [Preserving Identity with Variational Score for General-purpose 3D Editing](https://arxiv.org/abs/2406.08953)
 ---
 + **2023**
   - `NeurIPS 2023` [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
@@ -255,7 +264,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Towards 4D Human Video Stylization](https://arxiv.org/abs/2312.04143) | [[Code]](https://github.com/TiantianWang/4D_Video_Stylization)
   - `arXiv` [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [[Project Page]](https://jumpat.github.io/SAGA/)
   - `arXiv` [Mesh-Guided Neural Implicit Field Editing](https://arxiv.org/abs/2312.02157) | [[Project Page]](https://cassiepython.github.io/MNeuEdit/)
-  - `arXiv` [Text-Guided 3D Face Synthesis - From Generation to Editing](https://arxiv.org/abs/2312.00375) | [[Project Page]](https://faceg2e.github.io/)
   - `arXiv` [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732) | [[Project Page]](https://ymq2017.github.io/gaussian-grouping/)
   - `arXiv` [Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing](https://arxiv.org/abs/2311.16043) | [[Project Page]](https://nju-3dv.github.io/projects/Relightable3DGaussian/)
   - `arXiv` [Obj-NeRF: Extracting Object NeRFs from Multi-view Images](https://arxiv.org/abs/2311.15291) | [[Project Page]](https://objnerf.github.io/)
