@@ -1,4 +1,4 @@
-# Awesome Neural Fields Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericlee0224.nerfediting&left_color=gray&right_color=blue")
+# Awesome Radiance Fields Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericlee0224.nerfediting&left_color=gray&right_color=blue")
 
 #### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/) and [Tianshu Kuai](https://tianshukuai.github.io/) @University of Toronto
 
