@@ -42,7 +42,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [NeRFiller: Completing Scenes via Generative 3D Inpainting](https://arxiv.org/abs/2312.04560) | [[Project Page]](https://ethanweber.me/nerfiller/)
   - `CVPR 2024` [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920) | [[Project Page]](https://pkuvdig.github.io/DrivingGaussian/)
   - `CVPR 2024` [LAENeRF: Local Appearance Editing for Neural Radiance Fields](https://arxiv.org/abs/2312.09913) | [[Project Page]](https://r4dl.github.io/LAENeRF/)
-  - `CVPR 2024` [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746) | [[Project Page]](https://yifanlu0227.github.io/ChatSim/)
   - `CVPR 2024` [NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs](https://arxiv.org/abs/2402.08622) | [[Project Page]](https://mfischer-ucl.github.io/nerf_analogies/)
   - `CVPR 2024` [Control4D: Efficient 4D Portrait Editing with Text](https://arxiv.org/abs/2305.20082) | [[Project Page]](https://control4darxiv.github.io/)
   - `CVPR 2024` [Dynamic LiDAR Re-simulation using Compositional Neural Fields](https://arxiv.org/abs/2312.05247) | [[Project Page]](https://shengyuh.github.io/dynfl/index.html)
