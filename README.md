@@ -29,6 +29,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
+  - `ECCV 2024` [Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing](https://arxiv.org/abs/2403.10050) 
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - `ECCV 2024` [Taming Latent Diffusion Model for Neural Radiance Field Inpainting](https://arxiv.org/abs/2404.09995) | [[Project Page]](https://hubert0527.github.io/MALD-NeRF/)
   - `ECCV 2024` [GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal](https://arxiv.org/abs/2404.13679) | [[Project Page]](https://w-ted.github.io/publications/gscream/)
