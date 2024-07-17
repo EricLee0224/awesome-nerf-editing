@@ -23,7 +23,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/07/10☕] 
+## Recent Research [Latest Update: 2024/07/17☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
@@ -35,6 +35,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ECCV 2024` [Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering](https://arxiv.org/abs/2403.14554) | [[Project Page]](https://anttwo.github.io/frosting/) 
   - `ECCV 2024` [DATENeRF: Depth-Aware Text-based Editing of NeRFs](https://arxiv.org/abs/2404.04526) | [[Project Page]](https://datenerf.github.io/DATENeRF/)
   - `ECCV 2024` [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) | [[Project Page]](https://zju3dv.github.io/street_gaussians/)
+  - `ECCV 2024` [Click-Gaussian: Interactive Segmentation to Any 3D Gaussians](https://arxiv.org/abs/2407.11793)
   - `ECCV 2024` [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732) | [[Project Page]](https://ymq2017.github.io/gaussian-grouping/)
   - `ECCV 2024` [View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868) | [[Project Page]](https://yuxuanw.me/vcedit/)
   - `ECCV 2024` [StyleCity: Large-Scale 3D Urban Scenes Stylization with Vision-and-Text Reference via Progressive Optimization](https://arxiv.org/abs/2404.10681) | [[Project Page]](https://www.chenyingshu.com/stylecity3d/)
