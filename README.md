@@ -30,7 +30,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 + **2024**
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
-  - `ECCV 2024` [Click-Gaussian: Interactive Segmentation to Any 3D Gaussians](https://arxiv.org/abs/2407.11793)
+  - `ECCV 2024` [Click-Gaussian: Interactive Segmentation to Any 3D Gaussians](https://arxiv.org/abs/2407.11793) | [[Project Page]](https://seokhunchoi.github.io/Click-Gaussian/)
   - `ECCV 2024` [3DEgo: 3D Editing on the Go!](https://arxiv.org/abs/2407.10102) | [[Project Page]](https://3dego.github.io/)
   - `ECCV 2024` [Taming Latent Diffusion Model for Neural Radiance Field Inpainting](https://arxiv.org/abs/2404.09995) | [[Project Page]](https://hubert0527.github.io/MALD-NeRF/)
   - `ECCV 2024` [GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal](https://arxiv.org/abs/2404.13679) | [[Project Page]](https://w-ted.github.io/publications/gscream/)
