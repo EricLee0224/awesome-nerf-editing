@@ -358,7 +358,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `3DV 2022` [Controllable Radiance Fields for Dynamic Face Synthesis](https://arxiv.org/abs/2210.05825) | [[Project Page]](https://payeah.net/corf_html/index.html)
   - `PG & CGF 2022` [Generative Deformable Radiance Fields for Disentangled Image Synthesis of Topology-Varying Objects](https://arxiv.org/abs/2209.04183)
   - `WACV 2022` [Stylizing 3D Scene via Implicit Representation and HyperNetwork](https://arxiv.org/abs/2105.13016) | [[Project Page]](https://ztex08010518.github.io/3dstyletransfer/)
-  - `arXiv` [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135) | [[Project Page]](https://3d-avatar-diffusion.microsoft.com/)
   - `arXiv` [SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields](https://arxiv.org/abs/2212.03406) | [[Project Page]](https://www.siddhantranade.com/research/2022/12/06/SSDNeRF-Semantic-Soft-Decomposition-of-Neural-Radiance-Fields.html)
   - `arXiv` [ONeRF: Unsupervised 3D Object Segmentation from Multiple Views](https://arxiv.org/abs/2211.12038)
   - `arXiv` [FLNeRF: 3D Facial Landmarks Estimation in Neural Radiance Fields](https://arxiv.org/abs/2211.11202)
