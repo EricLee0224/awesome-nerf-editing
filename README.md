@@ -5,6 +5,9 @@
 ---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
+🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
+💬 Feel Welcome to Open an Issue or Pull Request!
+
 ## 🔥News
   - `2024.08.05` Our survey paper **Radiance Field-based 3D Editing: A Survey** will appears on arXiv recently!
   - `2024.08.01` Update all acceptance status of previous arXiv papers.
@@ -27,9 +30,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
 ## 🗃️Recent Research [Latest Update: 2024/08/01☕] 
-
-🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
-💬 Feel Welcome to Open an Issue or Pull Request!
 
 + **2024**
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
