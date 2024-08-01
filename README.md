@@ -334,6 +334,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ECCV 2022` [Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](https://arxiv.org/abs/2207.10257) | [[Project Page]](https://jgkwak95.github.io/surfgan/)
   - `ECCV 2022` [PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406) | [[Project Page]](https://ywq.github.io/psnerf/)
   - `ECCV 2022` [Multiview Regenerative Morphing with Dual Flows](https://arxiv.org/abs/2208.01287) | [[Project Page]](https://jimtsai23.github.io/morphflow/)
+  - `CVPR 2022 BP List` [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) | [[Code]](https://github.com/lwwu2/diver-rt)
   - `CVPR 2022 Oral` [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://arxiv.org/abs/2112.03907) | [[Project Page]](https://dorverbin.github.io/refnerf/)
   - `CVPR 2022` [NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://arxiv.org/abs/2205.04978) | [[Code]](https://github.com/IGLICT/NeRF-Editing)
   - `CVPR 2022` [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139) | [[Project Page]](https://cassiepython.github.io/clipnerf/)
@@ -379,7 +380,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICCV 2021` [AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/abs/2103.11078) | [[Project Page]](https://yudongguo.github.io/ADNeRF/)
   - `SIGGRAPH Asia 2021` [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/abs/2106.01970) | [[Project Page]](https://xiuming.info/projects/nerfactor/)
   - `SIGGRAPH 2021` [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/abs/2104.14786) | [[Project Page]](https://jiakai-zhang.github.io/st-nerf/)
-  - `arXiv` [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://arxiv.org/abs/2111.10427) | [[Code]](https://github.com/lwwu2/diver-rt)
   - `arXiv` [Appearance Editing with Free-viewpoint Neural Rendering](https://arxiv.org/abs/2110.07674)
   ---
 + **2020**
