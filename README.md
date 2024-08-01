@@ -23,7 +23,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## 🗃️Recent Research [Latest Update: 2024/07/17☕] 
+## 🗃️Recent Research [Latest Update: 2024/08/01☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
