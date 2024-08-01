@@ -1,15 +1,15 @@
 # Awesome Radiance Field-based 3D Editing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericlee0224.nerfediting&left_color=gray&right_color=blue")
 
 #### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/), and [Tianshu Kuai](https://tianshukuai.github.io/) @Université de Montréal & Mila
-
-#### We express our gratitude to the contributors.
 ---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
-## Seminal Papers
+## 🔥News
+
+## 🏆Seminal Papers
   - `ECCV 2020 Oral` [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - `SIGGRAPH 2023` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
-## Related Surveys
+## 💡Related Surveys
   - `arXiv` [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
   - `arXiv` [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)
   - `arXiv` [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890) 
@@ -23,7 +23,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## Recent Research [Latest Update: 2024/07/17☕] 
+## 🗃️Recent Research [Latest Update: 2024/07/17☕] 
 
 🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
 💬 Feel Welcome to Open an Issue or Pull Request!
