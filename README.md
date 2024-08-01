@@ -6,6 +6,7 @@
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
 ## 🔥News
+  - `2024.08.05` Our survey paper **Radiance Field-based 3D Editing: A Survey** will appears on arXiv recently!
   - `2024.08.01` Update all acceptance status of previous arXiv papers.
   - `2023.08.21` We start to maintain this awesome list.
 ## 🏆Seminal Papers
