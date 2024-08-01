@@ -5,7 +5,8 @@
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
 ## 🔥News
-
+  - `2024.08.01` Update all acceptance status of previous arXiv papers.
+  - `2023.08.21` We start to maintain this awesome list.
 ## 🏆Seminal Papers
   - `ECCV 2020 Oral` [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - `SIGGRAPH 2023` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
