@@ -1,5 +1,9 @@
 # Awesome Radiance Field-based 3D Editing 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericlee0224.nerfediting&left_color=gray&right_color=blue")
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericlee0224.nerfediting&left_color=gray&right_color=blue")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 #### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/), and [Tianshu Kuai](https://tianshukuai.github.io/) @Université de Montréal & Mila
 ---
