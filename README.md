@@ -16,6 +16,11 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `2024.08.05` Our survey paper **Radiance Field-based 3D Editing: A Survey** will appears on arXiv recently!
   - `2024.08.01` Update all acceptance status of previous arXiv papers.
   - `2023.08.21` We start to maintain this awesome list.
+## Table of Contents
+- [Seminal](#seminal-papers)
+- [Related Surveys](#related-surveys)
+- [Papers](#%EF%B8%8Frecent-research)
+- [Datasets](#implementations)
 ## 🏆Seminal Papers
   - `ECCV 2020 Oral` [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - `SIGGRAPH 2023` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
@@ -33,8 +38,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Diffusion Model-Based Image Editing: A Survey](https://arxiv.org/abs/2402.17525)
   - `TPAMI 2023` [Multimodal Image Synthesis and Editing: The Generative AI Era](https://arxiv.org/abs/2112.13592)
 
-## 🗃️Recent Research [Latest Update: 2024/08/01☕] 
+## 🗃️Recent Research 
 
+[Latest Update: 2024/08/01☕] 
 + **2024**
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - `ECCV 2024` [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/)
