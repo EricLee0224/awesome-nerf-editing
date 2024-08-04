@@ -25,6 +25,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ECCV 2020 Oral` [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - `SIGGRAPH 2023` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 ## 💡Related Surveys
+  - `arXiv` [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
   - `arXiv` [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
   - `arXiv` [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807)
   - `arXiv` [A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890) 
