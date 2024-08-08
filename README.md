@@ -7,20 +7,20 @@
 
 #### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/), and [Tianshu Kuai](https://tianshukuai.github.io/) @Université de Montréal & Mila
 ---
-Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing computer vision and 3D graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
+Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing 3D computer vision and graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
-🚨 Note: Please be aware that the acceptance status of some works might not be up-to-date.  
-💬 Feel Welcome to Open an Issue or Pull Request!
+🚨 Note: Please be aware that the acceptance status of papers might not be up-to-date.  
+💬 Feel free to open an Issue or a Pull Request if you find any missing papers!
 
 ## 🔥News
-  - `2024.08.05` Our survey paper **Radiance Field-based 3D Editing: A Survey** will appears on arXiv recently!
-  - `2024.08.01` Update all acceptance status of previous arXiv papers.
+  - `2024.08.05` Our survey **Radiance Field-based 3D Editing: A Survey** will be on arXiv soon!
+  - `2024.08.01` Update acceptance status of previous arXiv papers.
   - `2023.08.21` We start to maintain this awesome list.
 ## Table of Contents
 - [Seminal](#seminal-papers)
 - [Related Surveys](#related-surveys)
 - [Papers](#%EF%B8%8Frecent-research)
-- [Datasets](#implementations)
+<!-- - [Datasets](#implementations) -->
 ## 🏆Seminal Papers
   - `ECCV 2020 Oral` [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
   - `SIGGRAPH 2023` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
