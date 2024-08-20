@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/08/17☕] 
+[Latest Update: 2024/08/21☕] 
 + **2024**
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - `ECCV 2024` [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/)
@@ -102,7 +102,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2024` [Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates](https://arxiv.org/abs/2309.11281) | [[Code]](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)
   - `CVPR 2024` [MVIP-NeRF: Multi-view 3D Inpainting on NeRF Scenes via Diffusion Prior](https://arxiv.org/abs/2405.02859)
   - `CVPR 2024` [StrokeFaceNeRF: Stroke-based Facial Appearance Editing in Neural Radiance Field](https://openaccess.thecvf.com/content/CVPR2024/html/Li_StrokeFaceNeRF_Stroke-based_Facial_Appearance_Editing_in_Neural_Radiance_Field_CVPR_2024_paper.html)
-  - `CVPR 2024` [In-N-Out: Face Video Inversion and Editing with Volumetric Decomposition](https://arxiv.org/abs/2302.04871) | [[Project Page]](https://in-n-out-3d.github.io/)
   - `CVPRW 2024` [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488) | [[Project Page]](https://ice-gaussian.github.io/)
   - `SIGGRAPH 2024` [VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality](https://arxiv.org/abs/2401.16663) | [[Project Page]](https://yingjiang96.github.io/VR-GS/)
   - `SIGGRAPH 2024` [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828) | [[Project Page]](https://zjy526223908.github.io/TIP-Editor/)
@@ -224,7 +223,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICCV 2023` [DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields](https://arxiv.org/abs/2309.04410) | [[Project Page]](https://www.mmlab-ntu.com/project/deformtoon3d/)
   - `ICCV 2023` [Learning Neural Implicit Surfaces with Object-Aware Radiance Fields](https://openaccess.thecvf.com//content/ICCV2023/html/Zhang_Learning_Neural_Implicit_Surfaces_with_Object-Aware_Radiance_Fields_ICCV_2023_paper.html) 
   - `ICCV 2023` [X-Mesh:Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance](https://arxiv.org/abs/2303.15764) | [[Project Page]](https://xmu-xiaoma666.github.io/Projects/X-Mesh/)
-  - `ICCV 2023` [Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](https://arxiv.org/abs/2308.16758) 
   - `ICCV 2023` [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714) | [[Project Page]](https://lakonik.github.io/ssdnerf/)
   - `ICCV 2023` [Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement](https://arxiv.org/abs/2303.02091) | [[Project Page]](https://me.kiui.moe/nerf2mesh/)
   - `ICCV 2023` [Locally Stylized Neural Radiance Fields](https://arxiv.org/abs/2309.10684)
@@ -278,7 +276,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2023` [RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and Generation](https://arxiv.org/abs/2211.09869) | [[Code]](https://github.com/Anciukevicius/RenderDiffusion)
   - `CVPR 2023` [I_{2}-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://arxiv.org/abs/2303.07634) | [[Project Page]](https://jingsenzhu.github.io/i2-sdf/) 
   - `CVPR 2023` [Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision](https://arxiv.org/abs/2303.03361) | [[Project Page]](https://jetd1.github.io/nerflets-web/)
-  - `CVPR 2023` [HumanGen: Generating Human Radiance Fields with Explicit Priors](https://arxiv.org/abs/2212.05321)
   - `CVPR 2023` [NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation](https://arxiv.org/abs/2211.17235)
   - `CVPRW 2023` [FusedRF: Fusing Multiple Radiance Fields](https://arxiv.org/abs/2306.04180)
   - `CVPRW 2023` [SPIDR: SDF-based Neural Point Fields for Illumination and Deformation](https://arxiv.org/abs/2210.08398) | [[Project Page]](https://nexuslrf.github.io/SPIDR_webpage/)
@@ -286,7 +283,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICLR 2023` [General Neural Gauge Fields](https://arxiv.org/abs/2305.03462) | [[Project Page]](https://fnzhan.com/Neural-Gauge-Fields/)
   - `SIGGRAPH 2023` [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://arxiv.org/abs/2311.10091) | [[Project Page]](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/)
   - `SIGGRAPH 2023` [DE-NeRF: DEcoupled Neural Radiance Fields for View-Consistent Appearance Editing and High-Frequency Environmental Relighting](https://dl.acm.org/doi/10.1145/3588432.3591483) | [[Project Page]](http://geometrylearning.com/DE-NeRF/)
-  - `SIGGRAPH 2023` [ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://arxiv.org/abs/2212.01406) | [[Project Page]](https://shivangi-aneja.github.io/projects/clipface/)
   - `SIGGRAPH Asia 2023` [VMesh: Hybrid Volume-Mesh Representation for Efficient View Synthesis](https://arxiv.org/abs/2303.16184) | [[Project Page]](https://bennyguo.github.io/vmesh/)
   - `SIGGRAPH Asia 2023` [HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image](https://arxiv.org/abs/2312.04543) | [[Project Page]](https://ys-imtech.github.io/HyperDreamer/)
   - `SIGGRAPH Asia 2023` [SeamlessNeRF: Stitching Part NeRFs with Gradient Propagation](https://arxiv.org/abs/2311.16127) | [[Project Page]](https://sites.google.com/view/seamlessnerf)
@@ -378,7 +374,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2022` [FENeRF: Face Editing in Neural Radiance Fields](https://arxiv.org/abs/2111.15490) | [[Project Page]](https://mrtornado24.github.io/FENeRF/)
   - `ICLR 2022` [Unsupervised Discovery of Object Radiance Fields](https://arxiv.org/abs/2107.07905) | [[Project Page]](https://kovenyu.com/uorf/)
   - `ICLR 2022` [StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis](https://arxiv.org/abs/2110.08985) | [[Project Page]](https://jiataogu.me/style_nerf/)
-  - `SIGGRAPH 2022` [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://arxiv.org/abs/2205.08535) | [[Project Page]](https://hongfz16.github.io/projects/AvatarCLIP.html)
   - `SIGGRAPH 2022` [SNeRF: Stylized Neural Implicit Representations for 3D Scenes](https://arxiv.org/abs/2207.02363) | [[Project Page]](https://research.facebook.com/publications/snerf-stylized-neural-implicit-representations-for-3d-scenes/)
   - `SIGGRAPH 2022` [Neural Rendering in a Room: Amodal 3D Understanding and Free-Viewpoint Rendering for the Closed Scene Composed of Pre-Captured Objects](https://arxiv.org/abs/2205.02714) | [[Project Page]](https://zju3dv.github.io/nr_in_a_room/)
   - `SIGGRAPH Asia 2022` [NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://arxiv.org/abs/2211.07968)
