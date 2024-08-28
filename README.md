@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/08/21☕] 
+[Latest Update: 2024/08/28☕] 
 + **2024**
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - `ECCV 2024` [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/)
@@ -138,6 +138,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICRA 2024` [Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs](https://arxiv.org/abs/2403.04114) 
   - `ACM MM 2024` [View-consistent Object Removal in Radiance Fields](https://arxiv.org/abs/2408.02100) | [[Project Page]](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
   - `IEEE VR 2024` [Dreaming Your Room Space with Text-Driven](https://arxiv.org/abs/2310.13119) | [[Project Page]](https://ybbbbt.com/publication/dreamspace/)
+  - `GCPR 2024` [G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles](https://arxiv.org/abs/2408.13508) | [[Project Page]](https://mericadil.github.io/G3DST/)
   - `ICASSP 2024` [Instant photorealistic neural radiance fields stylization](https://arxiv.org/abs/2303.16884) | [[Code]](https://github.com/lsx0101/Instant-NeRF-Stylization)
   - `IEEE VIS 2024` [StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization](https://arxiv.org/abs/2408.00150)
   - `arXiv` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
@@ -171,6 +172,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [StyleSplat: 3D Object Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2407.09473) | [[Project Page]](https://bernard0047.github.io/stylesplat/)
   - `arXiv` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
   - `arXiv` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
+  - `arXiv` [SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting](https://arxiv.org/abs/2408.13285) | [[Project Page]](https://github.com/KAISTChangmin/SIn-NeRF2NeRF)
   - `arXiv` [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - `arXiv` [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
   - `arXiv` [Mesh-based Gaussian Splatting for Real-time Large-scale Deformation](https://arxiv.org/abs/2402.04796)
