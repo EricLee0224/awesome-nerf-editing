@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/08/28☕] 
+[Latest Update: 2024/09/21☕] 
 + **2024**
   - `ECCV 2024` [Watch Your Steps: Local Image and Scene Editing by Text Instructions](https://arxiv.org/abs/2308.08947) | [[Project Page]](https://ashmrz.github.io/WatchYourSteps/)
   - `ECCV 2024` [Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing](https://arxiv.org/abs/2404.01223) | [[Project Page]](https://feature-splatting.github.io/)
@@ -65,6 +65,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ECCV 2024` [Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians](https://arxiv.org/abs/2403.09434) | [[Project Page]](https://zlicheng.com/spring_gaus/)
   - `ECCV 2024` [Chat-Edit-3D: Interactive 3D Scene Editing via Text Prompts](https://arxiv.org/abs/2407.06842) | [[Project Page]](https://sk-fun.fun/CE3D/)
   - `ECCV 2024` [GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields](https://arxiv.org/abs/2407.13390) | [[Project Page]](https://kevinhuangxf.github.io/GeometrySticker/)
+  - `ECCV 2024` [EgoLifter: Open-world 3D Segmentation for Egocentric Perception](https://arxiv.org/abs/2403.18118) | [[Project Page]](https://egolifter.github.io/)
   - `CVPR 2024 Highlight` [TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations](https://arxiv.org/abs/2406.12121) | [[Project Page]](https://gitbosun.github.io/TutteNet/)
   - `CVPR 2024 Highlight` [PAPR in Motion: Seamless Point-level 3D Scene Interpolation](https://arxiv.org/abs/2406.05533) | [[Project Page]](https://niopeng.github.io/PAPR-in-Motion/)
   - `CVPR 2024 Highlight` [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746) | [[Project Page]](https://yifanlu0227.github.io/ChatSim/)
@@ -130,6 +131,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `3DV 2024` [Compositional 3D Scene Generation using Locally Conditioned Diffusion](https://arxiv.org/abs/2303.12218) | [[Project Page]](https://ryanpo.com/comp3d/)
   - `3DV 2024` [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020) | [[Project Page]](https://jianglongye.com/consistent123/)
   - `3DV 2024` [CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields](https://arxiv.org/abs/2404.14967) 
+  - `CGF 2024` [Directional Texture Editing for 3D Models](https://arxiv.org/abs/2309.14872) | [[Project Page]](https://shengqiliu1.github.io/ITEM3D/)
   - `CG & A 2024` [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://arxiv.org/abs/2206.04901) | [[Project Page]](https://jdily.github.io/proj_site/nerfin_proj.html)
   - `AAAI 2024` [FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields](https://arxiv.org/abs/2401.05516) | [[Project Page]](https://kim-geonu.github.io/FPRF/)
   - `AAAI 2024` [A General Implicit Framework for Fast NeRF Composition and Rendering](https://arxiv.org/abs/2308.04669)
@@ -152,7 +154,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians](https://arxiv.org/abs/2401.05925) | [[Project Page]](https://david-dou.github.io/CoSSegGaussians/)
   - `arXiv` [Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior](https://arxiv.org/abs/2404.06780) | [[Project Page]](https://urbanarchitect.github.io/)
   - `arXiv` [Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting](https://arxiv.org/abs/2403.15624) | [[Project Page]](https://semantic-gaussians.github.io/)
-  - `arXiv` [EgoLifter: Open-world 3D Segmentation for Egocentric Perception](https://arxiv.org/abs/2403.18118) | [[Project Page]](https://egolifter.github.io/)
   - `arXiv` [RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting](https://arxiv.org/abs/2404.10765) | [[Project Page]](https://reffusion.github.io/)
   - `arXiv` [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
   - `arXiv` [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/abs/2404.13026) | [[Project Page]](https://physdreamer.github.io/)
@@ -204,6 +205,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [3D Gaussian Editing with A Single Image](https://arxiv.org/abs/2408.07540)
   - `arXiv` [LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting](https://arxiv.org/abs/2408.04474)
   - `arXiv` [PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting](https://arxiv.org/abs/2408.03538)
+  - `arXiv` [G-Style: Stylized Gaussian Splatting](https://arxiv.org/abs/2408.15695)
 ---
 + **2023**
   - `NeurIPS 2023` [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
@@ -324,7 +326,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video](https://arxiv.org/abs/2306.09349) | [[Project Page]](https://urbaninverserendering.github.io/)
   - `arXiv` [OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields](https://arxiv.org/abs/2305.10503) | [[Project Page]](https://ornerf.github.io/)
   - `arXiv` [PVD-AL: Progressive Volume Distillation with Active Learning for Efficient Conversion Between Different NeRF Architectures](https://arxiv.org/abs/2304.04012) | [[Project Page]](https://sk-fun.fun/PVD-AL)
-  - `arXiv` [Directional Texture Editing for 3D Models](https://arxiv.org/abs/2309.14872) | [[Project Page]](https://shengqiliu1.github.io/ITEM3D/)
   - `arXiv` [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602) | [[Project Page]](https://fangchuan.github.io/ctrl-room.github.io/)
   - `arXiv` [LANe: Lighting-Aware Neural Fields for Compositional Scene Synthesis](https://arxiv.org/abs/2304.03280) | [[Project Page]](https://lane-composition.github.io/)
   - `arXiv` [Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion](https://arxiv.org/abs/2303.15780) | [[Project Page]](https://sony.github.io/Instruct3Dto3D-doc/)
