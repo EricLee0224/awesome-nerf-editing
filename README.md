@@ -7,7 +7,7 @@
 
 #### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/), and [Tianshu Kuai](https://tianshukuai.github.io/) @Université de Montréal & Mila
 ---
-Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! Neural Fields is revolutionizing 3D computer vision and graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
+Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! NeRF and 3D-GS is revolutionizing 3D computer vision and graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
 🚨 Note: Please be aware that the acceptance status of papers might not be up-to-date.  
 💬 Feel free to open an Issue or a Pull Request if you find any missing papers!
