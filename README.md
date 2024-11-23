@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/10/11☕] 
+[Latest Update: 2024/11/23☕] 
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -76,6 +76,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ECCV 2024` [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704) | [[Project Page]](https://eastbeanzhang.github.io/GS-W/)
   - `ECCV 2024` [Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications](https://arxiv.org/abs/2403.11131) | [[Code]](https://github.com/GATECH-EIC/Omni-Recon)
   - `ECCV 2024` [SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians](https://arxiv.org/abs/2403.10427)
+  - `ECCVW 2024` [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://arxiv.org/abs/2411.10130) | [[Code]](https://github.com/YushenZuo/OSDiffST)
   - `CVPR 2024 Highlight` [TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations](https://arxiv.org/abs/2406.12121) | [[Project Page]](https://gitbosun.github.io/TutteNet/)
   - `CVPR 2024 Highlight` [PAPR in Motion: Seamless Point-level 3D Scene Interpolation](https://arxiv.org/abs/2406.05533) | [[Project Page]](https://niopeng.github.io/PAPR-in-Motion/)
   - `CVPR 2024 Highlight` [Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents](https://arxiv.org/abs/2402.05746) | [[Project Page]](https://yifanlu0227.github.io/ChatSim/)
@@ -144,13 +145,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `3DV 2024` [CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields](https://arxiv.org/abs/2404.14967) 
   - `CGF 2024` [Directional Texture Editing for 3D Models](https://arxiv.org/abs/2309.14872) | [[Project Page]](https://shengqiliu1.github.io/ITEM3D/)
   - `CG & A 2024` [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://arxiv.org/abs/2206.04901) | [[Project Page]](https://jdily.github.io/proj_site/nerfin_proj.html)
+  - `PG 2024` [GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization](https://arxiv.org/abs/2411.10033)
   - `AAAI 2024` [FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields](https://arxiv.org/abs/2401.05516) | [[Project Page]](https://kim-geonu.github.io/FPRF/)
   - `AAAI 2024` [A General Implicit Framework for Fast NeRF Composition and Rendering](https://arxiv.org/abs/2308.04669)
   - `AAAI 2024` [PNeSM: Arbitrary 3D Scene Stylization via Prompt-Based Neural Style Mapping](https://arxiv.org/abs/2403.08252)
   - `I3D 2024` [ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context](https://arxiv.org/abs/2310.09965) | [[Project Page]](https://proteusnerf.github.io/)
   - `ICRA 2024` [Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs](https://arxiv.org/abs/2403.04114) 
   - `ACM MM 2024` [View-consistent Object Removal in Radiance Fields](https://arxiv.org/abs/2408.02100) | [[Project Page]](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
-  - `IEEE VR 2024` [Dreaming Your Room Space with Text-Driven](https://arxiv.org/abs/2310.13119) | [[Project Page]](https://ybbbbt.com/publication/dreamspace/)
+  - `IEEE VR 2024` [DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation](https://arxiv.org/abs/2310.13119) | [[Project Page]](https://ybbbbt.com/publication/dreamspace/)
   - `GCPR 2024` [G3DST: Generalizing 3D Style Transfer with Neural Radiance Fields across Scenes and Styles](https://arxiv.org/abs/2408.13508) | [[Project Page]](https://mericadil.github.io/G3DST/)
   - `GCPR 2024` [Gaussian Splatting in Style](https://arxiv.org/abs/2403.08498)
   - `ICASSP 2024` [Instant photorealistic neural radiance fields stylization](https://arxiv.org/abs/2303.16884) | [[Code]](https://github.com/lsx0101/Instant-NeRF-Stylization)
@@ -186,6 +188,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians](https://arxiv.org/abs/2409.17917) | [[Project Page]](https://compvis.github.io/wast3d/)
   - `arXiv` [Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks](https://arxiv.org/abs/2409.11681) | [[Project Page]](https://jojijoseph.github.io/3dgs-segmentation/)
   - `arXiv` [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](https://arxiv.org/abs/2410.05259) | [[Project Page]](https://yukangcao.github.io/GS-VTON/)
+  - `arXiv` [Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting](https://arxiv.org/abs/2411.12789) | [[Project Page]](https://sim-gs.github.io/)
   - `arXiv` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `arXiv` [Scaling Face Interaction Graph Networks to Real World Scenes](https://arxiv.org/abs/2401.11985) 
   - `arXiv` [Segment Anything in 3D Gaussians](https://arxiv.org/abs/2401.17857) 
@@ -201,7 +204,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Depth Priors in Removal Neural Radiance Fields](https://arxiv.org/abs/2405.00630)
   - `arXiv` [M2DNeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields](https://arxiv.org/abs/2405.05010)
   - `arXiv` [Point Resampling and Ray Transformation Aid to Editable NeRF Models](https://arxiv.org/abs/2405.07306)
-  - `arXiv` [Direct Learning of Mesh and Appearance via 3D Gaussian Splatting](https://arxiv.org/abs/2405.06945)
   - `arXiv` [TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing](https://arxiv.org/abs/2405.14455)
   - `arXiv` [Preserving Identity with Variational Score for General-purpose 3D Editing](https://arxiv.org/abs/2406.08953)
   - `arXiv` [Relighting Scenes with Object Insertions in Neural Radiance Fields](https://arxiv.org/abs/2406.14806)
@@ -218,6 +220,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality](https://arxiv.org/abs/2409.15959)
   - `arXiv` [GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians](https://arxiv.org/abs/2410.01535)
   - `arXiv` [4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2410.10412)
+  - `arXiv` [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168)
 ---
 + **2023**
   - `NeurIPS 2023` [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
