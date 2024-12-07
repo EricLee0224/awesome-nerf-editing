@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/11/30☕] 
+[Latest Update: 2024/12/07☕] 
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -76,6 +76,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ECCV 2024` [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/abs/2403.15704) | [[Project Page]](https://eastbeanzhang.github.io/GS-W/)
   - `ECCV 2024` [Omni-Recon: Towards General-Purpose Neural Radiance Fields for Versatile 3D Applications](https://arxiv.org/abs/2403.11131) | [[Code]](https://github.com/GATECH-EIC/Omni-Recon)
   - `ECCV 2024` [SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians](https://arxiv.org/abs/2403.10427)
+  - `ECCV 2024` [Single-Mask Inpainting for Voxel-based Neural Radiance Fields](https://link.springer.com/chapter/10.1007/978-3-031-72998-0_7)
   - `ECCVW 2024` [Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning](https://arxiv.org/abs/2411.10130) | [[Code]](https://github.com/YushenZuo/OSDiffST)
   - `CVPR 2024 Highlight` [TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations](https://arxiv.org/abs/2406.12121) | [[Project Page]](https://gitbosun.github.io/TutteNet/)
   - `CVPR 2024 Highlight` [PAPR in Motion: Seamless Point-level 3D Scene Interpolation](https://arxiv.org/abs/2406.05533) | [[Project Page]](https://niopeng.github.io/PAPR-in-Motion/)
@@ -151,6 +152,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `AAAI 2024` [FPRF: Feed-Forward Photorealistic Style Transfer of Large-Scale 3D Neural Radiance Fields](https://arxiv.org/abs/2401.05516) | [[Project Page]](https://kim-geonu.github.io/FPRF/)
   - `AAAI 2024` [A General Implicit Framework for Fast NeRF Composition and Rendering](https://arxiv.org/abs/2308.04669)
   - `AAAI 2024` [PNeSM: Arbitrary 3D Scene Stylization via Prompt-Based Neural Style Mapping](https://arxiv.org/abs/2403.08252)
+  - `ACCV 2024` [Hi-NeRF: Hybridizing 2D Inpainting with Neural Radiance Fields for 3D Scene Inpainting](https://openaccess.thecvf.com/content/ACCV2024/html/Huang_Hi-NeRF_Hybridizing_2D_Inpainting_with_Neural_Radiance_Fields_for_3D_ACCV_2024_paper.html)
+  - `ACCV 2024` [Enhancing Multimedia Applications by Removing Dynamic Objects in Neural Radiance Fields](https://openaccess.thecvf.com/content/ACCV2024/html/Yang_Enhancing_Multimedia_Applications_by_Removing_Dynamic_Objects_in_Neural_Radiance_ACCV_2024_paper.html)
   - `I3D 2024` [ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context](https://arxiv.org/abs/2310.09965) | [[Project Page]](https://proteusnerf.github.io/)
   - `ICRA 2024` [Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs](https://arxiv.org/abs/2403.04114) 
   - `ACM MM 2024` [View-consistent Object Removal in Radiance Fields](https://arxiv.org/abs/2408.02100) | [[Project Page]](https://vulab-ai.github.io/View-consistent_Object_Removal_in_Radiance_Fields/)
@@ -160,7 +163,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICASSP 2024` [Instant photorealistic neural radiance fields stylization](https://arxiv.org/abs/2303.16884) | [[Code]](https://github.com/lsx0101/Instant-NeRF-Stylization)
   - `IEEE VIS 2024` [StyleRF-VolVis: Style Transfer of Neural Radiance Fields for Expressive Volume Visualization](https://arxiv.org/abs/2408.00150)
   - `ACM MM 2024` [Deformable NeRF using Recursively Subdivided Tetrahedra](https://arxiv.org/abs/2410.04402) | [[Project Page]](https://ustc3dv.github.io/DeformRF/)
+  - `ACM MM 2024` [3D Scene De-occlusion in Neural Radiance Fields: A Framework for Obstacle Removal and Realistic Inpainting](https://dl.acm.org/doi/abs/10.1145/3664647.3681429)
   - `ICPR 2024` [ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis](https://arxiv.org/abs/2404.13711) | [[Code]](https://github.com/silence-tang/ArtNeRF)
+  - `Electronics 2024` [Three-Dimensional-Consistent Scene Inpainting via Uncertainty-Aware Neural Radiance Field](https://www.mdpi.com/2079-9292/13/2/448)
   - `arXiv` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `arXiv` [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [[Project Page]](https://jumpat.github.io/SAGA/)
   - `arXiv` [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
@@ -189,6 +194,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks](https://arxiv.org/abs/2409.11681) | [[Project Page]](https://jojijoseph.github.io/3dgs-segmentation/)
   - `arXiv` [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](https://arxiv.org/abs/2410.05259) | [[Project Page]](https://yukangcao.github.io/GS-VTON/)
   - `arXiv` [Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting](https://arxiv.org/abs/2411.12789) | [[Project Page]](https://sim-gs.github.io/)
+  - `arXiv` [SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis](https://arxiv.org/abs/2411.16443) | [[Project Page]](https://gohyojun15.github.io/SplatFlow/)
+  - `arXiv` [Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects](https://arxiv.org/abs/2412.00518) | [[Project Page]](https://amirbarda.github.io/Instant3dit.github.io/)
+  - `arXiv` [CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion](https://arxiv.org/abs/2412.01792) | [[Project Page]](https://ihe-kaii.github.io/CTRL-D/)
   - `arXiv` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `arXiv` [NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation](https://arxiv.org/abs/2411.15551) | [[Code]](https://github.com/Arcxml/GB-NeRF)
   - `arXiv` [Neural Surface Priors for Editable Gaussian Splatting](https://arxiv.org/abs/2411.18311) | [[Code]](https://github.com/WJakubowska/NeuralSurfacePriors)
