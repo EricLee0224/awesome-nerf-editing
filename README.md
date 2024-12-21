@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/12/13☕] 
+[Latest Update: 2024/12/20☕] 
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -201,6 +201,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [PrEditor3D: Fast and Precise 3D Shape Editing](https://arxiv.org/abs/2412.06592) | [[Project Page]](https://ziyaerkoc.com/preditor3d/)
   - `arXiv` [Diffusion-Based Attention Warping for Consistent 3D Scene Editing](https://arxiv.org/abs/2412.07984) | [[Project Page]](https://attention-warp.github.io/)
   - `arXiv` [3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](https://arxiv.org/abs/2412.01583) | [[Project Page]](https://ziyangyan.github.io/3DSceneEditor/)
+  - `arXiv` [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](https://arxiv.org/abs/2412.11520) | [[Project Page]](https://kuai-lab.github.io/editsplat2024/)
   - `arXiv` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `arXiv` [NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation](https://arxiv.org/abs/2411.15551) | [[Code]](https://github.com/Arcxml/GB-NeRF)
   - `arXiv` [Neural Surface Priors for Editable Gaussian Splatting](https://arxiv.org/abs/2411.18311) | [[Code]](https://github.com/WJakubowska/NeuralSurfacePriors)
@@ -236,6 +237,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians](https://arxiv.org/abs/2410.01535)
   - `arXiv` [4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2410.10412)
   - `arXiv` [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168)
+  - `arXiv` [ProGDF: Progressive Gaussian Differential Field for Controllable and Flexible 3D Editing](https://arxiv.org/abs/2412.08152)
 ---
 + **2023**
   - `NeurIPS 2023` [UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene](https://arxiv.org/abs/2310.13263) | [[Project Page]](https://jamchaos.github.io/UE4-NeRF/)
