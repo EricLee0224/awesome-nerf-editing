@@ -41,12 +41,18 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/01/18☕] 
+[Latest Update: 2024/01/31☕] 
 + **2025**
   - `3DV 2025` [Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://arxiv.org/abs/2312.06657) | [[Project Page]](https://felixcheng97.github.io/AGAP/)
   - `3DV 2025` [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation](https://arxiv.org/abs/2310.16858) | [[Project Page]](https://patrickddj.github.io/4D-Editor/)
+  - `3DV 2025` [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://arxiv.org/abs/2404.19758) | [[Project Page]](https://research.paulengstler.com/invisible-stitch/)
+  - `ICLR 2025` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
+  - `ICLR 2025` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
+  - `AAAI 2025` [SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing](https://arxiv.org/abs/2406.17396) | [[Project Page]](https://lslrh.github.io/syncnoise.github.io/)
   - `AAAI 2025` [SoundBrush: Sound as a Brush for Visual Scene Editing](https://arxiv.org/abs/2501.00645) | [[Project Page]](https://soundbrush.github.io/)
+  - `TVCG 2025` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
+  - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -172,7 +178,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ACM MM 2024` [3D Scene De-occlusion in Neural Radiance Fields: A Framework for Obstacle Removal and Realistic Inpainting](https://dl.acm.org/doi/abs/10.1145/3664647.3681429)
   - `ICPR 2024` [ArtNeRF: A Stylized Neural Field for 3D-Aware Cartoonized Face Synthesis](https://arxiv.org/abs/2404.13711) | [[Code]](https://github.com/silence-tang/ArtNeRF)
   - `Electronics 2024` [Three-Dimensional-Consistent Scene Inpainting via Uncertainty-Aware Neural Radiance Field](https://www.mdpi.com/2079-9292/13/2/448)
-  - `arXiv` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `arXiv` [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [[Project Page]](https://jumpat.github.io/SAGA/)
   - `arXiv` [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
   - `arXiv` [Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting](https://arxiv.org/abs/2401.15318) | [[Project Page]](https://amysteriouscat.github.io/GaussianSplashing/)
@@ -183,18 +188,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting](https://arxiv.org/abs/2403.15624) | [[Project Page]](https://semantic-gaussians.github.io/)
   - `arXiv` [RefFusion: Reference Adapted Diffusion Models for 3D Scene Inpainting](https://arxiv.org/abs/2404.10765) | [[Project Page]](https://reffusion.github.io/)
   - `arXiv` [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
-  - `arXiv` [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://arxiv.org/abs/2404.19758) | [[Project Page]](https://research.paulengstler.com/invisible-stitch/)
   - `arXiv` [Gaga: Group Any Gaussians via 3D-aware Memory Bank](https://arxiv.org/abs/2404.07977) | [[Project Page]](https://www.gaga.gallery/)
   - `arXiv` [GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting](https://arxiv.org/abs/2405.07472) | [[Project Page]](https://haroldchen19.github.io/gsvton/)
   - `arXiv` [GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting](https://arxiv.org/abs/2405.15491) | [[Project Page]](https://jhuangbu.github.io/gsdeformer/)
   - `arXiv` [Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection](https://arxiv.org/abs/2405.16823) | [[Project Page]](https://unifyediting.github.io/)
   - `arXiv` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
-  - `arXiv` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
   - `arXiv` [Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338) | [[Project Page]](https://liuff19.github.io/Physics3D/)
   - `arXiv` [StyleSplat: 3D Object Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2407.09473) | [[Project Page]](https://bernard0047.github.io/stylesplat/)
-  - `arXiv` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
   - `arXiv` [SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting](https://arxiv.org/abs/2408.13285) | [[Code]](https://github.com/KAISTChangmin/SIn-NeRF2NeRF)
-  - `arXiv` [SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing](https://arxiv.org/abs/2406.17396) | [[Project Page]](https://lslrh.github.io/syncnoise.github.io/)
   - `arXiv` [Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model](https://arxiv.org/abs/2409.16938) | [[Code]](https://github.com/JiuTongBro/MultiView_Inpaint)
   - `arXiv` [Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks](https://arxiv.org/abs/2409.11681) | [[Project Page]](https://jojijoseph.github.io/3dgs-segmentation/)
   - `arXiv` [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](https://arxiv.org/abs/2410.05259) | [[Project Page]](https://yukangcao.github.io/GS-VTON/)
