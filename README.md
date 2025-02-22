@@ -41,18 +41,25 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/01/31☕] 
+[Latest Update: 2024/02/22☕] 
 + **2025**
+  - `ICLR 2025` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
+  - `ICLR 2025` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
+  - `ICLR 2025` [3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing](https://openreview.net/forum?id=7JUrBLDjCq&referrer=%5Bthe%20profile%20of%20Yu-Xiong%20Wang%5D(%2Fprofile%3Fid%3D~Yu-Xiong_Wang1))
   - `3DV 2025` [Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://arxiv.org/abs/2312.06657) | [[Project Page]](https://felixcheng97.github.io/AGAP/)
   - `3DV 2025` [4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via 4D Semantic Segmentation](https://arxiv.org/abs/2310.16858) | [[Project Page]](https://patrickddj.github.io/4D-Editor/)
   - `3DV 2025` [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://arxiv.org/abs/2404.19758) | [[Project Page]](https://research.paulengstler.com/invisible-stitch/)
-  - `ICLR 2025` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
-  - `ICLR 2025` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
+  - `WACV 2025` [Towards a Training Free Approach for 3D Scene Editing](https://arxiv.org/abs/2412.12766) | [[Project Page]](https://vivekmadhavaram.github.io/FreeEdit_page/)
+  - `WACV 2025` [LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting](https://arxiv.org/abs/2408.04474) | [[Project Page]](https://github.com/joaxkal/lumigauss)
+  - `WACV 2025` [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083)
   - `AAAI 2025` [SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing](https://arxiv.org/abs/2406.17396) | [[Project Page]](https://lslrh.github.io/syncnoise.github.io/)
   - `AAAI 2025` [SoundBrush: Sound as a Brush for Visual Scene Editing](https://arxiv.org/abs/2501.00645) | [[Project Page]](https://soundbrush.github.io/)
   - `TVCG 2025` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
+  - `arXiv` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
+  - `arXiv` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
   - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
+  - `arXiv` [3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](https://arxiv.org/abs/2502.11801)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -233,10 +240,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation](https://arxiv.org/abs/2407.02034)
   - `arXiv` [Reference-based Controllable Scene Stylization with Gaussian Splatting](https://arxiv.org/abs/2407.07220)
   - `arXiv` [Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections](https://arxiv.org/abs/2406.10373)
-  - `arXiv` [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083)
   - `arXiv` [InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting](https://arxiv.org/abs/2408.04249)
   - `arXiv` [3D Gaussian Editing with A Single Image](https://arxiv.org/abs/2408.07540)
-  - `arXiv` [LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting](https://arxiv.org/abs/2408.04474)
   - `arXiv` [PRTGS: Precomputed Radiance Transfer of Gaussian Splats for Real-Time High-Quality Relighting](https://arxiv.org/abs/2408.03538)
   - `arXiv` [G-Style: Stylized Gaussian Splatting](https://arxiv.org/abs/2408.15695)
   - `arXiv` [Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality](https://arxiv.org/abs/2409.15959)
