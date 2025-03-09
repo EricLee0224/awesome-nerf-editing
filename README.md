@@ -41,8 +41,21 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2024/02/22☕] 
+[Latest Update: 2025/03/09☕] 
 + **2025**
+  - `CVPR 2025` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
+  - `CVPR 2025` [SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis](https://arxiv.org/abs/2411.16443) | [[Project Page]](https://gohyojun15.github.io/SplatFlow/)
+  - `CVPR 2025` [Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects](https://arxiv.org/abs/2412.00518) | [[Project Page]](https://amirbarda.github.io/Instant3dit.github.io/)
+  - `CVPR 2025` [CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion](https://arxiv.org/abs/2412.01792) | [[Project Page]](https://ihe-kaii.github.io/CTRL-D/)
+  - `CVPR 2025` [Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories](https://arxiv.org/abs/2412.05279) | [[Project Page]](https://susunghong.github.io/Perturb-and-Revise)
+  - `CVPR 2025` [PrEditor3D: Fast and Precise 3D Shape Editing](https://arxiv.org/abs/2412.06592) | [[Project Page]](https://ziyaerkoc.com/preditor3d/)
+  - `CVPR 2025` [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](https://arxiv.org/abs/2412.11520) | [[Project Page]](https://kuai-lab.github.io/editsplat2024/)
+  - `CVPR 2025` [Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization](https://arxiv.org/abs/2503.02009) | [[Project Page]](https://nianticlabs.github.io/morpheus/)
+  - `CVPR 2025` [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://arxiv.org/abs/2503.04501) | [[Project Page]](https://xinxinzuo2353.github.io/imfine/)
+  - `CVPR 2025` [AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](https://arxiv.org/abs/2502.05176) | [[Project Page]](https://kkennethwu.github.io/aurafusion360/)
+  - `CVPR 2025` [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371)
+  - `CVPR 2025` [3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](https://arxiv.org/abs/2502.11801)
+  - `ICRA 2025` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `ICLR 2025` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
   - `ICLR 2025` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
   - `ICLR 2025` [3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing](https://openreview.net/forum?id=7JUrBLDjCq&referrer=%5Bthe%20profile%20of%20Yu-Xiong%20Wang%5D(%2Fprofile%3Fid%3D~Yu-Xiong_Wang1))
@@ -57,9 +70,10 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `TVCG 2025` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `arXiv` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
   - `arXiv` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
+  - `arXiv` [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335) | [[Project Page]](https://geomvi.github.io/)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
   - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
-  - `arXiv` [3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](https://arxiv.org/abs/2502.11801)
+  - `arXiv` [Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing](https://arxiv.org/abs/2502.14789)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -199,7 +213,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting](https://arxiv.org/abs/2405.07472) | [[Project Page]](https://haroldchen19.github.io/gsvton/)
   - `arXiv` [GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting](https://arxiv.org/abs/2405.15491) | [[Project Page]](https://jhuangbu.github.io/gsdeformer/)
   - `arXiv` [Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection](https://arxiv.org/abs/2405.16823) | [[Project Page]](https://unifyediting.github.io/)
-  - `arXiv` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
   - `arXiv` [Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338) | [[Project Page]](https://liuff19.github.io/Physics3D/)
   - `arXiv` [StyleSplat: 3D Object Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2407.09473) | [[Project Page]](https://bernard0047.github.io/stylesplat/)
   - `arXiv` [SIn-NeRF2NeRF: Editing 3D Scenes with Instructions through Segmentation and Inpainting](https://arxiv.org/abs/2408.13285) | [[Code]](https://github.com/KAISTChangmin/SIn-NeRF2NeRF)
@@ -207,15 +220,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks](https://arxiv.org/abs/2409.11681) | [[Project Page]](https://jojijoseph.github.io/3dgs-segmentation/)
   - `arXiv` [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](https://arxiv.org/abs/2410.05259) | [[Project Page]](https://yukangcao.github.io/GS-VTON/)
   - `arXiv` [Sim Anything: Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting](https://arxiv.org/abs/2411.12789) | [[Project Page]](https://sim-gs.github.io/)
-  - `arXiv` [SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis](https://arxiv.org/abs/2411.16443) | [[Project Page]](https://gohyojun15.github.io/SplatFlow/)
-  - `arXiv` [Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects](https://arxiv.org/abs/2412.00518) | [[Project Page]](https://amirbarda.github.io/Instant3dit.github.io/)
-  - `arXiv` [CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion](https://arxiv.org/abs/2412.01792) | [[Project Page]](https://ihe-kaii.github.io/CTRL-D/)
-  - `arXiv` [Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories](https://arxiv.org/abs/2412.05279) | [[Project Page]](https://susunghong.github.io/Perturb-and-Revise)
-  - `arXiv` [PrEditor3D: Fast and Precise 3D Shape Editing](https://arxiv.org/abs/2412.06592) | [[Project Page]](https://ziyaerkoc.com/preditor3d/)
   - `arXiv` [Diffusion-Based Attention Warping for Consistent 3D Scene Editing](https://arxiv.org/abs/2412.07984) | [[Project Page]](https://attention-warp.github.io/)
   - `arXiv` [3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](https://arxiv.org/abs/2412.01583) | [[Project Page]](https://ziyangyan.github.io/3DSceneEditor/)
-  - `arXiv` [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](https://arxiv.org/abs/2412.11520) | [[Project Page]](https://kuai-lab.github.io/editsplat2024/)
-  - `arXiv` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `arXiv` [NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation](https://arxiv.org/abs/2411.15551) | [[Code]](https://github.com/Arcxml/GB-NeRF)
   - `arXiv` [Neural Surface Priors for Editable Gaussian Splatting](https://arxiv.org/abs/2411.18311) | [[Code]](https://github.com/WJakubowska/NeuralSurfacePriors)
   - `arXiv` [Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion](https://arxiv.org/abs/2412.02075) | [[Code]](https://github.com/liuliu3dv/GOC)
