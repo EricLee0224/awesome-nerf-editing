@@ -5,7 +5,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-#### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/), and [Tianshu Kuai](https://tianshukuai.github.io/) @Université de Montréal & Mila
+#### Curated by [Weize Li](https://ericlee0224.github.io/) ; [Huan-ang Gao](https://c7w.tech/about/) @[AIR](https://air.tsinghua.edu.cn/en/)-[DISCOVER Lab](https://www.discover-lab.com/), and [Tianshu Kuai](https://tianshukuai.github.io/) @University of Montreal & Mila
 ---
 Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for exploring the exciting world of Radiance Fields Editing! NeRF and 3D-GS is revolutionizing 3D computer vision and graphics, and this curated collection of resources is your gateway to understanding and mastering editing techniques.
 
@@ -13,8 +13,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 💬 Feel free to open an Issue or a Pull Request if you find any missing papers!
 
 ## 🔥News
-  - `2024.08.05` Our survey **Radiance Field-based 3D Editing: A Survey** will be on arXiv soon!
-  - `2024.08.01` Update acceptance status of previous arXiv papers.
   - `2023.08.21` We start to maintain this awesome list.
 ## Table of Contents
 - [Seminal](#seminal-papers)
@@ -41,7 +39,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/03/09☕] 
+[Latest Update: 2025/03/31☕] 
 + **2025**
   - `CVPR 2025` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
   - `CVPR 2025` [SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis](https://arxiv.org/abs/2411.16443) | [[Project Page]](https://gohyojun15.github.io/SplatFlow/)
@@ -53,6 +51,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2025` [Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization](https://arxiv.org/abs/2503.02009) | [[Project Page]](https://nianticlabs.github.io/morpheus/)
   - `CVPR 2025` [IMFine: 3D Inpainting via Geometry-guided Multi-view Refinement](https://arxiv.org/abs/2503.04501) | [[Project Page]](https://xinxinzuo2353.github.io/imfine/)
   - `CVPR 2025` [AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting](https://arxiv.org/abs/2502.05176) | [[Project Page]](https://kkennethwu.github.io/aurafusion360/)
+  - `CVPR 2025` [Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting](https://arxiv.org/abs/2401.15318) | [[Project Page]](https://amysteriouscat.github.io/GaussianSplashing/)
   - `CVPR 2025` [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371)
   - `CVPR 2025` [3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](https://arxiv.org/abs/2502.11801)
   - `ICRA 2025` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
@@ -71,9 +70,12 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
   - `arXiv` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `arXiv` [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335) | [[Project Page]](https://geomvi.github.io/)
+  - `arXiv` [FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting](https://arxiv.org/abs/2503.09635) | [[Project Page]](https://kim-geonu.github.io/FPGS/)
+  - `arXiv` [V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes](https://arxiv.org/abs/2503.10634) | [[Project Page]](https://immortalco.github.io/V2Edit/)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
   - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
   - `arXiv` [Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing](https://arxiv.org/abs/2502.14789)
+  - `arXiv` [D3DR: Lighting-Aware Object Insertion in Gaussian Splatting](https://arxiv.org/abs/2503.06740)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -201,7 +203,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `Electronics 2024` [Three-Dimensional-Consistent Scene Inpainting via Uncertainty-Aware Neural Radiance Field](https://www.mdpi.com/2079-9292/13/2/448)
   - `arXiv` [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [[Project Page]](https://jumpat.github.io/SAGA/)
   - `arXiv` [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335) | [[Project Page]](https://mohamad-shahbazi.github.io/inserf/)
-  - `arXiv` [Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting](https://arxiv.org/abs/2401.15318) | [[Project Page]](https://amysteriouscat.github.io/GaussianSplashing/)
   - `arXiv` [GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting](https://arxiv.org/abs/2402.01459) | [[Project Page]](https://waczjoan.github.io/gaussian-mesh-splatting/)
   - `arXiv` [StyleDyRF: Zero-shot 4D Style Transfer for Dynamic Neural Radiance Fields](https://arxiv.org/abs/2403.08310) | [[Project Page]](https://toughstonex.github.io/stydyrf.github.io/)
   - `arXiv` [CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians](https://arxiv.org/abs/2401.05925) | [[Project Page]](https://david-dou.github.io/CoSSegGaussians/)
