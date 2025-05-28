@@ -39,7 +39,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/03/31☕] 
+[Latest Update: 2025/05/29☕] 
 + **2025**
 + - `SIGGRAPH 2025` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `CVPR 2025` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
