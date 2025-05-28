@@ -41,6 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 [Latest Update: 2025/03/31☕] 
 + **2025**
++ - `SIGGRAPH 2025` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `CVPR 2025` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
   - `CVPR 2025` [SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis](https://arxiv.org/abs/2411.16443) | [[Project Page]](https://gohyojun15.github.io/SplatFlow/)
   - `CVPR 2025` [Instant3dit: Multiview Inpainting for Fast Editing of 3D Objects](https://arxiv.org/abs/2412.00518) | [[Project Page]](https://amirbarda.github.io/Instant3dit.github.io/)
@@ -68,7 +69,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `AAAI 2025` [SoundBrush: Sound as a Brush for Visual Scene Editing](https://arxiv.org/abs/2501.00645) | [[Project Page]](https://soundbrush.github.io/)
   - `TVCG 2025` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `arXiv` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
-  - `arXiv` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `arXiv` [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335) | [[Project Page]](https://geomvi.github.io/)
   - `arXiv` [FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting](https://arxiv.org/abs/2503.09635) | [[Project Page]](https://kim-geonu.github.io/FPGS/)
   - `arXiv` [V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes](https://arxiv.org/abs/2503.10634) | [[Project Page]](https://immortalco.github.io/V2Edit/)
