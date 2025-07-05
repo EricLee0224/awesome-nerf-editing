@@ -15,13 +15,13 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 ## 🔥News
   - `2023.08.21` We start to maintain this awesome list.
 ## Table of Contents
-- [Seminal](#seminal-papers)
+- [Seminal Papers](#seminal-papers)
 - [Related Surveys](#related-surveys)
 - [Papers](#%EF%B8%8Frecent-research)
 <!-- - [Datasets](#implementations) -->
 ## 🏆Seminal Papers
   - `ECCV 2020 Oral` [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | [[Project Page]](http://tancik.com/nerf)
-  - `SIGGRAPH 2023` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+  - `SIGGRAPH 2023 Best Paper` [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079) | [[Project Page]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 ## 💡Related Surveys
   - `arXiv` [3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
   - `arXiv` [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
@@ -39,7 +39,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/05/31☕] 
+[Latest Update: 2025/07/05☕] 
 + **2025**
   - `SIGGRAPH 2025` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `SIGGRAPH 2025` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
@@ -57,6 +57,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2025` [RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting](https://arxiv.org/abs/2503.21442) | [[Project Page]](https://pku-vcl-geometry.github.io/RainyGS/)
   - `CVPR 2025` [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371)
   - `CVPR 2025` [3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](https://arxiv.org/abs/2502.11801)
+  - `CVPR 2025` [DaCapo: Score Distillation as Stacked Bridge for Fast and High-quality 3D Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_DaCapo_Score_Distillation_as_Stacked_Bridge_for_Fast_and_High-quality_CVPR_2025_paper.html)
   - `ICRA 2025` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `RSS 2025` [Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation](https://arxiv.org/abs/2504.13175) | [[Project Page]](https://yangsizhe.github.io/robosplat/)
   - `ICLR 2025` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
@@ -70,8 +71,10 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `WACV 2025` [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083)
   - `AAAI 2025` [SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing](https://arxiv.org/abs/2406.17396) | [[Project Page]](https://lslrh.github.io/syncnoise.github.io/)
   - `AAAI 2025` [SoundBrush: Sound as a Brush for Visual Scene Editing](https://arxiv.org/abs/2501.00645) | [[Project Page]](https://soundbrush.github.io/)
+  - `AAAI 2025` [Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles](https://arxiv.org/abs/2506.06846)
   - `TVCG 2025` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `TVCG 2025` [iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting](https://arxiv.org/abs/2504.17954) | [[Code]](https://github.com/TouKaienn/iVR-GS)
+  - `ICME 2025` [ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2503.22218) | [[Project Page]](https://vpx-ecnu.github.io/ABC-GS-website/)
   - `Visual Informatics 2025` [Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model](https://arxiv.org/abs/2409.16938) | [[Code]](https://github.com/JiuTongBro/MultiView_Inpaint)
   - `arXiv` [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335) | [[Project Page]](https://geomvi.github.io/)
   - `arXiv` [FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting](https://arxiv.org/abs/2503.09635) | [[Project Page]](https://kim-geonu.github.io/FPGS/)
@@ -79,6 +82,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [3D Gaussian Inverse Rendering with Approximated Global Illumination](https://arxiv.org/abs/2504.01358) | [[Project Page]](https://wuzirui.github.io/gs-ssr)
   - `arXiv` [GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [[Project Page]](https://vpx-ecnu.github.io/GT2-GS-website/)
   - `arXiv` [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [[Project Page]](https://nickisdope.github.io/Styl3R)
+  - `arXiv` [Pro3D-Editor : A Progressive-Views Perspective for Consistent and Precise 3D Editing](https://arxiv.org/abs/2506.00512) | [[Project Page]](https://shuoyueli4519.github.io/Pro3D-Editor/)
+  - `arXiv` [InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model](https://arxiv.org/abs/2506.10980) | [[Project Page]](https://dhmbb2.github.io/InstaInpaint_page/)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
   - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
   - `arXiv` [Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing](https://arxiv.org/abs/2502.14789)
