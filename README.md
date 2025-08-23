@@ -39,8 +39,16 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/07/05☕] 
+[Latest Update: 2025/08/23☕] 
 + **2025**
+  - `ICCV 2025` [DiGA3D: Coarse-to-Fine Diffusional Propagation of Geometry and Appearance for Versatile 3D Inpainting](https://arxiv.org/abs/2507.00429) | [[Project Page]](https://rorisis.github.io/DiGA3D/)
+  - `ICCV 2025` [Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling](https://arxiv.org/abs/2507.11061) | [[Project Page]](https://janeyeon.github.io/romap/)
+  - `ICCV 2025` [GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections](https://arxiv.org/abs/2507.20512) | [[Project Page]](https://baihyyut.github.io/GaRe/)
+  - `ICCV 2025` [GausSim: Foreseeing Reality by Gaussian Simulator for Elastic Objects](https://arxiv.org/abs/2412.17804) | [[Project Page]](https://www.mmlab-ntu.com/project/gausim/index.html)
+  - `ICCV 2025` [MaGS: Reconstructing and Simulating Dynamic 3D Objects with Mesh-adsorbed Gaussian Splatting](https://arxiv.org/abs/2406.01593) | [[Project Page]](https://wcwac.github.io/MaGS-page/)
+  - `ICCV 2025` [InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior](https://arxiv.org/abs/2507.04961)
+  - `ICCV 2025` [AG^2aussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing](https://arxiv.org/abs/2508.01740)
+  - `ICCV 2025` [GS-ID: Illumination Decomposition on Gaussian Splatting via Adaptive Light Aggregation and Diffusion-Guided Material Priors](https://arxiv.org/abs/2408.08524)
   - `SIGGRAPH 2025` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `SIGGRAPH 2025` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
   - `CVPR 2025` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
@@ -60,6 +68,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2025` [DaCapo: Score Distillation as Stacked Bridge for Fast and High-quality 3D Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_DaCapo_Score_Distillation_as_Stacked_Bridge_for_Fast_and_High-quality_CVPR_2025_paper.html)
   - `ICRA 2025` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `RSS 2025` [Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation](https://arxiv.org/abs/2504.13175) | [[Project Page]](https://yangsizhe.github.io/robosplat/)
+  - `IROS 2025` [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting](https://arxiv.org/abs/2507.18473) | [[Code]](https://github.com/SainingZhang/CRUISE)
   - `ICLR 2025` [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [[Project Page]](https://zqh0253.github.io/3DitScene/)
   - `ICLR 2025` [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [[Project Page]](https://dream-catalyst.github.io/)
   - `ICLR 2025` [3DGS-Drag: Dragging Gaussians for Intuitive Point-Based 3D Editing](https://openreview.net/forum?id=7JUrBLDjCq&referrer=%5Bthe%20profile%20of%20Yu-Xiong%20Wang%5D(%2Fprofile%3Fid%3D~Yu-Xiong_Wang1))
@@ -74,6 +83,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `AAAI 2025` [Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles](https://arxiv.org/abs/2506.06846)
   - `TVCG 2025` [GO-NeRF: Generating Virtual Objects in Neural Radiance Fields](https://arxiv.org/abs/2401.05750) | [[Project Page]](https://daipengwa.github.io/GO-NeRF/)
   - `TVCG 2025` [iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting](https://arxiv.org/abs/2504.17954) | [[Code]](https://github.com/TouKaienn/iVR-GS)
+  - `IEEE VIS 2025` [TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting](https://arxiv.org/abs/2507.13586)
   - `ICME 2025` [ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2503.22218) | [[Project Page]](https://vpx-ecnu.github.io/ABC-GS-website/)
   - `Visual Informatics 2025` [Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model](https://arxiv.org/abs/2409.16938) | [[Code]](https://github.com/JiuTongBro/MultiView_Inpaint)
   - `arXiv` [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335) | [[Project Page]](https://geomvi.github.io/)
@@ -84,6 +94,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [[Project Page]](https://nickisdope.github.io/Styl3R)
   - `arXiv` [Pro3D-Editor : A Progressive-Views Perspective for Consistent and Precise 3D Editing](https://arxiv.org/abs/2506.00512) | [[Project Page]](https://shuoyueli4519.github.io/Pro3D-Editor/)
   - `arXiv` [InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model](https://arxiv.org/abs/2506.10980) | [[Project Page]](https://dhmbb2.github.io/InstaInpaint_page/)
+  - `arXiv` [Taking Language Embedded 3D Gaussian Splatting into the Wild](https://arxiv.org/abs/2507.19830) | [[Project Page]](https://yuzewang1998.github.io/takinglangsplatw/)
+  - `arXiv` [GENIE: Gaussian Encoding for Neural Radiance Fields Interactive Editing](https://arxiv.org/abs/2508.02831) | [[Project Page]](https://mikolajzielinski.github.io/genie.github.io/)
+  - `arXiv` [Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization](https://arxiv.org/abs/2508.14811) | [[Project Page]](https://aim-uofa.github.io/Tinker)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
   - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
   - `arXiv` [Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing](https://arxiv.org/abs/2502.14789)
@@ -94,6 +107,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image](https://arxiv.org/abs/2505.14537)
   - `arXiv` [Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/abs/2505.01888)
   - `arXiv` [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://arxiv.org/abs/2505.22854)
+  - `arXiv` [Mastering Regional 3DGS: Locating, Initializing, and Editing with Diverse 2D Priors](https://arxiv.org/abs/2507.05426)
+  - `arXiv` [RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting](https://arxiv.org/abs/2507.08434)
+  - `arXiv` [Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting](https://arxiv.org/abs/2507.07000)
+  - `arXiv` [High-fidelity 3D Gaussian Inpainting: preserving multi-view consistency and photorealistic details](https://arxiv.org/abs/2507.18023)
+  - `arXiv` [Stable Score Distillation](https://arxiv.org/abs/2507.09168)
+  - `arXiv` [DisCo3D: Distilling Multi-View Consistency for 3D Scene Editing](https://arxiv.org/abs/2508.01684)
+  - `arXiv` [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136)
+  - `arXiv` [CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion](https://arxiv.org/abs/2508.11603)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
