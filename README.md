@@ -39,7 +39,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/10/03☕]
+[Latest Update: 2025/10/16☕]
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
   - `NeurIPS 2025` [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [[Project Page]](https://nickisdope.github.io/Styl3R)
@@ -52,6 +52,11 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICCV 2025` [AG^2aussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing](https://arxiv.org/abs/2508.01740)
   - `ICCV 2025` [GS-ID: Illumination Decomposition on Gaussian Splatting via Adaptive Light Aggregation and Diffusion-Guided Material Priors](https://arxiv.org/abs/2408.08524)
   - `ICCV 2025` [PhysSplat: Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](https://arxiv.org/abs/2411.12789) | [[Project Page]](https://sim-gs.github.io/)
+  - `ICCV 2025` [Gaussian Splatting with Discretized SDF for Relightable Assets](https://arxiv.org/abs/2507.15629) | [[Project Page]](https://nk-cs-zzl.github.io/projects/dsdf/index.html)
+  - `ICCV 2025` [Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency](https://arxiv.org/abs/2510.10993) | [[Project Page]](https://pa-inpainter.github.io/)
+  - `ICCV 2025` [Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/html/Zhao_Tune-Your-Style_Intensity-tunable_3D_Style_Transfer_with_Gaussian_Splatting_ICCV_2025_paper.html) | [[Project Page]](https://zhao-yian.github.io/TuneStyle/)
+  - `ICCV 2025` [A3GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/html/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.html)
+  - `ICCV 2025` [SU-RGS: Relightable 3D Gaussian Splatting from Sparse Views under Unconstrained Illuminations](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_SU-RGS_Relightable_3D_Gaussian_Splatting_from_Sparse_Views_under_Unconstrained_ICCV_2025_paper.html)
   - `SIGGRAPH 2025` [ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences](https://arxiv.org/abs/2502.11801) | [[Project Page]](https://restyle3d.github.io/)
   - `SIGGRAPH 2025` [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [[Project Page]](https://quyans.github.io/Drag-Your-Gaussian/)
   - `CVPR 2025` [Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh](https://arxiv.org/abs/2405.17811) | [[Project Page]](https://gaoxiangjun.github.io/mani_gs/)
@@ -106,7 +111,10 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [DrivingGaussian++: Towards Realistic Reconstruction and Editable Simulation for Surrounding Dynamic Driving Scenes](https://arxiv.org/abs/2508.20965) | [[Project Page]](https://xiong-creator.github.io/DrivingGaussian_plus.github.io/)
   - `arXiv` [SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer](https://arxiv.org/abs/2509.04379) | [[Project Page]](https://jm-xu.github.io/SSGaussian/)
   - `arXiv` [GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing](https://arxiv.org/abs/2510.02034) | [[Project Page]](https://baiyunshu.github.io/GAUSSIANMORPHING.github.io/)
+  - `arXiv` [SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting](https://arxiv.org/abs/2510.02469) | [[Project Page]](https://sungyeonparkk.github.io/simsplat/)
   - `arXiv` [Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455) | [[Code]](https://github.com/HanzhouLiu/StylOS)
+  - `arXiv` [GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality](https://arxiv.org/abs/2510.11878) | [[Code]](https://github.com/Anastasiya999/GS-Verse)
+  - `arXiv` [EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](https://arxiv.org/abs/2510.13652) | [[Code]](https://github.com/UNITES-Lab/EditCast3D)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
   - `arXiv` [Efficient Interactive 3D Multi-Object Removal](https://arxiv.org/abs/2501.17636)
   - `arXiv` [Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing](https://arxiv.org/abs/2502.14789)
@@ -132,6 +140,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts](https://arxiv.org/abs/2509.26055)
   - `arXiv` [4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing](https://arxiv.org/abs/2510.01991)
   - `arXiv` [GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections](https://arxiv.org/abs/2507.20512)
+  - `arXiv` [C3Editor: Achieving Controllable Consistency in 2D Model for 3D Editing](https://arxiv.org/abs/2510.04539)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -223,7 +232,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICLR 2024` [ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF](https://arxiv.org/abs/2310.02712) | [[Project Page]](https://jhq1234.github.io/ed-nerf.github.io/)
   - `ICLR 2024` [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784) | [[Project Page]](https://cxh0519.github.io/projects/Progressive3D/)
   - `ICLR 2024` [MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field](https://arxiv.org/abs/2303.05703) | [[Project Page]](https://silenkzyoung.github.io/MovingParts-WebPage/)
-  - `WACV 2024` [NeRFEditor: Differentiable Style Decomposition for 3D Scene Editing](https://openaccess.thecvf.com/content/WACV2024/html/Sun_NeRFEditor_Differentiable_Style_Decomposition_for_3D_Scene_Editing_WACV_2024_paper.html) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
+  - `WACV 2024` [NeRFEditor: Differentiable Style Decomposition for 3D Scene Editing](https://arxiv.org/abs/2212.03848) | [[Project Page]](https://chuny1.github.io/NeRFEditor/nerfeditor.html)
   - `WACV 2024` [TEGLO: High Fidelity Canonical Texture Mapping from Single-View Images](https://arxiv.org/abs/2303.13743) | [[Project Page]](https://teglo-nerf.github.io/)
   - `WACV 2024` [Volumetric Disentanglement for 3D Scene Manipulation](https://arxiv.org/abs/2206.02776) | [[Project Page]](https://sagiebenaim.github.io/volumetric-disentanglement/)
   - `WACV 2024` [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](https://arxiv.org/abs/2311.03965)
