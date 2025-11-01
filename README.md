@@ -39,10 +39,15 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/10/16☕]
+[Latest Update: 2025/11/01☕]
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
   - `NeurIPS 2025` [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [[Project Page]](https://nickisdope.github.io/Styl3R)
+  - `NeurIPS 2025` [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://arxiv.org/abs/2505.22854) | [[Project Page]](https://kornelhowil.github.io/CLIPGaussian)
+  - `NeurIPS 2025` [InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model](https://arxiv.org/abs/2506.10980) | [[Project Page]](https://dhmbb2.github.io/InstaInpaint_page/)
+  - `NeurIPS 2025` [3DOT: Texture Transfer for 3DGS Objects from a Single Reference Image](https://arxiv.org/abs/2503.18853) | [[Project Page]](https://massyzs.github.io/3DOT_web/)
+  - `NeurIPS 2025` [Diffusion Feature Field for Text-based 3D Editing with Gaussian Splatting](https://openreview.net/forum?id=Kf9eNbp4wy)
+  - `NeurIPS 2025` [DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting](https://openreview.net/forum?id=Lm4VIXVIuy)
   - `ICCV 2025` [DiGA3D: Coarse-to-Fine Diffusional Propagation of Geometry and Appearance for Versatile 3D Inpainting](https://arxiv.org/abs/2507.00429) | [[Project Page]](https://rorisis.github.io/DiGA3D/)
   - `ICCV 2025` [Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling](https://arxiv.org/abs/2507.11061) | [[Project Page]](https://janeyeon.github.io/romap/)
   - `ICCV 2025` [GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections](https://arxiv.org/abs/2507.20512) | [[Project Page]](https://baihyyut.github.io/GaRe/)
@@ -102,7 +107,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [[Project Page]](https://vpx-ecnu.github.io/GT2-GS-website/)
   - `arXiv` [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [[Project Page]](https://nickisdope.github.io/Styl3R)
   - `arXiv` [Pro3D-Editor : A Progressive-Views Perspective for Consistent and Precise 3D Editing](https://arxiv.org/abs/2506.00512) | [[Project Page]](https://shuoyueli4519.github.io/Pro3D-Editor/)
-  - `arXiv` [InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model](https://arxiv.org/abs/2506.10980) | [[Project Page]](https://dhmbb2.github.io/InstaInpaint_page/)
   - `arXiv` [Taking Language Embedded 3D Gaussian Splatting into the Wild](https://arxiv.org/abs/2507.19830) | [[Project Page]](https://yuzewang1998.github.io/takinglangsplatw/)
   - `arXiv` [GENIE: Gaussian Encoding for Neural Radiance Fields Interactive Editing](https://arxiv.org/abs/2508.02831) | [[Project Page]](https://mikolajzielinski.github.io/genie.github.io/)
   - `arXiv` [Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization](https://arxiv.org/abs/2508.14811) | [[Project Page]](https://aim-uofa.github.io/Tinker)
@@ -123,7 +127,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors](https://arxiv.org/abs/2505.01322)
   - `arXiv` [Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image](https://arxiv.org/abs/2505.14537)
   - `arXiv` [Rethinking Score Distilling Sampling for 3D Editing and Generation](https://arxiv.org/abs/2505.01888)
-  - `arXiv` [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://arxiv.org/abs/2505.22854)
   - `arXiv` [Mastering Regional 3DGS: Locating, Initializing, and Editing with Diverse 2D Priors](https://arxiv.org/abs/2507.05426)
   - `arXiv` [RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting](https://arxiv.org/abs/2507.08434)
   - `arXiv` [Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting](https://arxiv.org/abs/2507.07000)
