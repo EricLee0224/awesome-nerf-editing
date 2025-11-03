@@ -30,7 +30,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
   - `arXiv` [Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review](https://arxiv.org/abs/2402.11141)
   - `Eurographics 2022` [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849)
-  - `arXiv` [Advances in 3D Neural Stylization: A Survey](https://arxiv.org/abs/2311.18328)
+  - `IJCV 2025` [Advances in 3D Neural Stylization: A Survey](https://link.springer.com/article/10.1007/s11263-025-02403-9) | [[Project Page]](https://www.chenyingshu.com/advances_3d_neural_stylization/)
   - `Eurographics 2021` [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426)
   - `arXiv` [A Revisit of Shape Editing Techniques: from the Geometric to the Neural Viewpoint](https://arxiv.org/abs/2103.01694)
   - `arXiv` [Text-guided Image-and-Shape Editing and Generation: A Short Survey](https://arxiv.org/abs/2304.09244)
