@@ -43,7 +43,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 [Latest Update: 2025/11/30☕]
 + **2026**
-  - `SIGGRAPH Asia 2025` [Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation](https://arxiv.org/abs/2511.19542) | [[Code]](https://github.com/kjae0/SpLap)
+  - `3DV 2026` [Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation](https://arxiv.org/abs/2511.19542) | [[Code]](https://github.com/kjae0/SpLap)
   - `WACV 2026` [Inpaint360GS: Efficient Object-Aware 3D Inpainting via Gaussian Splatting for 360° Scenes](https://arxiv.org/abs/2511.06457) | [[Project Page]](https://dfki-av.github.io/inpaint360gs/)
   - `AAAI 2026` [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://arxiv.org/abs/2511.20354) | [[Code]](https://github.com/haolianghan/GS-Checker)
 + **2025**
