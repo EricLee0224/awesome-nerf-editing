@@ -41,13 +41,17 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2025/11/30☕]
+[Latest Update: 2025/12/13☕]
 + **2026**
   - `3DV 2026` [Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation](https://arxiv.org/abs/2511.19542) | [[Code]](https://github.com/kjae0/SpLap)
+  - `WACV 2026` [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168) | [[Project Page]](https://tianhaoxie.github.io/project/gs_deform/)
   - `WACV 2026` [Inpaint360GS: Efficient Object-Aware 3D Inpainting via Gaussian Splatting for 360° Scenes](https://arxiv.org/abs/2511.06457) | [[Project Page]](https://dfki-av.github.io/inpaint360gs/)
+  - `AAAI 2026` [Fast Multi-view Consistent 3D Editing with Video Priors](https://arxiv.org/abs/2511.23172) | [[Project Page]](https://mt-cly.github.io/ViP3DE/)
   - `AAAI 2026` [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://arxiv.org/abs/2511.20354) | [[Code]](https://github.com/haolianghan/GS-Checker)
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
+  - `SIGGRAPH Asia 2025` [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572) | [[Project Page]](https://shuyizhou495.github.io/DeMapGS-project-page/)
+  - `SIGGRAPH Asia 2025` [Editable Physically-based Reflections in Raytraced Gaussian Radiance Fields](https://repo-sam.inria.fr/nerphys/editable-gaussian-reflections/content/paper.pdf) | [[Project Page]](https://repo-sam.inria.fr/nerphys/editable-gaussian-reflections/)
   - `NeurIPS 2025` [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [[Project Page]](https://nickisdope.github.io/Styl3R)
   - `NeurIPS 2025` [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://arxiv.org/abs/2505.22854) | [[Project Page]](https://kornelhowil.github.io/CLIPGaussian)
   - `NeurIPS 2025` [InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model](https://arxiv.org/abs/2506.10980) | [[Project Page]](https://dhmbb2.github.io/InstaInpaint_page/)
@@ -125,6 +129,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GaussianMorphing: Mesh-Guided 3D Gaussians for Semantic-Aware Object Morphing](https://arxiv.org/abs/2510.02034) | [[Project Page]](https://baiyunshu.github.io/GAUSSIANMORPHING.github.io/)
   - `arXiv` [SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting](https://arxiv.org/abs/2510.02469) | [[Project Page]](https://sungyeonparkk.github.io/simsplat/)
   - `arXiv` [InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization](https://arxiv.org/abs/2511.14899) | [[Project Page]](https://danielgilo.github.io/instruct-mix2mix/)
+  - `arXiv` [3D-Consistent Multi-View Editing by Diffusion Guidance](https://arxiv.org/abs/2511.22228) | [[Project Page]](https://3d-consistent-editing.github.io/)
+  - `arXiv` [GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Spaces](https://arxiv.org/abs/2512.03683) | [[Project Page]](https://gaussianblender.github.io/)
+  - `arXiv` [SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training](https://arxiv.org/abs/2512.05354) | [[Project Page]](https://y-zheng18.github.io/SplatPainter/)
   - `arXiv` [Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455) | [[Code]](https://github.com/HanzhouLiu/StylOS)
   - `arXiv` [GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality](https://arxiv.org/abs/2510.11878) | [[Code]](https://github.com/Anastasiya999/GS-Verse)
   - `arXiv` [EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](https://arxiv.org/abs/2510.13652) | [[Code]](https://github.com/UNITES-Lab/EditCast3D)
@@ -152,6 +159,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts](https://arxiv.org/abs/2509.26055)
   - `arXiv` [4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing](https://arxiv.org/abs/2510.01991)
   - `arXiv` [GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections](https://arxiv.org/abs/2507.20512)
+  - `arXiv` [CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2504.12800)
 + **2024**
   - `NeurIPS 2024` [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447) | [[Project Page]](https://wild-gaussians.github.io/)
   - `NeurIPS 2024` [MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing](https://arxiv.org/abs/2408.08000) | [[Project Page]](https://ewrfcas.github.io/MVInpainter/)
@@ -299,7 +307,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting](https://arxiv.org/abs/2410.05259) | [[Project Page]](https://yukangcao.github.io/GS-VTON/)
   - `arXiv` [Diffusion-Based Attention Warping for Consistent 3D Scene Editing](https://arxiv.org/abs/2412.07984) | [[Project Page]](https://attention-warp.github.io/)
   - `arXiv` [3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](https://arxiv.org/abs/2412.01583) | [[Project Page]](https://ziyangyan.github.io/3DSceneEditor/)
-  - `arXiv` [Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168) | [[Project Page]](https://tianhaoxie.github.io/project/gs_deform/)
   - `arXiv` [NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation](https://arxiv.org/abs/2411.15551) | [[Code]](https://github.com/Arcxml/GB-NeRF)
   - `arXiv` [Neural Surface Priors for Editable Gaussian Splatting](https://arxiv.org/abs/2411.18311) | [[Code]](https://github.com/WJakubowska/NeuralSurfacePriors)
   - `arXiv` [Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion](https://arxiv.org/abs/2412.02075) | [[Code]](https://github.com/liuliu3dv/GOC)
