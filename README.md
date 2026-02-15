@@ -12,8 +12,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 🚨 Note: Please be aware that the acceptance status of papers might not be up-to-date.  
 💬 Feel free to submit a Pull Request if you find any missing papers!
 
-## 🔥News
-  - `2023.08.21` We start to maintain this awesome list.
+<!-- ## 🔥News
+  - `2023.08.21` We start to maintain this awesome list. -->
 ## Table of Contents
 - [Seminal Papers](#seminal-papers)
 - [Related Surveys](#related-surveys)
@@ -41,7 +41,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2026/02/01☕]
+[Latest Update: 2026/02/15☕]
 + **2026**
   - `3DV 2026` [VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space](https://arxiv.org/abs/2508.19247) | [[Project Page]](https://huanngzh.github.io/VoxHammer-Page/)
   - `3DV 2026` [Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation](https://arxiv.org/abs/2511.19542) | [[Code]](https://github.com/kjae0/SpLap)
@@ -50,11 +50,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `WACV 2026` [3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting](https://arxiv.org/abs/2412.01583) | [[Project Page]](https://ziyangyan.github.io/3DSceneEditor/)
   - `ICLR 2026` [Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455) | [[Project Page]](https://hanzhouliu.github.io/Stylos/)
   - `ICLR 2026` [Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization](https://arxiv.org/abs/2508.14811) | [[Project Page]](https://aim-uofa.github.io/Tinker)
+  - `ICLR 2026` [Variation-aware Flexible 3D Gaussian Editing](https://arxiv.org/abs/2602.11638)
+  - `Eurographics 2026` [LeafFit: Plant Assets Creation from 3D Gaussian Splatting](https://arxiv.org/abs/2602.11577) | [[Project Page]](https://netbeifeng.github.io/LeafFit/)
   - `AAAI 2026` [Fast Multi-view Consistent 3D Editing with Video Priors](https://arxiv.org/abs/2511.23172) | [[Project Page]](https://mt-cly.github.io/ViP3DE/)
   - `AAAI 2026` [GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [[Project Page]](https://vpx-ecnu.github.io/GT2-GS-website/)
   - `AAAI 2026` [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://arxiv.org/abs/2511.20354) | [[Code]](https://github.com/haolianghan/GS-Checker)
   - `IJCV 2026` [FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting](https://arxiv.org/abs/2503.09635) | [[Project Page]](https://kim-geonu.github.io/FPGS/)
   - `arXiv` [Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting](https://arxiv.org/abs/2601.10075) | [[Code]](https://github.com/zhendong-zdw/TLVG-GS)
+  - `arXiv` [AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2602.04043) | [[Code]](https://github.com/joaxkal/AnyStyle)
   - `arXiv` [DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](https://arxiv.org/abs/2601.19717)
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
