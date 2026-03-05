@@ -106,6 +106,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2025` [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371)
   - `CVPR 2025` [3D Gaussian Inpainting with Depth-Guided Cross-View Consistency](https://arxiv.org/abs/2502.11801)
   - `CVPR 2025` [DaCapo: Score Distillation as Stacked Bridge for Fast and High-quality 3D Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_DaCapo_Score_Distillation_as_Stacked_Bridge_for_Fast_and_High-quality_CVPR_2025_paper.html)
+  - `CG Forum 2025` [Splatshop: Efficiently Editing Large Gaussian Splat Models](https://dx.doi.org/10.1111/cgf.70214) | [[Project Page]](https://publications.graphics.tudelft.nl/papers/822)
   - `ICRA 2025` [RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning](https://arxiv.org/abs/2409.20291) | [[Code]](https://github.com/FurryGreen/RL-GS-Bridge)
   - `RSS 2025` [Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation](https://arxiv.org/abs/2504.13175) | [[Project Page]](https://yangsizhe.github.io/robosplat/)
   - `IROS 2025` [CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting](https://arxiv.org/abs/2507.18473) | [[Code]](https://github.com/SainingZhang/CRUISE)
