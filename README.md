@@ -40,12 +40,14 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2026/05/16☕]
+[Latest Update: 2026/05/26☕]
 + **2026**
   - `CVPR 2026` [Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass](https://arxiv.org/abs/2603.17841) | [[Project Page]](https://mt-cly.github.io/Omni3DEdit_ProjectPage/)
   - `CVPR 2026` [InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization](https://arxiv.org/abs/2511.14899) | [[Project Page]](https://danielgilo.github.io/instruct-mix2mix/)
   - `CVPR 2026` [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | [[Project Page]](https://junliao2025.github.io/Catalyst4D-ProjectPage/)
+  - `CVPR 2026` [REALM: An MLLM-Agent Framework for Open-World Reasoning Segmentation and Editing on 3D Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [[Project Page]](https://changyueshi.github.io/REALM/)
   - `CVPR 2026` [Instant Colorization of Gaussian Splats](https://arxiv.org/abs/2604.17155) | [[Code]](https://github.com/dlieber01/Instant-Colorization-of-Gaussian-Splats)
+  - `CVPR 2026` [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_LaRP_Efficient_Multi-View_Inpainting_with_Latent_Reprojection_Priors_CVPR_2026_paper.html)
   - `CVPRW 2026` [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
   - `CVPRW 2026` [3D Gaussian Inverse Rendering with Approximated Global Illumination](https://arxiv.org/abs/2504.01358) | [[Project Page]](https://wuzirui.github.io/gs-ssr)
   - `3DV 2026` [VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space](https://arxiv.org/abs/2508.19247) | [[Project Page]](https://huanngzh.github.io/VoxHammer-Page/)
@@ -72,6 +74,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `TVCG 2026` [Taking Language Embedded 3D Gaussian Splatting into the Wild](https://arxiv.org/abs/2507.19830) | [[Project Page]](https://yuzewang1998.github.io/takinglangsplatw/)
   - `TVCG 2026` [CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion](https://arxiv.org/abs/2508.11603) | [[Code]](https://github.com/czvvd/CoreEditor)
   - `TMLR 2026` [Gaga: Group Any Gaussians via 3D-aware Memory Bank](https://arxiv.org/abs/2404.07977) | [[Project Page]](https://www.gaga.gallery/)
+  - `ICIP 2026` [Robust Prior-Guided Segmentation for Editable 3D Gaussian Splatting](https://arxiv.org/abs/2605.16065)
   - `ICASSP 2026` [ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior](https://arxiv.org/abs/2504.12788)
   - `VISAPP 2026` [R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild](https://arxiv.org/abs/2603.02801)
   - `ACM TOMM 2026` [SVGS: Single-View to 3D Object Editing via Gaussian Splatting](https://arxiv.org/abs/2603.28126) | [[Project Page]](https://amateurc.github.io/svgs.github.io/)
@@ -90,6 +93,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [View-Consistent 3D Scene Editing via Dual-Path Structural Correspondense and Semantic Continuity](https://arxiv.org/abs/2604.17801)
   - `arXiv` [FluSplat: Sparse-View 3D Editing without Test-Time Optimization](https://arxiv.org/abs/2604.20038)
   - `arXiv` [GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting](https://arxiv.org/abs/2605.12919)
+  - `arXiv` [3DEditSafe: Defending 3D Editing Pipelines from Unsafe Generation](https://arxiv.org/abs/2605.15398)
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
   - `SIGGRAPH Asia 2025` [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572) | [[Project Page]](https://shuyizhou495.github.io/DeMapGS-project-page/)
@@ -114,7 +118,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICCV 2025` [PhysSplat: Efficient Physics Simulation for 3D Scenes via MLLM-Guided Gaussian Splatting](https://arxiv.org/abs/2411.12789) | [[Project Page]](https://sim-gs.github.io/)
   - `ICCV 2025` [Gaussian Splatting with Discretized SDF for Relightable Assets](https://arxiv.org/abs/2507.15629) | [[Project Page]](https://nk-cs-zzl.github.io/projects/dsdf/index.html)
   - `ICCV 2025` [Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency](https://arxiv.org/abs/2510.10993) | [[Project Page]](https://pa-inpainter.github.io/)
-  - `ICCV 2025` [Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/html/Zhao_Tune-Your-Style_Intensity-tunable_3D_Style_Transfer_with_Gaussian_Splatting_ICCV_2025_paper.html) | [[Project Page]](https://zhao-yian.github.io/TuneStyle/)
+  - `ICCV 2025` [Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting](https://arxiv.org/abs/2602.00618) | [[Project Page]](https://zhao-yian.github.io/TuneStyle/)
   - `ICCV 2025` [Stable Score Distillation](https://arxiv.org/abs/2507.09168) | [[Code]](https://github.com/Alex-Zhu1/SSD)
   - `ICCV 2025` [A3GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/html/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.html)
   - `ICCV 2025` [SU-RGS: Relightable 3D Gaussian Splatting from Sparse Views under Unconstrained Illuminations](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_SU-RGS_Relightable_3D_Gaussian_Splatting_from_Sparse_Views_under_Unconstrained_ICCV_2025_paper.html)
