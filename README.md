@@ -40,14 +40,16 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2026/05/26☕]
+[Latest Update: 2026/06/03☕]
 + **2026**
   - `CVPR 2026` [Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass](https://arxiv.org/abs/2603.17841) | [[Project Page]](https://mt-cly.github.io/Omni3DEdit_ProjectPage/)
   - `CVPR 2026` [InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization](https://arxiv.org/abs/2511.14899) | [[Project Page]](https://danielgilo.github.io/instruct-mix2mix/)
   - `CVPR 2026` [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | [[Project Page]](https://junliao2025.github.io/Catalyst4D-ProjectPage/)
   - `CVPR 2026` [REALM: An MLLM-Agent Framework for Open-World Reasoning Segmentation and Editing on 3D Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [[Project Page]](https://changyueshi.github.io/REALM/)
-  - `CVPR 2026` [Instant Colorization of Gaussian Splats](https://arxiv.org/abs/2604.17155) | [[Code]](https://github.com/dlieber01/Instant-Colorization-of-Gaussian-Splats)
   - `CVPR 2026` [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_LaRP_Efficient_Multi-View_Inpainting_with_Latent_Reprojection_Priors_CVPR_2026_paper.html)
+  - `CVPR 2026 Findings` [Instant Colorization of Gaussian Splats](https://arxiv.org/abs/2604.17155) | [[Code]](https://github.com/dlieber01/Instant-Colorization-of-Gaussian-Splats)
+  - `CVPR 2026 Findings` [GaussFiller: Unleashing VLM-Expert Guidance for 3D Scene Completion with 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2026F/html/Ping_GaussFiller_Unleashing_VLM-Expert_Guidance_for_3D_Scene_Completion_with_3D_CVPRF_2026_paper.html) | [[Project Page]](https://yhpffy.github.io/GaussFiller/)
+  - `CVPR 2026 Findings` [Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats](https://openaccess.thecvf.com/content/CVPR2026F/html/Liu_Scene-Level_Heterogeneous_Physics_Simulation_with_3D_Gaussian_Splats_CVPRF_2026_paper.html) | [[Project Page]](https://visual-ai.github.io/raf/)
   - `CVPRW 2026` [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
   - `CVPRW 2026` [3D Gaussian Inverse Rendering with Approximated Global Illumination](https://arxiv.org/abs/2504.01358) | [[Project Page]](https://wuzirui.github.io/gs-ssr)
   - `3DV 2026` [VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space](https://arxiv.org/abs/2508.19247) | [[Project Page]](https://huanngzh.github.io/VoxHammer-Page/)
@@ -80,6 +82,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ACM TOMM 2026` [SVGS: Single-View to 3D Object Editing via Gaussian Splatting](https://arxiv.org/abs/2603.28126) | [[Project Page]](https://amateurc.github.io/svgs.github.io/)
   - `IEEE TCSVT 2026` [Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting](https://arxiv.org/abs/2403.15624) | [[Project Page]](https://semantic-gaussians.github.io/)
   - `IEEE TCSVT 2026` [4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing](https://arxiv.org/abs/2510.01991)
+  - `IEEE IVMSP 2026` [Boosting Zero-Shot 3D Style Transfer with 2D Pre-trained Priors](https://arxiv.org/abs/2605.30065)
   - `arXiv` [IRIS: Intersection-aware Ray-based Implicit Editable Scenes](https://arxiv.org/abs/2603.15368) | [[Project Page]](https://gwilczynski95.github.io/iris/)
   - `arXiv` [AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2602.04043) | [[Project Page]](https://anystyle3dgs.github.io/)
   - `arXiv` [Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting](https://arxiv.org/abs/2601.10075) | [[Code]](https://github.com/zhendong-zdw/TLVG-GS)
@@ -94,6 +97,8 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [FluSplat: Sparse-View 3D Editing without Test-Time Optimization](https://arxiv.org/abs/2604.20038)
   - `arXiv` [GuardMarkGS: Unified Ownership Tracing and Edit Deterrence for 3D Gaussian Splatting](https://arxiv.org/abs/2605.12919)
   - `arXiv` [3DEditSafe: Defending 3D Editing Pipelines from Unsafe Generation](https://arxiv.org/abs/2605.15398)
+  - `arXiv` [Physics-Aware 3D Gaussian Editing for Driving Scene Generation](https://arxiv.org/abs/2605.25373)
+  - `arXiv` [TASE: Truncation-Aware Semantic Embeddings for 3D Scene Understanding and Editing](https://arxiv.org/abs/2606.03314)
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
   - `SIGGRAPH Asia 2025` [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572) | [[Project Page]](https://shuyizhou495.github.io/DeMapGS-project-page/)
