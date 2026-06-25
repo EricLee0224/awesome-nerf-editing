@@ -40,10 +40,12 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2026/06/20☕]
+[Latest Update: 2026/06/25☕]
 + **2026**
   - `ECCV 2026` [SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training](https://arxiv.org/abs/2512.05354) | [[Project Page]](https://y-zheng18.github.io/SplatPainter/)
   - `ECCV 2026` [IRIS: Intersection-aware Ray-based Implicit Editable Scenes](https://arxiv.org/abs/2603.15368) | [[Project Page]](https://gwilczynski95.github.io/iris/)
+  - `ECCV 2026` [MLP Splatting: Object-Centric Neural Fields](https://arxiv.org/abs/2606.03877) | [[Project Page]](https://www.shinjeongkim.com/mlp-splatting/)
+  - `ECCV 2026` [Geometry-Aware Style Transfer in 3D Gaussian Splatting](https://arxiv.org/abs/2606.24144) | [[Code]](https://github.com/oweixx/gast)
   - `CVPR 2026` [Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass](https://arxiv.org/abs/2603.17841) | [[Project Page]](https://mt-cly.github.io/Omni3DEdit_ProjectPage/)
   - `CVPR 2026` [InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization](https://arxiv.org/abs/2511.14899) | [[Project Page]](https://danielgilo.github.io/instruct-mix2mix/)
   - `CVPR 2026` [Catalyst4D: High-Fidelity 3D-to-4D Scene Editing via Dynamic Propagation](https://arxiv.org/abs/2603.12766) | [[Project Page]](https://junliao2025.github.io/Catalyst4D-ProjectPage/)
@@ -52,7 +54,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `CVPR 2026` [LaRP: Efficient Multi-View Inpainting with Latent Reprojection Priors](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_LaRP_Efficient_Multi-View_Inpainting_with_Latent_Reprojection_Priors_CVPR_2026_paper.html)
   - `CVPR 2026 Findings` [Instant Colorization of Gaussian Splats](https://arxiv.org/abs/2604.17155) | [[Code]](https://github.com/dlieber01/Instant-Colorization-of-Gaussian-Splats)
   - `CVPR 2026 Findings` [GaussFiller: Unleashing VLM-Expert Guidance for 3D Scene Completion with 3D Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2026F/html/Ping_GaussFiller_Unleashing_VLM-Expert_Guidance_for_3D_Scene_Completion_with_3D_CVPRF_2026_paper.html) | [[Project Page]](https://yhpffy.github.io/GaussFiller/)
-  - `CVPR 2026 Findings` [Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats](https://openaccess.thecvf.com/content/CVPR2026F/html/Liu_Scene-Level_Heterogeneous_Physics_Simulation_with_3D_Gaussian_Splats_CVPRF_2026_paper.html) | [[Project Page]](https://visual-ai.github.io/raf/)
+  - `CVPR 2026 Findings` [Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats](https://arxiv.org/abs/2606.21753) | [[Project Page]](https://visual-ai.github.io/raf/)
   - `CVPRW 2026` [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](https://arxiv.org/abs/2404.11613) | [[Project Page]](https://johanan528.github.io/Infusion/)
   - `CVPRW 2026` [3D Gaussian Inverse Rendering with Approximated Global Illumination](https://arxiv.org/abs/2504.01358) | [[Project Page]](https://wuzirui.github.io/gs-ssr)
   - `3DV 2026` [VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space](https://arxiv.org/abs/2508.19247) | [[Project Page]](https://huanngzh.github.io/VoxHammer-Page/)
@@ -65,7 +67,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICLR 2026` [Variation-aware Flexible 3D Gaussian Editing](https://arxiv.org/abs/2602.11638)
   - `ICML 2026` [GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning](https://arxiv.org/abs/2606.10612) | [[Project Page]](https://haolianghan.github.io/GaussTrace/)
   - `Eurographics 2026` [LeafFit: Plant Assets Creation from 3D Gaussian Splatting](https://arxiv.org/abs/2602.11577) | [[Project Page]](https://netbeifeng.github.io/LeafFit/)
-  - `CG Forum 2026` [Lighting-Consistent Object Transfer Across Radiance Fields](https://repo-sam.inria.fr/nerphys/dot3d/dot3d.pdf) | [[Project Page]](https://repo-sam.inria.fr/nerphys/dot3d/)
+  - `CG Forum 2026` [Lighting-Consistent Object Transfer Across Radiance Fields](https://arxiv.org/abs/2606.22481) | [[Project Page]](https://repo-sam.inria.fr/nerphys/dot3d/)
   - `AAAI 2026` [Fast Multi-view Consistent 3D Editing with Video Priors](https://arxiv.org/abs/2511.23172) | [[Project Page]](https://mt-cly.github.io/ViP3DE/)
   - `AAAI 2026` [GT^2-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [[Project Page]](https://vpx-ecnu.github.io/GT2-GS-website/)
   - `AAAI 2026` [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://arxiv.org/abs/2511.20354) | [[Code]](https://github.com/haolianghan/GS-Checker)
@@ -91,7 +93,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2602.04043) | [[Project Page]](https://anystyle3dgs.github.io/)
   - `arXiv` [GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes](https://arxiv.org/abs/2606.05142) | [[Project Page]](https://gem-nr.github.io/)
   - `arXiv` [TRON: Tracing Rays to Orchestrate a Neural Renderer for 3D Gaussian Reconstructions](https://arxiv.org/abs/2606.11314) | [[Project Page]](https://research.nvidia.com/labs/sil/projects/tron/)
-  - `arXiv` [MLP Splatting: Object-Centric Neural Fields](https://arxiv.org/abs/2606.03877) | [[Project Page]](https://www.shinjeongkim.com/mlp-splatting/)
   - `arXiv` [Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting](https://arxiv.org/abs/2601.10075) | [[Code]](https://github.com/zhendong-zdw/TLVG-GS)
   - `arXiv` [DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](https://arxiv.org/abs/2601.19717)
   - `arXiv` [Semantic-Guided 3D Gaussian Splatting for Transient Object Removal](https://arxiv.org/abs/2602.15516)
