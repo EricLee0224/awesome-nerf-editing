@@ -40,7 +40,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2026/07/25☕]
+[Latest Update: 2026/08/06☕]
 + **2026**
   - `ECCV 2026` [SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training](https://arxiv.org/abs/2512.05354) | [[Project Page]](https://y-zheng18.github.io/SplatPainter/)
   - `ECCV 2026` [IRIS: Intersection-aware Ray-based Implicit Editable Scenes](https://arxiv.org/abs/2603.15368) | [[Project Page]](https://gwilczynski95.github.io/iris/)
@@ -90,6 +90,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `TVCG 2026` [GSDeformer: Direct, Real-time and Extensible Cage-based Deformation for 3D Gaussian Splatting](https://arxiv.org/abs/2405.15491) | [[Project Page]](https://jhuangbu.github.io/gsdeformer/)
   - `TVCG 2026` [CoreEditor: Consistent 3D Editing via Correspondence-constrained Diffusion](https://arxiv.org/abs/2508.11603) | [[Code]](https://github.com/czvvd/CoreEditor)
   - `ACM MM 2026` [AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2602.04043) | [[Project Page]](https://anystyle3dgs.github.io/)
+  - `ACM MM 2026` [DreamStyle3D: Efficient 3D Stylized Asset Generation via Dual-Attention Disentanglement](https://arxiv.org/abs/2607.24721) | [[Project Page]](https://nkwangk.github.io/project/DreamStyle3D/)
   - `TMLR 2026` [Gaga: Group Any Gaussians via 3D-aware Memory Bank](https://arxiv.org/abs/2404.07977) | [[Project Page]](https://www.gaga.gallery/)
   - `TIP 2026` [SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition](https://arxiv.org/abs/2401.17857) | [[Code]](https://github.com/XuHu0529/SAGS)
   - `IROS 2026` [CubifyGS: Object-Centric 3D Gaussian Splatting for Lifelong Dynamic Scene Maintenance](https://arxiv.org/abs/2606.28720)
@@ -97,6 +98,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `ICASSP 2026` [ARAP-GS: Drag-driven As-Rigid-As-Possible 3D Gaussian Splatting Editing with Diffusion Prior](https://arxiv.org/abs/2504.12788)
   - `VISAPP 2026` [R3GW: Relightable 3D Gaussians for Outdoor Scenes in the Wild](https://arxiv.org/abs/2603.02801)
   - `ACM TOMM 2026` [SVGS: Single-View to 3D Object Editing via Gaussian Splatting](https://arxiv.org/abs/2603.28126) | [[Project Page]](https://amateurc.github.io/svgs.github.io/)
+  - `IEEE VIS 2026` [Super-Gaussian: Interactive Scene Editing for 3D Gaussian Splatting and NLI-Based Volume Visualization in Virtual Reality](https://arxiv.org/abs/2608.04475) | [[Project Page]](https://smin0136.github.io/super-gaussian-project/)
   - `IEEE TCSVT 2026` [Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting](https://arxiv.org/abs/2403.15624) | [[Project Page]](https://semantic-gaussians.github.io/)
   - `IEEE TCSVT 2026` [4DGS-Craft: Consistent and Interactive 4D Gaussian Splatting Editing](https://arxiv.org/abs/2510.01991)
   - `IEEE IVMSP 2026` [Boosting Zero-Shot 3D Style Transfer with 2D Pre-trained Priors](https://arxiv.org/abs/2605.30065)
@@ -124,6 +126,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X](https://arxiv.org/abs/2607.13654)
   - `arXiv` [Look Before You Edit: Attention-Guided Camera Placement and Multi-View Alignment for 3D Gaussian Splatting Editing](https://arxiv.org/abs/2607.19777)
   - `arXiv` [3D-GIMP: When 3D Gaussian Inpainting Meets PatchMatch](https://arxiv.org/abs/2607.20789)
+  - `arXiv` [FocusGS: Spatial Delta Layers for Local Repair and Deterministic Editing of Trained 3D Gaussian Assets](https://arxiv.org/abs/2607.28834)
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
   - `SIGGRAPH Asia 2025` [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572) | [[Project Page]](https://shuyizhou495.github.io/DeMapGS-project-page/)
