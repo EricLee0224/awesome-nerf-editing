@@ -42,6 +42,7 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 [Latest Update: 2026/08/20☕]
 + **2026**
+  - `ECCV 2026` [Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071) | [[Project Page]](https://edit3r.github.io/edit3r/)
   - `ECCV 2026` [SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training](https://arxiv.org/abs/2512.05354) | [[Project Page]](https://y-zheng18.github.io/SplatPainter/)
   - `ECCV 2026` [IRIS: Intersection-aware Ray-based Implicit Editable Scenes](https://arxiv.org/abs/2603.15368) | [[Project Page]](https://gwilczynski95.github.io/iris/)
   - `ECCV 2026` [MLP Splatting: Object-Centric Neural Fields](https://arxiv.org/abs/2606.03877) | [[Project Page]](https://www.shinjeongkim.com/mlp-splatting/)
@@ -233,7 +234,6 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [3D-Consistent Multi-View Editing by Diffusion Guidance](https://arxiv.org/abs/2511.22228) | [[Project Page]](https://3d-consistent-editing.github.io/)
   - `arXiv` [GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Spaces](https://arxiv.org/abs/2512.03683) | [[Project Page]](https://gaussianblender.github.io/)
   - `arXiv` [Feedforward 3D Editing via Text-Steerable Image-to-3D](https://arxiv.org/abs/2512.13678) | [[Project Page]](https://glab-caltech.github.io/steer3d/)
-  - `arXiv` [Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.05354) | [[Project Page]](https://edit3r.github.io/edit3r/)
   - `arXiv` [GS-Verse: Mesh-based Gaussian Splatting for Physics-aware Interaction in Virtual Reality](https://arxiv.org/abs/2510.11878) | [[Project Page]](https://anastasiya999.github.io/GS-Verse/)
   - `arXiv` [EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](https://arxiv.org/abs/2510.13652) | [[Code]](https://github.com/UNITES-Lab/EditCast3D)
   - `arXiv` [ZDySS - Zero-Shot Dynamic Scene Stylization using Gaussian Splatting](https://arxiv.org/abs/2501.03875)
