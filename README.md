@@ -41,8 +41,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
 
 ## 🗃️Recent Research 
 
-[Latest Update: 2026/10/01☕]
+[Latest Update: 2026/10/20☕]
 + **2026**
+  - `NeurIPS 2026` [Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement](https://arxiv.org/abs/2610.11857) | [[Project Page]](https://rorisis.github.io/FreeInpaint/)
   - `ECCV 2026` [Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071) | [[Project Page]](https://edit3r.github.io/edit3r/)
   - `ECCV 2026` [SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training](https://arxiv.org/abs/2512.05354) | [[Project Page]](https://y-zheng18.github.io/SplatPainter/)
   - `ECCV 2026` [IRIS: Intersection-aware Ray-based Implicit Editable Scenes](https://arxiv.org/abs/2603.15368) | [[Project Page]](https://gwilczynski95.github.io/iris/)
@@ -163,6 +164,9 @@ Welcome to **awesome-nerf-editing**🧙🏻‍♂️, your ultimate resource for
   - `arXiv` [GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation](https://arxiv.org/abs/2609.05127)
   - `arXiv` [What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation](https://arxiv.org/abs/2609.14899)
   - `arXiv` [WINGS: Reference-Free Gaussian Splatting Inpainting with 3D-Native Generative Priors](https://arxiv.org/abs/2609.37816)
+  - `arXiv` [View Matters: Keyframe-Guided Text-Driven 3D Gaussian Editing](https://arxiv.org/abs/2610.08179)
+  - `arXiv` [3DTexMOR: 3D Gaussian Multi-Object Removal via Texture-Space Inpainting](https://arxiv.org/abs/2610.11198)
+  - `arXiv` [RxGS: Relightable Gaussian Stylization via BRDF Decomposition](https://arxiv.org/abs/2610.25681)
 + **2025**
   - `SIGGRAPH Asia 2025` [GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](https://arxiv.org/abs/2509.19937) | [[Project Page]](https://shanzhaguoo.github.io/GS-RoadPatching/)
   - `SIGGRAPH Asia 2025` [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572) | [[Project Page]](https://shuyizhou495.github.io/DeMapGS-project-page/)
